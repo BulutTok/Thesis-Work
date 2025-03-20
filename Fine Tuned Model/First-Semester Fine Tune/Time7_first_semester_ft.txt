@@ -1,0 +1,64 @@
+Ask about courses (or type 'exit' to quit):  Can you clarify the meeting times and online session details for MIS504 – Databases for Analytics?
+
+Assistant: Certainly! Here are the details for MIS504 - Databases for Analytics:
+Instructor: Kevin Craig
+Instruction Method: Fully Online - Asynchronous
+Schedule Type: Lecture
+
+Scheduled Meeting Times:
+Section 801
+Date Range: Mar 07, 2025 - May 08, 2025
+Location: Online-Extension
+Section 802
+Date Range: Mar 10, 2025 - Apr 27, 2025
+Location: Online-Extension
+Section 803
+Date Range: Mar 10, 2025 - Apr 27, 2025
+Location: Online-Extension
+
+All students are expected to complete course content online asynchronously.
+
+
+Ask about courses (or type 'exit' to quit):  Is the in-person attendance required for any courses this semester, such as the CSC591 – Directed Independent Study, or are all sessions online?
+
+Assistant: For CSC591 - Directed Independent Study, in-person attendance is required. Here are the details:
+Instructor: Elham Ebrahimi / Laavanya Rachakonda
+Location: New Hanover County
+Schedule Type: Directed Individual Study
+
+All students are expected to attend and participate in person at the assigned day/time.
+
+
+Ask about courses (or type 'exit' to quit):  What should I do if I haven’t yet met the prerequisite for Network Programming (CSC544); are there alternative options or waivers available?
+
+Assistant: To enroll in CSC544 - Network Programming, you must meet the prerequisite of having completed CSC 500 and either CSC 344 or MIS 323. If you haven't met these prerequisites, consider the following steps:
+
+1. Contact the Instructor: Reach out to the instructor for permission to enroll if you believe your background or experience might suffice.
+
+2. Alternative Courses: Consider taking the prerequisite courses first if they are available this semester.
+
+3. Advisor Consultation: Speak with your academic advisor to explore any potential waivers or alternative pathways based on your situation.
+
+These steps will help ensure you can progress in your program while meeting necessary requirements.
+
+
+Ask about courses (or type 'exit' to quit):  Are there any registration or course schedule conflicts I should be aware of based on the provided term dates and section timings?
+
+Assistant: Based on the provided course schedule for Spring 2025, there are no apparent conflicts with the term dates and section timings. Here's a summary:
+CSC532 - Design and Analysis of Algorithms I: Meets TR, 5:00 pm - 6:15 pm
+CSC550 - Software Engineering: Meets TR, options at 12:30 pm - 1:45 pm or 3:30 pm - 4:45 pm
+MIS503 - Programming for Analytics: Fully online asynchronous
+MIS534 - Information Security Management: Meets MW, 5:00 pm - 6:15 pm
+
+Make sure to select sections that fit your personal schedule and avoid overlapping times. If you need further clarification or adjustments, consult your academic advisor.
+
+
+Ask about courses (or type 'exit' to quit):  Where can I access the most up-to-date course descriptions and contact information for faculty through the official course catalogue links?
+
+Assistant: You can access the most up-to-date course descriptions and faculty contact information through the official course catalogue links provided below:
+[MIS503 - Programming For Analytics](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+[MIS504 - Databases for Analytics](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+[CSC532 - Design and Analysis of Algorithms I](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=275985)
+[CSC550 - Software Engineering](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=275991)
+
+These links will take you to the detailed course pages where you can find additional information and contact details for instructors.

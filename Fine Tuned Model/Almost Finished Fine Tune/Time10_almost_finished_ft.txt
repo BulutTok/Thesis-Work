@@ -1,0 +1,167 @@
+Ask about courses (or type 'exit' to quit):  As an MScIS student, how can I confirm that my additional courses (like CSC 502 and CSC 592) fully satisfy the core competencies required by my major? 
+
+Assistant: To confirm that your additional courses like CSC 502 and CSC 592 satisfy the core competencies required by your major, follow these steps:
+
+Steps to Confirm Course Satisfaction
+
+1. Review Degree Audit:
+Check your degree audit report to see how these courses are applied towards your degree requirements.
+Look for any unmet conditions related to core competencies.
+
+2. Consult Academic Advisor:
+Schedule a meeting with your academic advisor, Devon Simmonds, to discuss how these courses fit into your overall academic plan.
+Discuss any concerns or clarifications needed regarding course applicability.
+
+3. Check Course Descriptions:
+Review the course descriptions of CSC 502 and CSC 592 to ensure they align with the learning outcomes and skills required by your major.
+
+4. Departmental Guidelines:
+Refer to any departmental guidelines or handbooks that outline the core competencies expected for your major.
+Ensure that the topics covered in these courses match those outlined competencies.
+
+5. Completion Status:
+Ensure you have completed or are in progress with all required courses for core competencies as per the curriculum structure.
+
+6. Feedback from Instructors:
+Reach out to instructors of CSC 502 and CSC 592 if you need more detailed information on how their courses contribute to meeting program objectives.
+
+Summary
+Utilize resources like degree audits, academic advising, course descriptions, and departmental guidelines.
+Engage actively with faculty members involved in teaching these courses for deeper insights.
+
+By following these steps, you'll be able to confirm whether CSC 502 and CSC 592 meet the necessary requirements for your MScIS program.
+
+
+Ask about courses (or type 'exit' to quit):  What impact do the credit hour restrictions for courses such as CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 have on my ability to pursue specialized topics within my field?
+
+Assistant: Impact of Credit Hour Restrictions
+
+The credit hour restrictions on courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 limit the number of credits you can apply towards your degree from these specific courses. Here's how this impacts your ability to pursue specialized topics:
+
+Considerations:
+
+1. Limited Credits for Specialization:
+You can only apply a maximum of 9 credit hours from these courses towards your degree. This means you need to carefully select which independent study or seminar topics will most benefit your specialization.
+
+2. Prioritizing Topics:
+Focus on choosing topics that align closely with your career goals and academic interests. Prioritize those that provide unique insights or skills not covered in other coursework.
+
+3. Balancing Core Requirements:
+Ensure that while pursuing specialized topics, you also meet all core requirements and do not exceed the allowed credits from these restricted categories.
+
+4. Advisory Support:
+Work closely with your advisor to strategically plan which courses will maximize both the breadth and depth of knowledge in your field.
+
+5. Exploring Other Opportunities:
+Consider other elective courses outside these restrictions that may offer additional specialized content relevant to your interests.
+
+Summary
+These restrictions require strategic planning to ensure you gain expertise in areas of interest without exceeding credit limits.
+Collaborate with advisors and faculty to tailor a curriculum that effectively balances specialization with required competencies.
+
+By navigating these restrictions wisely, you can still pursue meaningful specialization within the parameters set by your program.
+
+
+Ask about courses (or type 'exit' to quit):  For my research project in CSC 594, what specific milestones must I meet, and how will the defense process integrate with the overall MScIS curriculum?
+
+Assistant: Milestones for CSC 594 Research Project
+
+1. Project Proposal:
+Develop a detailed proposal outlining your research objectives, methodology, and expected outcomes.
+Get approval from your faculty advisor and graduate coordinator.
+
+2. Research and Analysis:
+Conduct your research according to the approved proposal.
+Regularly meet with your advisor for guidance and feedback.
+
+3. Draft Report Submission:
+Submit a draft of your research findings and analysis.
+Incorporate feedback from your advisor and peers.
+
+4. Final Report Submission:
+Complete a comprehensive final report that includes all aspects of your research project.
+Ensure it adheres to any formatting guidelines provided by the department.
+
+5. Oral Defense Preparation:
+Prepare a presentation summarizing your research, findings, and conclusions.
+Practice presenting to ensure clarity and confidence during the defense.
+
+6. Oral Defense:
+Successfully defend your research project in front of a committee.
+Be prepared to answer questions and discuss the implications of your work.
+
+Integration with MScIS Curriculum
+Skill Application: 
+  The research project allows you to apply theoretical knowledge gained throughout the program in a practical setting, demonstrating mastery of key concepts in computer science or information systems.
+Critical Thinking: 
+  The process enhances critical thinking, problem-solving skills, and the ability to conduct independent research—key competencies in the MScIS curriculum.
+Feedback Loop: 
+  Feedback from advisors during the project helps refine both technical skills and academic writing abilities, which are integral parts of the curriculum's learning objectives.
+
+Summary
+Complete milestones like proposal approval, draft submissions, final report submission, and oral defense preparation.
+Integrate this experience with broader curriculum goals by applying theoretical knowledge practically through critical thinking and problem-solving exercises.
+
+By successfully completing these milestones, you'll not only fulfill degree requirements but also enhance essential skills for future career opportunities in computer science or information systems.
+
+
+Ask about courses (or type 'exit' to quit):  With 33 credits completed and 43% degree progress, what should be my academic focus for the upcoming semester to efficiently meet the remaining graduation requirements?
+
+Assistant: Academic Focus for Upcoming Semester
+
+1. Complete Remaining Credits:
+You need 3 more credits to meet the 36-credit requirement. Enroll in a course that aligns with your interests and career goals.
+
+2. Research Project Completion:
+Focus on completing CSC 594, ensuring you meet all requirements such as the final project submission and successful defense.
+
+3. Graduation Requirements:
+Apply to graduate via SeaNet by the deadline.
+Ensure enrollment in the semester you plan to graduate.
+
+4. Thesis or Comprehensive Exam:
+If applicable, prepare for any thesis-related requirements such as draft submission, format approval, and defense.
+Alternatively, focus on passing the comprehensive oral exam if required.
+
+5. Consult Advisor:
+Meet with your advisor, Devon Simmonds, to ensure all requirements are being met and to discuss any potential challenges.
+
+Summary
+Enroll in a course that fulfills the remaining credit requirement.
+Prioritize completing your research project and defending it successfully.
+Meet administrative graduation requirements promptly.
+Use advisor meetings for strategic planning and addressing any concerns.
+
+By concentrating on these areas, you'll efficiently progress toward meeting all graduation criteria for your MScIS degree.
+
+
+Ask about courses (or type 'exit' to quit):  As a Non-Resident in the College of Science & Engineering, are there any particular administrative or course selection considerations that I should be aware of to ensure smooth progress toward graduation? 
+
+Assistant: Considerations for Non-Resident Students
+
+1. Course Selection:
+Prioritize courses that fulfill remaining credit requirements and align with your career goals.
+Ensure any selected courses fit within your degree's curriculum guidelines.
+
+2. Residency Requirements:
+Verify any residency-related stipulations in your program, such as minimum on-campus credit hours or specific course completions.
+
+3. Tuition and Fees:
+Be aware of any non-resident tuition differences and plan financially for the upcoming semester.
+
+4. Advising Sessions:
+Regularly consult with your advisor to ensure all academic requirements are being met and to receive guidance on course selection.
+
+5. Graduation Application:
+Apply to graduate by the deadline via SeaNet, ensuring all administrative steps are completed.
+
+6. Enrollment Status:
+Maintain full-time enrollment status if needed for financial aid or visa requirements, especially if you are an international student.
+
+Summary
+Focus on fulfilling credit requirements while considering residency implications.
+Manage financial planning for tuition differences.
+Utilize advising sessions for strategic academic planning.
+Complete all necessary administrative tasks like applying for graduation promptly.
+
+By keeping these considerations in mind, you'll maintain smooth progress toward graduation as a non-resident student in the College of Science & Engineering.

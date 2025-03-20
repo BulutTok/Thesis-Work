@@ -1,0 +1,152 @@
+o you want to upload a PDF file? (yes/no):  yes
+
+Ask about courses (or type 'exit' to quit):  As a new student, could you help me identify which core classes I should enroll in first and explain which courses are only offered during specific semesters?
+
+Assistant: Core Course Recommendations
+
+As a new student, you should focus on enrolling in the core courses required for your program. Based on the provided degree audit, here are the core courses you need to complete:
+
+1. CSC 532 - Design and Analysis of Algorithms I
+2. MIS 534 - Information Security Management
+3. CSC 544 - Network Programming
+4. CSC 550 - Software Engineering
+5. MIS 555 - Database Management Systems
+6. MIS 565 - Analysis, Modeling and Design
+
+Course Offerings
+
+From the course data available, some courses have specific scheduled offerings:
+CSC 532: Offered in Spring 2025
+MIS 534: Offered in Spring 2025
+For other courses like CSC 544, CSC 550, MIS 555, and MIS 565, there is no specific semester information available in the current dataset.
+
+Actionable Steps
+
+1. Enroll in Available Courses:
+Since CSC 532 and MIS 534 are offered in Spring 2025, consider enrolling in these courses if they fit into your schedule.
+
+2. Plan for Future Semesters:
+Monitor upcoming course schedules for CSC 544, CSC 550, MIS 555, and MIS 565 to ensure timely enrollment when they become available.
+
+3. Consult with Advisor:
+Regularly check with your academic advisor to confirm course availability as it may change or additional sections might open up.
+
+Conclusion
+
+Start with CSC 532 and MIS 534 this spring since they are currently scheduled. Keep an eye out for announcements regarding other core classes or consult with your advisor to stay updated on their offerings.
+
+
+
+Ask about courses (or type 'exit' to quit):  I understand that to be considered full-time, I need to register for at least 9 but no more than 15 credit hours. How can I ensure my planned schedule meets this requirement?
+
+Assistant: Full-Time Enrollment Requirements
+
+To be considered a full-time student, you need to register for at least 9 credit hours. Here's how you can ensure your schedule meets this requirement:
+
+Current Course Options
+
+1. CSC 532 - Design and Analysis of Algorithms I (3 credits)
+2. MIS 534 - Information Security Management (3 credits)
+
+These two courses together will give you 6 credit hours.
+
+Additional Courses to Consider
+
+To reach the full-time status of at least 9 credit hours, consider adding another course:
+CSC 502 - Machine Learning Fundamentals (3 credits): Offered in Spring 2025
+BAN500 - Descriptive Analytics (3 credits): Available online asynchronously in Spring 2025
+
+Actionable Steps
+
+1. Register for CSC 532 and MIS 534: These are core requirements and should be prioritized.
+   
+2. Choose an Additional Course:
+Select from CSC 502 or BAN500 to meet the minimum requirement of 9 credit hours.
+
+3. Consult with Advisor: Confirm that these courses align with your academic plan and check if any additional options become available.
+
+Conclusion
+
+By enrolling in CSC 532, MIS 534, and one more course like CSC 502 or BAN500, you'll meet the full-time enrollment criteria for the semester.
+
+
+Ask about courses (or type 'exit' to quit):  As an international student, I must complete at least 6 hours of in-person courses to satisfy visa requirements. Can you clarify how this rule applies if I mix in online classes?
+
+Assistant: International Student Enrollment Requirements
+
+As an international student, you need to take at least 9 credit hours in total, with a minimum of 6 credit hours from in-person classes. Here's how you can plan your schedule:
+
+In-Person Course Options
+CSC 532 - Design and Analysis of Algorithms I: Offered in-person in Spring 2025
+MIS 534 - Information Security Management: Offered in-person in Spring 2025
+
+These courses together provide you with 6 credit hours of in-person instruction.
+
+Online Course Options
+
+You can then add an online course to reach the full-time status:
+BAN500 - Descriptive Analytics (3 credits): Available online asynchronously
+CSC 502 - Machine Learning Fundamentals (3 credits): Consider if it fits into your schedule
+
+Actionable Steps
+
+1. Enroll in CSC 532 and MIS 534: These will fulfill the in-person requirement.
+   
+2. Add an Online Course:
+Choose from BAN500 or another suitable online course to reach at least 9 total credit hours.
+
+3. Check Compliance: Regularly verify with your advisor or the international office to ensure compliance with visa requirements.
+
+For more information on full-time status, refer to [UNCW Full-Time Status Requirements](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+Conclusion
+
+By combining CSC 532 and MIS 534 for your in-person requirement, and adding an online course like BAN500, you'll meet both the visa and full-time enrollment criteria.
+
+
+Ask about courses (or type 'exit' to quit):  If I'm not taking a regular course this semester and need to focus on my capstone, what are the steps for registering under “Continuous Enrollment” to maintain my full-time status?
+
+Assistant: To maintain your full-time status while focusing on your capstone, you should register for "Continuous Enrollment." Here are the steps to follow:
+
+Steps for Continuous Enrollment
+
+1. Visit the Graduate School Forms Page:
+Go to [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) to access the necessary forms.
+
+2. Complete the Continuous Enrollment Form:
+Fill out the form to request continuous enrollment. This is essential if you've completed all course work but need time for your capstone or other exit requirements.
+
+3. Submit the Form:
+Follow instructions on how to submit the form, either online or in person, as specified by the Graduate School.
+
+4. Register for Continuous Enrollment:
+Once approved, enroll in MIS600 or CSC600 (Continuous Enrollment) through your student portal.
+
+5. Consult with Advisor:
+Ensure that this option aligns with your academic and visa requirements by discussing it with your advisor.
+
+Conclusion
+
+By registering under continuous enrollment, you can focus on completing your capstone while maintaining full-time status. Make sure to complete and submit all necessary forms promptly.
+
+
+
+Ask about courses (or type 'exit' to quit):  Can you explain the recommended distribution of capstone credit hours—specifically, how many should be registered for during the proposal phase and how many during the final completion and defense phase?
+
+Assistant: Capstone Credit Hour Distribution
+
+The typical approach for distributing capstone credit hours is as follows:
+
+1. Proposal Phase:
+Register for 3 credit hours during the semester you work on your capstone proposal.
+
+2. Completion and Defense Phase:
+Register for an additional 3 credit hours in the following semester to complete and defend your capstone project.
+
+Actionable Steps
+First Semester (Proposal): Enroll in 3 capstone credit hours to focus on developing your proposal.
+Second Semester (Completion/Defense): Enroll in another 3 credit hours to finalize and defend your project.
+
+Conclusion
+
+This distribution ensures a balanced workload across two semesters, allowing you adequate time for both preparation and completion of your capstone project.

@@ -1,0 +1,88 @@
+Ask about courses (or type 'exit' to quit):  What prerequisites does CSC 532: Design and Analysis of Algorithms I require, and are there any preparatory courses you recommend before enrolling?
+
+Assistant: Prerequisites for CSC 532: Design and Analysis of Algorithms I
+Prerequisite Course: CSC 500
+
+Recommendations Before Enrolling
+
+1. Complete CSC 500: Ensure you have taken CSC 500, as it is a prerequisite.
+2. Review Core Concepts:
+Object-oriented programming
+Data structures
+Algorithm design and analysis
+3. Brush Up on Mathematics:
+Discrete mathematics
+Probability and statistics
+
+These preparatory steps will help ensure you are well-prepared for the course material in CSC 532.
+
+
+Ask about courses (or type 'exit' to quit):  Could you clarify the prerequisites for MIS 534: Information Security Management and let me know if my previous coursework meets them?
+
+Assistant: Prerequisites for MIS 534: Information Security Management
+Required Courses: BUS 500 and either CSC 344 or MIS 323
+
+Evaluation of Your Coursework
+
+1. Check Completion of:
+BUS 500
+CSC 344 or MIS 323
+
+If you have completed any of these courses, you meet the prerequisites for MIS 534. If not, consider enrolling in the necessary prerequisite courses first.
+
+
+Ask about courses (or type 'exit' to quit):  What academic support resources or advising services are available at UNCW to help me navigate my degree plan and ensure I meet graduation milestones?
+
+Assistant: Academic Support Resources at UNCW
+
+1. Academic Advising:
+Schedule regular meetings with your academic advisor to review your degree plan and ensure you’re on track for graduation.
+
+2. Career Center:
+Offers career counseling, resume workshops, and job search assistance.
+
+3. Writing Center:
+Provides support for writing assignments across all disciplines.
+
+4. Tutoring Services:
+Available for various subjects to help reinforce course material.
+
+5. Library Resources:
+Access to research databases, study spaces, and librarian assistance.
+
+6. Graduate School Office:
+Assistance with thesis requirements, graduation applications, and continuous enrollment guidance.
+
+Utilizing these resources can help you effectively navigate your academic journey and meet all necessary milestones for graduation.
+
+
+Ask about courses (or type 'exit' to quit):  If I need to retake a course to meet degree requirements, what is the process and how might this affect my credit accumulation and GPA?
+
+Assistant: Process for Retaking a Course
+
+1. Consult Your Advisor:
+Discuss your plan to retake the course and how it fits into your degree requirements.
+
+2. Register for the Course:
+Follow the standard registration process during the enrollment period.
+
+3. Check Repeat Policy:
+Ensure you understand the university’s policy on repeating courses, including any limits on repeatable hours.
+
+Impact on Credit Accumulation and GPA
+Credits:
+You will only earn credit once, even if you retake the course.
+GPA Calculation:
+The new grade will replace the old one in your GPA calculation, potentially improving your GPA.
+Degree Progress:
+Retaking may delay progress if it's a prerequisite for other courses or affects your ability to meet graduation timelines.
+
+Make sure to review UNCW's specific policies regarding course repeats with an advisor to understand fully how it applies to your situation.
+
+
+Ask about courses (or type 'exit' to quit):  Could you clarify the prerequisites for CSC 517 and let me know if my previous coursework meets them?
+
+Assistant: Prerequisites for CSC 517: Symbolic Artificial Intelligence
+Prerequisite Courses: None
+
+Since CSC 517 does not have any prerequisite courses, you are eligible to enroll based on your current coursework.

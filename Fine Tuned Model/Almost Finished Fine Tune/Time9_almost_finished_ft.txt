@@ -1,0 +1,186 @@
+Ask about courses (or type 'exit' to quit):  What are my options for earning the remaining 3 credits, and how might choosing an additional course versus a specific research project affect my workload and timeline?
+
+Assistant: Evaluation of Current Academic Status
+Credits Required: 36
+Credits Completed: 33
+Remaining Credits Needed: 3
+GPA: 3.778
+
+Options for Earning Remaining Credits
+
+1. Course Enrollment:
+You can choose a course from CSC 501:598 or MIS 500:598, excluding CSC 594 and MIS 594.
+Consider the following courses that fit within your program:
+CSC515 - Artificial Intelligence
+CSC517 - Symbolic Artificial Intelligence
+MIS503 - Programming For Analytics
+
+2. Research Project or Thesis:
+Complete the research project (CSC/MIS 594) by defending it successfully.
+Alternatively, pursue a thesis with requirements like comprehensive oral exams and submission of final documents.
+
+Impact on Workload and Timeline
+
+Choosing an Additional Course:
+Workload: Typically involves attending lectures, completing assignments, and taking exams.
+Timeline: Likely to fit within a single semester, depending on course offerings and schedule.
+
+Completing the Research Project or Thesis:
+Workload: Involves intensive research work, regular meetings with advisors, and writing a substantial report or thesis.
+Timeline: May extend over multiple semesters if not already in progress. Requires successful defense or submission of thesis-related documents.
+
+Recommendations
+If you prefer structured coursework with clear deadlines and want to complete your degree faster, enrolling in an additional course might be preferable.
+If you enjoy research and have already made significant progress on your project/thesis, focusing on completing this requirement could provide more depth to your academic experience.
+
+Conclusion
+
+Consider your personal preferences for workload management and timeline goals. Since you are already working on a research project (CSC/MIS 594), it may be efficient to focus on its completion if you are close to defending it. Otherwise, selecting a suitable course can expedite graduation while diversifying your skills.
+
+
+Ask about courses (or type 'exit' to quit):  Can you clarify what “IP” means on my course listings, how these in-progress courses impact my GPA, and what steps I need to take to finalize their grades?
+
+Assistant: Understanding "IP" in Course Listings
+"IP" stands for "In Progress." It indicates that you are currently enrolled in these courses and have not yet received a final grade.
+
+Impact on GPA
+Current GPA Calculation: Your current GPA of 3.778 is based on completed courses only.
+In-Progress Courses: These do not affect your GPA until final grades are submitted and recorded.
+
+Steps to Finalize Grades
+
+1. Complete All Assignments and Exams:
+Ensure you meet all course requirements, such as assignments, projects, and exams, by their deadlines.
+
+2. Communicate with Instructors:
+Stay in touch with your instructors to confirm any outstanding requirements or clarifications needed.
+
+3. Monitor Submission Deadlines:
+Pay attention to the academic calendar for submission deadlines and exam schedules.
+
+4. Verify Grade Posting:
+After completion, check SeaNet or the equivalent platform for posted grades to ensure they reflect your performance accurately.
+
+5. Address Any Discrepancies:
+If there are issues with grade postings, contact your instructor or academic advisor promptly for resolution.
+
+Conclusion
+
+By completing these steps diligently, you'll ensure that your in-progress courses contribute positively to your academic record once finalized.
+
+
+Ask about courses (or type 'exit' to quit):  How do my in-progress courses factor into my overall degree progress, and what should I expect if the final grades differ from my current projections?
+
+Assistant: In-Progress Courses and Degree Progress
+
+1. Current Status:
+You have 33 credits completed and are enrolled in courses totaling 15 credits this semester.
+Your degree progress is at 43%.
+
+2. Impact on Degree Completion:
+Once the in-progress courses are successfully completed, you'll meet the credit requirement of 36 if these courses contribute positively.
+
+Expectations if Final Grades Differ
+
+1. Positive Outcomes (Higher Grades):
+Your GPA could increase, potentially enhancing your academic standing.
+Strong performance might open opportunities for honors or distinctions.
+
+2. Negative Outcomes (Lower Grades):
+If grades fall below expectations, your GPA may decrease.
+Ensure you maintain a minimum of a 3.0 GPA to meet graduation requirements.
+
+Actions to Mitigate Risks
+Continuous Monitoring: Keep track of your performance through feedback and interim assessments.
+Seek Support: Utilize resources like tutoring centers or study groups if challenges arise.
+Communicate with Instructors: Address any concerns early with instructors to explore options like extra credit or clarifications on assignments.
+
+Conclusion
+
+While final grades can impact your degree progress and GPA, proactive management and utilizing available resources will help ensure you stay on track for successful completion.
+
+
+Ask about courses (or type 'exit' to quit):  If I need to retake a course or address a lower grade, what is the formal process to do so, and how will it reflect on my degree audit?
+
+Assistant: Process for Retaking a Course
+
+1. Consult Your Advisor:
+Discuss your options and get approval for retaking the course.
+
+2. Register for the Course Again:
+Follow standard registration procedures during the designated enrollment period.
+
+3. Complete the Course Requirements:
+Attend classes, complete assignments, and take exams as required.
+
+4. Impact on Degree Audit:
+The new grade will replace the previous one in your GPA calculation.
+Both attempts will appear on your transcript, but only the latest grade counts towards your GPA.
+
+Addressing a Lower Grade
+
+1. Grade Appeal (if applicable):
+If you believe there's an error or unfair assessment, follow the university's grade appeal process by contacting your instructor first.
+
+2. Improvement Strategies:
+Seek additional support such as tutoring or office hours with instructors to improve future performance.
+
+Conclusion
+
+Retaking a course is a straightforward process that can positively impact your GPA and degree progress if managed effectively. Always consult with your advisor to ensure alignment with graduation requirements and policies.
+
+
+Ask about courses (or type 'exit' to quit):  Could you explain the credit hour restrictions for courses like CSC 591 and MIS 591 and offer a strategy for planning my schedule to avoid any conflicts with these limits?
+
+Assistant: Credit Hour Restrictions
+CSC 591 and MIS 591 (Directed Independent Study): 
+You can apply a maximum of 9 credit hours from these courses towards your degree.
+  
+Strategy for Schedule Planning
+
+1. Review Current Credits:
+Check how many credits you've already applied from CSC 591, MIS 591, and similar courses.
+
+2. Prioritize Core and Required Courses:
+Focus on completing any core or required courses that are still pending to ensure you meet graduation requirements.
+
+3. Plan Electives Carefully:
+Choose electives that diversify your learning experience while staying within the credit limits for independent study courses.
+
+4. Consult Your Advisor:
+Regularly discuss your academic plan with your advisor to ensure you're on track and making informed decisions about course selections.
+
+5. Monitor Degree Audit:
+Continuously review your degree audit to track how credits are being applied and adjust plans as necessary.
+
+Conclusion
+
+By carefully selecting courses and regularly consulting with your advisor, you can effectively manage credit hour restrictions while progressing towards degree completion.
+
+
+Ask about courses (or type 'exit' to quit):  Could you explain the credit hour restrictions for courses like CSC 591 and MIS 591 and offer a strategy for planning my schedule to avoid any conflicts with these limits?
+
+Assistant: Credit Hour Restrictions
+CSC 591 and MIS 591 (Directed Independent Study):
+A maximum of 9 credit hours from these courses can be applied toward your degree.
+
+Strategy for Schedule Planning
+
+1. Assess Current Credits:
+Check how many credits you've already earned from CSC 591, MIS 591, and similar courses.
+
+2. Prioritize Core Courses:
+Ensure you are completing all core and required courses first to meet graduation requirements without exceeding the limit on independent study credits.
+
+3. Balance Electives:
+Select electives that provide a broad learning experience while staying within the credit limits for independent studies.
+
+4. Consult Your Advisor Regularly:
+Discuss your academic plan with your advisor to ensure alignment with degree requirements and avoid unnecessary credits in restricted areas.
+
+5. Monitor Degree Audit Continuously:
+Regularly review your degree audit to track credit application and make adjustments as needed.
+
+Conclusion
+
+By strategically planning your course load and consulting with advisors, you can effectively manage credit hour restrictions while progressing smoothly toward degree completion.

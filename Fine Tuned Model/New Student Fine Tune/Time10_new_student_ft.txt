@@ -1,0 +1,157 @@
+Ask about courses (or type 'exit' to quit):  For international students: How does the “Non-Resident” designation in my degree audit affect my tuition, course availability, and access to academic support services?
+
+Assistant: Impact of "Non-Resident" Designation
+
+Tuition:
+As a non-resident, you will likely pay higher tuition rates compared to in-state residents. It's important to check the university's tuition and fees page for specific amounts.
+
+Course Availability:
+Your non-resident status does not affect course availability. You have the same access to courses as resident students, but ensure you register early to secure your spot.
+
+Academic Support Services:
+Non-resident students have full access to all academic support services, including tutoring, advising, and career services. Be sure to take advantage of these resources.
+
+Actionable Steps:
+1. Review Tuition Details: Check the university's website for up-to-date information on non-resident tuition fees.
+2. Plan Finances: Consider financial planning or scholarships available for international students.
+3. Register Early: Enroll in courses as soon as registration opens to ensure you get the classes you need.
+4. Utilize Resources: Make use of academic support services offered by the university.
+
+If you have more questions about your specific situation, consider contacting the university's international student office or your academic advisor.
+
+
+Ask about courses (or type 'exit' to quit):  For international students: Are there specific visa or enrollment requirements that I must meet in addition to the degree audit conditions to maintain my international student status?
+
+Assistant: Visa and Enrollment Requirements for International Students
+
+Visa Requirements:
+Maintain Full-Time Enrollment: Typically, you need to be enrolled in at least 9 credit hours per semester, with at least 6 of those being in-person classes. For more details, refer to the [Full-Time Status](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status) page.
+Stay in Status: Ensure your visa and I-20 remain valid and updated. Report any changes in address or program to the international student office.
+
+Enrollment Requirements:
+Academic Progress: You must meet all academic requirements outlined in your degree audit, including maintaining a minimum GPA.
+Course Registration: Register for courses that fulfill your degree requirements and ensure timely progress toward graduation.
+
+Actionable Steps:
+1. Verify Credit Hours: Make sure you're enrolled in at least 9 credit hours, with a minimum of 6 in-person.
+2. Keep Documents Updated: Regularly check the validity of your visa and other immigration documents.
+3. Consult Advisors: Meet with your academic advisor and the international student office regularly to stay informed about any policy changes.
+4. Monitor Academic Standing: Keep track of your GPA and course completions according to your degree audit.
+
+For further assistance, reach out to the international student office at UNCW for personalized guidance.
+
+
+Ask about courses (or type 'exit' to quit):  How can I strategically plan my course schedule to address both the core course requirements and the additional 12-credit requirement, ensuring steady progress toward my degree?
+
+Assistant: Strategic Course Planning for Degree Progress
+
+Core Courses
+1. Prioritize Required Core Courses:
+CSC 532 - Design and Analysis of Algorithms I
+MIS 534 - Information Security Management
+CSC 544 - Network Programming
+CSC 550 - Software Engineering
+MIS 555 - Database Management Systems
+MIS 565 - Analysis, Modeling and Design
+
+Additional 12-Credit Requirement
+2. Select Electives Wisely:
+   Choose from courses in the range of CSC 501-598 or MIS 500-598 (excluding CSC/MIS 594).
+
+3. Balance Your Schedule:
+   Aim to mix core and elective courses each semester to avoid overloading on difficult subjects simultaneously.
+
+Research or Thesis Credits
+4. Plan for Research/Thesis Early:
+   Consider whether you want to complete a research project or a thesis, as both require careful planning:
+Research Project: CSC/MIS 594 (6 credits)
+Thesis: CSC/MIS 599 (6 credits)
+
+Actionable Steps:
+1. Semester Planning: 
+   Start with core courses that are prerequisites for others.
+   
+2. Elective Selection:
+   Choose electives that align with your career goals and interests.
+
+3. Monitor Prerequisites: 
+   Ensure you meet all prerequisites before enrolling in advanced courses.
+
+4. Advising Sessions: 
+   Regularly meet with your academic advisor to review your progress and adjust plans as needed.
+
+5. Maintain Balance: 
+   Balance challenging courses with ones that play to your strengths each semester.
+
+By following these steps, you'll be able to make steady progress toward completing your degree requirements while also gaining valuable skills aligned with your career aspirations.
+
+
+Ask about courses (or type 'exit' to quit):  In planning for professional development, how does my degree audit align with eligibility for on-campus employment, graduate assistantships, or scholarships, and what steps should I take to enhance these opportunities?
+
+Assistant: Aligning Degree Audit with Professional Development Opportunities
+
+On-Campus Employment:
+Eligibility: As a graduate student, you are typically eligible for part-time on-campus jobs. Your non-resident status doesn't affect this.
+Steps to Enhance Opportunities:
+Maintain good academic standing by meeting the GPA requirement of 3.0 or above.
+Visit the campus career center for job postings and resume workshops.
+
+Graduate Assistantships:
+Eligibility: Often require a minimum GPA and full-time enrollment.
+Steps to Enhance Opportunities:
+Build relationships with faculty who may offer assistantship positions.
+Regularly check departmental announcements for openings.
+
+Scholarships:
+Eligibility: Scholarships may have specific criteria such as academic performance, research interests, or financial need.
+Steps to Enhance Opportunities:
+Research available scholarships through the university's financial aid office.
+Prepare a strong application highlighting your achievements and goals.
+
+Actionable Steps:
+1. Maintain Academic Performance: Ensure your GPA meets eligibility criteria for employment and scholarships.
+2. Engage with Faculty: Attend office hours and engage in class discussions to build rapport with professors who might recommend you for assistantships.
+3. Utilize Campus Resources: Leverage resources like the career center for job opportunities and scholarship information sessions.
+4. Network Actively: Join student organizations related to your field to expand your network and learn about potential opportunities.
+
+By focusing on these areas, you'll enhance your eligibility and preparedness for various professional development opportunities during your studies at UNCW.
+
+
+Ask about courses (or type 'exit' to quit):  Considering the importance of networking and career preparation, what strategies can I use alongside fulfilling my degree audit requirements to build a strong academic and professional portfolio?
+
+Assistant: Strategies for Building a Strong Academic and Professional Portfolio
+
+Academic Excellence
+1. Maintain a High GPA:
+Focus on achieving strong grades to meet and exceed the 3.0 GPA requirement.
+
+2. Engage in Research:
+Consider enrolling in CSC/MIS 594 or CSC/MIS 599 for research or thesis work, which can lead to publications or conference presentations.
+
+Professional Development
+3. Internships and Assistantships:
+Seek internships (CSC/MIS 598) to gain practical experience.
+Apply for graduate assistantships to develop skills and build relationships with faculty.
+
+4. Networking:
+Join relevant student organizations or clubs.
+Attend departmental seminars, workshops, and networking events.
+
+5. Career Services:
+Utilize the university's career center for resume reviews, mock interviews, and job search strategies.
+
+Skill Enhancement
+6. Certifications and Workshops:
+Pursue certifications related to your field of interest.
+Attend workshops offered by the university or online platforms.
+
+7. Portfolio Development:
+Create a digital portfolio showcasing projects, research papers, and any relevant work.
+   
+Actionable Steps:
+1. Plan Your Courses: Strategically select courses that align with your career goals.
+2. Build Relationships: Connect with professors and peers who can support your academic journey.
+3. Gain Experience: Actively seek internships and assistantship opportunities.
+4. Showcase Your Work: Regularly update your portfolio with new projects and achievements.
+
+By integrating these strategies with your degree requirements, you'll be well-prepared academically and professionally upon graduation from UNCW.

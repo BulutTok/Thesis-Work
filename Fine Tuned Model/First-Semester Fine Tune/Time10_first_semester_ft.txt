@@ -1,0 +1,88 @@
+Ask about courses (or type 'exit' to quit):  Could you explain how the “In-progress Credits” and “Classes applied” numbers are calculated on my audit, and when updates are typically reflected?
+
+Assistant: Understanding In-progress Credits and Classes Applied
+
+In-progress Credits:
+These are the credits for courses you are currently enrolled in but have not yet completed. They contribute to your total credit requirement once successfully completed.
+
+Classes Applied:
+This refers to the number of classes that are currently counting towards your degree requirements, including those you are currently taking.
+
+Calculation Example
+You have 12 in-progress credits from four courses (CSC 532, CSC 550, MIS 503, MIS 534), each worth 3 credits.
+
+Updates Reflection
+Your audit updates typically at the end of each semester when grades are posted. If you drop or add courses during the semester, it may also reflect changes sooner.
+
+Conclusion
+Keep track of your academic progress through these metrics and consult with your advisor if there are any discrepancies or concerns.
+
+
+Ask about courses (or type 'exit' to quit):  If I need to retake a core course to boost my GPA, how does the policy limiting repeated courses (maximum 9 credit hours) affect my options?
+
+Assistant: Understanding the Repeat Policy
+
+Policy Details:
+You can apply a maximum of 9 credit hours from repeated courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 towards your degree.
+
+Retaking Core Courses:
+Retaking a core course to improve your GPA does not fall under this repeat policy limit. The limitation applies specifically to independent studies, seminars, and internships.
+
+Strategy for Boosting GPA
+1. Identify Core Courses: Focus on retaking core courses where you received lower grades.
+2. Plan Accordingly: Ensure that you have room within your overall credit plan to accommodate any repeats without exceeding limits on other repeated courses.
+3. Consult Your Advisor: Discuss which courses would be most beneficial to retake based on their impact on your GPA and degree progress.
+
+Conclusion
+The repeat policy primarily affects elective or supplementary courses rather than core requirements. Prioritize improving grades in core subjects if needed for GPA improvement.
+
+
+Ask about courses (or type 'exit' to quit):  How are elective courses or additional credits beyond the core requirements factored into my degree audit, and is there a limit on non-major credits?
+
+Assistant: Elective Courses and Additional Credits
+
+Elective Courses:
+Electives are courses you choose beyond your core requirements. They can help fulfill the total credit requirement for your degree.
+
+Degree Audit:
+Your audit tracks both core and elective credits. It ensures that all credits contribute towards the 36-credit requirement for your Master of Science degree.
+
+Non-Major Credits:
+While electives offer flexibility, they should align with your program’s guidelines. Check with your advisor if there’s a specific limit on non-major credits to ensure they count towards your degree.
+
+Strategy
+1. Align Electives: Choose electives that complement your major or career goals.
+2. Verify Limits: Confirm any restrictions on non-major or unrelated elective credits with your advisor.
+3. Track Progress: Regularly review your degree audit to ensure all chosen courses count towards completion.
+
+Conclusion
+While electives provide room for exploration, ensure they fit within any program-specific guidelines to effectively count towards graduation requirements.
+
+
+Ask about courses (or type 'exit' to quit):  What are the prerequisites for CSC 537 – Parallel Computing?
+
+Assistant: Prerequisites for CSC 537 – Parallel Computing
+Prerequisite Course: CSC 340 with a minimum grade of C.
+
+Ensure you meet this prerequisite before enrolling in CSC 537 to align with the program requirements.
+
+
+Ask about courses (or type 'exit' to quit):  Are there flexible learning options, such as online courses or independent study, to help me complete my credit requirements?
+
+Assistant: Flexible Learning Options
+
+Online Courses:
+Many courses, like MIS 503 and BAN 500, offer fully online asynchronous options, allowing you to complete coursework at your own pace.
+
+Independent Study:
+Courses: CSC 591 or MIS 591.
+Credits: Typically between 1 to 6 credits.
+Requirements: Permission of the instructor is needed.
+
+Strategy
+1. Explore Online Offerings: Check for courses in your program that are available online to fit your schedule.
+2. Consider Independent Study: If you have a specific area of interest, discuss potential independent study options with faculty.
+3. Plan Your Schedule: Mix online and in-person classes if needed to balance your workload.
+
+Conclusion
+Utilize online courses and independent studies as flexible learning paths to efficiently meet your credit requirements while accommodating personal and professional commitments.

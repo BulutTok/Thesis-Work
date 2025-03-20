@@ -1,0 +1,57 @@
+Ask about courses (or type 'exit' to quit):  For MIS503 – Programming for Analytics, what are the start and end dates and who is the instructor for each section?
+
+Assistant: MIS503 - Programming for Analytics
+
+Section 801
+Start Date: March 7, 2025
+End Date: May 8, 2025
+Instructor: Jeffrey W. Cummings
+
+Section 802
+Start Date: March 10, 2025
+End Date: April 27, 2025
+Instructor: Jeffrey W. Cummings
+
+Section 803
+Start Date: March 10, 2025
+End Date: April 27, 2025
+Instructor: Jeffrey W. Cummings
+
+
+Ask about courses (or type 'exit' to quit):  What prerequisites do I need for Network Programming (CSC544), Database Management Systems (MIS555), and Analysis, Modeling and Design (MIS565)?
+
+Assistant: Prerequisites
+CSC544 - Network Programming
+CSC 500 and CSC 344 or MIS 323
+MIS555 - Database Management Systems
+BUS 500 and CSC 455 or MIS 315
+MIS565 - Analysis, Modeling and Design
+BUS 500 and CSC 450 or MIS 411
+
+
+Ask about courses (or type 'exit' to quit):  For online courses like MIS503 and MIS504, when are the deadlines for assignments or projects?
+
+Assistant: The specific deadlines for assignments or projects in online courses like MIS503 and MIS504 are typically outlined in the course syllabus provided by the instructor at the beginning of the term. It's best to refer to that document or contact your instructor directly for detailed information on deadlines.
+
+
+Ask about courses (or type 'exit' to quit):  Are the course catalogue links for MIS503 and MIS504 current, and what extra details do they offer about the courses?
+
+Assistant: Course Catalogue Links
+MIS503 - Programming for Analytics
+[Course Link](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+Extra Details: The course covers programming foundations, application development in R and Python, data manipulation, statistical methods, report generation, and data graphics.
+MIS504 - Databases for Analytics
+[Course Link](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+Extra Details: Focuses on relational databases, data management, database modeling and design, complex queries, and data cleansing.
+
+These links provide comprehensive descriptions of the courses and any additional requirements or attributes associated with them.
+
+
+Ask about courses (or type 'exit' to quit):  Where can I find more information on registration dates, term dates, and any updates to course requirements through the official course catalogue or university links?
+
+Assistant: You can find detailed information on registration dates, term dates, and course requirements through the following resources:
+University Course Catalogue: [UNCW Course Catalogue](https://catalogue.uncw.edu)
+Registration Dates and Academic Calendar: Check the Registrar's section on the UNCW website for the latest updates.
+Graduate School Forms and Information: [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms)
+
+These resources will provide official updates and comprehensive details regarding academic schedules and course offerings.
