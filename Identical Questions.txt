@@ -1,0 +1,30 @@
+Core Curriculum and Prerequisites:
+“What are the core courses required for my MScIS program, and do any of them have specific prerequisites I need to complete before enrolling?”
+
+Credit Completion:
+“How many credits do I still need to earn in order to complete my degree, and which courses are available to help me reach that total?”
+
+Restricted Credit Hours:
+“I noticed that no more than 9 credit hours from courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 can be applied toward my degree—can you explain how that works?”
+
+Additional Course Options:
+“What are my options for fulfilling the additional course requirement, and are there any restrictions—such as specific courses that cannot be used (for example, excluding CSC 594 or MIS 594)?”
+
+Research Project vs. Thesis:
+“Can you explain the differences between the research project and thesis options for meeting the research/thesis credit requirement, and what are the key milestones for each?”
+
+Graduation Requirements:
+“Beyond completing the required credits, what additional graduation requirements should I be aware of (such as applying to graduate on SeaNet and enrolling in the semester of graduation)?”
+
+GPA Concerns:
+“Since I currently do not meet the minimum 3.0 GPA requirement for my major, what strategies or options are available to help me improve my academic standing?”
+
+International Student Enrollment and Visa Compliance:
+“As an international student, I’m concerned about maintaining my visa status while managing my academic progress. Could you explain how my course schedule and prerequisites are structured to ensure I remain a full-time student, and what additional steps or documentation might be necessary to meet both academic and immigration requirements?”
+
+Course Repetition:
+“If I do not achieve the required grade in a course, is it possible to repeat it, and how would that affect my overall credit count and GPA?”
+
+Course Scheduling and Availability:
+“Are there specific scheduling guidelines or typical semester offerings for required courses like Network Programming (CSC 544) and Database Management Systems (MIS 555) that I should plan for?”
+
