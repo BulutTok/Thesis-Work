@@ -1,0 +1,45 @@
+Assistant: Options for Additional Course Requirement
+
+Based on your degree audit, you need 9 additional credits from CSC 501-598 or MIS 500-598. However, you cannot use CSC 594 or MIS 594 to fulfill this requirement.
+
+Recommended Courses
+
+Here are some options to consider:
+
+1. CSC502 - Machine Learning Fundamentals
+Focuses on core concepts and algorithms in machine learning.
+Credit Hours: 3
+
+2. MIS504 - Databases for Analytics
+Covers relational databases and data management.
+Credit Hours: 3
+
+3. MIS505 - Data Visualization
+Emphasizes design principles for data displays.
+Credit Hours: 3
+Prerequisite: BAN 500 (may be taken concurrently)
+
+4. CSC515 - Artificial Intelligence
+Introduction to AI concepts and applications.
+Credit Hours: 3
+Prerequisite: CSC331 (min grade B)
+
+5. BAN501 - Prescriptive Analytics
+Introduces modeling techniques used in business analytics.
+Credit Hours: 3
+
+6. BAN502 - Predictive Analytics
+Focuses on model selection and validation techniques.
+Credit Hours: 3
+Prerequisites: BAN500 (may be taken concurrently) and MIS503
+
+Restrictions
+Avoid CSC594 or MIS594 as they do not count towards this requirement.
+
+Next Steps
+Review the prerequisites for each course to ensure eligibility.
+Consult with your academic advisor to finalize your course selections.
+
+Conclusion
+
+Choose courses that align with your career goals and interests, while fulfilling the credit requirements without including CSC594 or MIS594.

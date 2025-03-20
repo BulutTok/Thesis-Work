@@ -1,0 +1,40 @@
+Assistant: Degree Completion Status
+Credits Required: 36
+Credits Currently Applied: 33
+Credits Needed: 3
+
+Course Options to Complete Your Degree
+
+You need to select courses from CSC 501:598 or MIS 500:598, except CSC 594 or MIS 594. Here are some available options:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+No prerequisites.
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+No prerequisites.
+
+3. MIS505 - Data Visualization
+Credits: 3
+Prerequisite: BAN 500 (may be taken concurrently).
+
+4. CSC502 - Machine Learning Fundamentals
+Credits: 3
+No prerequisites.
+
+5. BAN500 - Descriptive Analytics
+Credits: 3
+No prerequisites.
+
+6. BAN501 - Prescriptive Analytics
+Credits: 3
+No prerequisites.
+
+Recommendations
+
+1. Review your current course schedule and ensure you have the capacity to add a course.
+2. Choose a course that aligns with your interests and career goals.
+3. Ensure that the selected course fits within your timetable and does not conflict with your existing commitments.
+
+If you need further assistance in selecting a course, feel free to reach out!

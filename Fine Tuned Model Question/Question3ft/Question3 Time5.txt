@@ -1,0 +1,42 @@
+Assistant: For fulfilling the additional course requirement, you have the following options:
+
+Additional Course Options
+Eligible Courses: You can choose from courses numbered CSC 501 to 598 or MIS 500 to 598.
+Exclusions: You cannot use CSC 594 or MIS 594 to fulfill this requirement.
+
+Recommendations
+
+1. Course Selection: Choose courses that align with your interests and career goals while ensuring they meet the program requirements.
+   
+2. Check Prerequisites: Make sure you meet any prerequisites for the courses you're interested in.
+
+3. Consult Your Advisor: Discuss your choices with your academic advisor to ensure they fit within your degree plan and support your academic objectives.
+
+Conclusion
+
+By selecting from a wide range of eligible courses, you can tailor your learning experience while adhering to program guidelines.
+
+
+Ask about courses (or type 'exit' to quit):  I noticed that no more than 9 credit hours from courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 can be applied toward my degree—can you explain how that works?
+
+Assistant: Certainly! Here's how the credit hour limitation works for those courses:
+
+Credit Hour Limitation
+Courses Affected: CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598.
+Maximum Allowable Credits: You can apply up to 9 credit hours from these courses toward your degree requirements.
+
+Purpose of the Limitation
+
+1. Balanced Curriculum: These courses typically involve independent study or internships. The limitation ensures you also complete a range of core and elective coursework.
+
+2. Diverse Academic Experience: Encourages engagement with a variety of topics and methods beyond project-based or experiential learning.
+
+3. Program Integrity: Maintains a comprehensive educational experience by requiring more structured academic content alongside independent work.
+
+Recommendations
+Plan Your Courses Carefully: Ensure that your selection doesn't exceed the allowed credits from these categories.
+Advisor Consultation: Regularly check with your academic advisor to align your course choices with this requirement and overall degree goals.
+
+Conclusion
+
+This policy is designed to ensure a well-rounded education while allowing for specialized study through independent projects or internships.

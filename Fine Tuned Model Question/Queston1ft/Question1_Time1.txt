@@ -1,0 +1,28 @@
+Ask about courses (or type 'exit' to quit):  What are the core courses required for my MScIS program, and do any of them have specific prerequisites I need to complete before enrolling?
+
+Assistant: Core Courses for MScIS Program
+
+1. CSC 532 - Design and Analysis of Algorithms I
+Prerequisites: None listed
+
+2. MIS 534 - Information Security Management
+Prerequisites: BUS 500 and CSC 344 or MIS 323
+
+3. CSC 544 - Network Programming
+Prerequisites: CSC 500 and CSC 344 or MIS 323
+
+4. CSC 550 - Software Engineering
+Prerequisites: CSC 500 and CSC 450 or MIS 411
+
+5. MIS 555 - Database Management Systems
+Prerequisites: BUS 500 and CSC 455 or MIS 315
+
+6. MIS 565 - Analysis, Modeling and Design
+Prerequisites: BUS 500 and CSC 450 or MIS 411
+
+Actionable Steps
+Review your completed courses to ensure you've met the prerequisites.
+Plan your schedule to include these core courses as soon as you meet any necessary prerequisites.
+
+Summary
+These core courses are essential for completing your degree, so focus on meeting the prerequisites early in your program to avoid delays in graduation. If you're unsure about any course equivalencies or need further clarification, consult with your academic advisor.

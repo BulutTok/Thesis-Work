@@ -1,0 +1,25 @@
+Assistant: Credit Requirements
+
+You need a total of 36 credits to complete your degree. Currently, you have 33 credits, so you need 3 more credits.
+
+Course Options
+
+To fulfill these credit requirements, consider the following courses:
+MIS503 - Programming For Analytics
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+Credits: 3
+No prerequisites required.
+MIS504 - Databases for Analytics
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+Credits: 3
+No prerequisites required.
+
+Steps to Take
+
+1. Review your current schedule and see if the courses fit within your timeline.
+2. Ensure that no more than 9 credit hours are from CSC/MIS 591, CSC/MIS 595, CSC/MIS 598.
+3. Register for one of the above courses to reach the necessary credit total.
+
+Conclusion
+
+Completing one of these courses will help you reach the required credits for graduation. If you have any scheduling conflicts or need further assistance, please consult your academic advisor.   

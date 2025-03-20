@@ -1,0 +1,31 @@
+Assistant: Degree Completion Requirements
+
+Based on your degree audit, you still need 3 more credits to complete your Master of Science in Computer Science and Information Systems.
+
+Available Courses for Credit Completion
+
+Here are some courses you can consider to fulfill the remaining credit requirement:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Description: Introduces programming concepts using R and Python for data analytics.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Description: Focuses on relational databases, data management, queries, and data cleansing.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. CSC500 - Introduction to Computer Science
+Credits: 4
+Description: Covers fundamental computer science concepts including programming and algorithm design.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=275978)
+
+Next Steps
+Review the course descriptions to see which aligns best with your interests or career goals.
+Confirm with your advisor that these courses fit within your program requirements.
+Ensure that none of these courses overlap with previously completed coursework.
+
+Conclusion
+
+You need 3 more credits to complete your degree. The above-listed courses are suitable options that align with your program's curriculum requirements.

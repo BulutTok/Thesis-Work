@@ -1,0 +1,52 @@
+Assistant: Certainly! Let's break down the differences between the research project and thesis options, along with their key milestones:
+
+Research Project
+
+Overview:
+A practical application of computer science or information systems.
+Focuses on a specific topic under faculty guidance.
+
+Key Milestones:
+1. Selection and Approval: 
+Choose a research topic with faculty approval.
+2. Written Analysis and Presentation:
+Complete a written analysis of your findings.
+Present your project orally to demonstrate understanding.
+3. Defense:
+Successfully defend your research project (DEFN).
+
+Completion Requirements:
+Must successfully complete the final project (PROJ).
+Typically involves 6 credits, which you are currently working on.
+
+Thesis
+
+Overview:
+An in-depth research study contributing new knowledge to the field.
+Requires more extensive writing and formal defense.
+
+Key Milestones:
+1. Comprehensive Oral Exam: 
+Pass a comprehensive written exam (COMO).
+2. Thesis Defense: 
+Defend your thesis orally before a committee (DEFN).
+3. Draft Submission: 
+Submit an electronic draft of your thesis by the deadline (DRAT).
+4. Format Approval Sheet: 
+Submit this sheet along with your draft for format verification (FORM).
+5. Final Submission: 
+Submit the final version electronically by the deadline (THES).
+6. Signed Title Page: 
+Include a signed title page with the final submission (TITL).
+7. ETD Submission Form: 
+Complete and submit this form with your final thesis (ETDF).
+
+Completion Requirements:
+Involves intensive research, usually over multiple semesters.
+
+Summary
+The *research project* is typically more applied and less extensive than a thesis, focusing on practical applications.
+The *thesis* is more comprehensive, often involving original research that contributes to academic knowledge.
+Both require defense presentations but differ in depth and scope.
+
+Choosing between them depends on your career goals, whether you prefer practical application or academic research, and how much time you can dedicate to each option.

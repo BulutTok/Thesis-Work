@@ -1,0 +1,32 @@
+Assistant: I understand that balancing academic and visa requirements can be challenging, but I'm here to help you through it. Let’s review what you need to do:
+
+Maintaining Full-Time Status
+
+Academic Requirements:
+Credit Hours: You must enroll in at least 9 credit hours per semester.
+In-Person Requirement: At least 6 of these credits should be from in-person courses.
+
+For Spring 2025, your current enrollment is:
+CSC 532 - Design & Analysis Of Algorithms (3 credits)
+CSC 550 - Software Engineering (3 credits)
+MIS 503 - Programming for Analytics (3 credits)
+MIS 534 - Information Security Management (3 credits)
+
+This totals 12 credits, satisfying the full-time requirement.
+
+Prerequisites and Course Planning
+Ensure you meet the prerequisites for each course. If a course has multiple prerequisites, meeting even one allows you to enroll.
+
+Additional Steps
+
+1. Advisor Meetings: Regularly consult with your academic advisor to ensure you're on track and address any issues early.
+
+2. GPA Monitoring: Keep an eye on your GPA, aiming for at least a 3.0 as required by your program.
+
+3. Documentation: Maintain updated records of enrollment verification and any visa-related documents.
+
+4. University Resources: Utilize the international office for assistance with immigration queries or paperwork.
+
+For more information on maintaining full-time status, visit [UNCW Full-Time Status Information](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+Please feel free to reach out if you have more questions or need further support—I'm here for you!

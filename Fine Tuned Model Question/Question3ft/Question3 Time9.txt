@@ -1,0 +1,21 @@
+Assistant: Certainly! In your program, you can apply a maximum of 9 credit hours from specific courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 towards your degree requirements. Here's how it works:
+
+Course Types:
+Directed Independent Study (CSC/MIS 591): Involves personalized research or projects under faculty supervision.
+Research Seminar (CSC/MIS 595): Focuses on research and discussion of selected topics.
+Internship (CSC/MIS/BAN 598): Provides practical experience in a professional setting.
+
+Credit Limit:
+You can only count up to a total of 9 credit hours from these courses towards the required credits for your degree.
+
+Actionable Steps:
+
+1. Plan Your Courses: Ensure that you do not exceed the combined total of 9 credit hours from these courses.
+   
+2. Select Other Courses: Choose additional core or elective courses to fulfill the rest of your degree requirements.
+
+3. Consult with Your Advisor: Discuss your academic plan with your advisor to ensure compliance with all degree requirements.
+
+Conclusion
+
+This limit ensures that while you gain diverse experiences through independent study and internships, you also complete other essential coursework for a well-rounded education.

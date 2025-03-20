@@ -1,0 +1,24 @@
+Assistant: Certainly! Here's a breakdown of the research project and thesis options, along with their key milestones:
+
+Research Project Option
+Credits: Typically involves 6 credits.
+Focus: Applied study on a practical topic in computer science or information systems.
+Key Milestones:
+Research Project Credits: Complete the required credits (CSC 594 or MIS 594).
+Final Project: Successfully complete the final project.
+Defense of Project: Must successfully defend the research project.
+
+Thesis Option
+Credits: Involves more intensive research work and can be up to 6 credits.
+Focus: Scholarly research leading to new findings or insights within a specific area.
+Key Milestones:
+Draft Thesis: Submit a draft thesis electronically to the Graduate School by the deadline.
+Format Approval Sheet: Submit this sheet with the draft thesis for format approval.
+Thesis Defense Requirement: Pass a defense of the thesis before your committee.
+Final Thesis Submission: Submit the final version of your thesis electronically by the deadline.
+Signed Thesis Title Page: Submit this page with signatures from your committee members.
+ETD Submission Form: Complete and submit this electronic form along with your final thesis.
+
+Conclusion
+
+Choose between these based on your interest in applied vs. theoretical work, time commitment, and career goals. The research project is typically more practical, while a thesis may involve deeper academic exploration. Both require successful defense and completion but differ in structure and focus.

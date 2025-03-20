@@ -1,0 +1,37 @@
+Assistant: Certainly! Let's break down the differences between the research project and thesis options, as well as their key milestones.
+
+Research Project Option
+
+Overview:
+A practical application of computer science or information systems.
+Typically involves a smaller scope compared to a thesis.
+Focuses on applying theoretical knowledge to real-world problems.
+
+Key Milestones:
+1. Project Proposal: Develop a proposal outlining the problem, objectives, and methodology.
+2. Research and Analysis: Conduct research and analysis based on the proposed plan.
+3. Written Report: Prepare a detailed report of your findings and solutions.
+4. Oral Presentation/Defense: Present your project findings to a committee for evaluation (DEFN).
+5. Final Submission: Submit any revisions required by the committee (PROJ).
+
+Thesis Option
+
+Overview:
+An in-depth research study involving original contribution to the field.
+More comprehensive than a research project, often suitable for students considering further academic pursuits like a Ph.D.
+
+Key Milestones:
+1. Draft Thesis Submission: Write and submit an initial draft of your thesis electronically to the Graduate School by the deadline (DRAT).
+2. Format Approval Sheet: Obtain approval for formatting from the Graduate School (FORM).
+3. Comprehensive Oral Exam: Pass an oral exam that tests understanding of coursework related to your thesis topic (COMO).
+4. Thesis Defense: Defend your thesis before a committee, demonstrating mastery over your subject matter (DEFN).
+5. Final Thesis Submission: Submit final revisions along with all required forms:
+Final Thesis Document (THES)
+Signed Title Page (TITL)
+Electronic Thesis Form submission (ETDF)
+
+Summary
+The research project is more applied and typically less extensive than a thesis.
+The thesis involves comprehensive research with formal documentation and defense procedures.
+
+Both options require careful planning, execution, and successful defense or presentation to fulfill graduation requirements. If you have further questions or need guidance on choosing between these options, consulting with your advisor can be beneficial.
