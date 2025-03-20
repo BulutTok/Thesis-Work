@@ -1,0 +1,232 @@
+Ask about courses (or type 'exit' to quit):  How should I interpret the “Unmet conditions” noted in the degree audit, and what steps can I take to address them effectively?
+
+Assistant: To effectively interpret and address the "Unmet conditions" noted in your degree audit, follow these steps:
+
+Understanding the Unmet Conditions
+1. Credit Requirements:
+You need a total of 36 credits to complete your Master of Science in Computer Science/Information Systems.
+Currently, you have 0 credits applied towards this requirement, so you still need to complete all 36 credits.
+
+2. GPA Requirement:
+A minimum GPA of 3.0 is required for your major. Your current GPA is 0.000 because you have not yet completed any courses.
+
+3. Core Course Requirements:
+You are required to take specific core courses such as CSC 532 (Design and Analysis of Algorithms I), MIS 534 (Information Security Management), CSC 544 (Network Programming), CSC 550 (Software Engineering), MIS 555 (Database Management Systems), and MIS 565 (Analysis, Modeling and Design).
+
+4. Additional Courses:
+You need an additional 12 credits from elective courses within the CSC or MIS course codes, excluding certain research project courses like CSC 594 or MIS 594.
+
+5. Research or Thesis Credits:
+You must choose between completing a Research Project or a Thesis, each requiring six credits in either CSC/MIS courses designated for research/thesis work.
+
+6. Graduation Requirements:
+Must apply to graduate by the deadline.
+Ensure enrollment during your graduation semester.
+
+Actionable Steps to Address Unmet Conditions
+
+1. Course Enrollment:
+Begin enrolling in core courses that are prerequisites for other advanced classes.
+For example: Start with CSC 532, MIS 534, etc., based on availability.
+   
+2. Plan Electives Strategically:
+Choose electives that align with your career goals and interests within the allowed course range.
+   
+3. Maintain GPA Standards:
+Aim for strong academic performance to meet or exceed the minimum GPA requirement.
+
+4. Research/Thesis Planning:
+Decide whether you will pursue a thesis or research project early on.
+If opting for a thesis: Begin discussing potential topics with faculty members and understand thesis requirements like defense and submission deadlines.
+For a research project: Identify areas of interest where you can contribute meaningfully under faculty guidance.
+
+5. Regular Advising Sessions:
+Meet regularly with your academic advisor to ensure you're on track and adjust plans as needed based on course offerings and personal progress.
+
+6. Graduation Application & Enrollment:
+Keep track of application deadlines for graduation through SeaNet.
+Ensure continuous enrollment during your intended graduation semester as per university policy.
+
+Summary
+By systematically enrolling in required courses, maintaining academic standards, planning research/thesis activities early, consulting advisors regularly, and ensuring administrative tasks like graduation applications are completed timely, you'll effectively address unmet conditions in your degree audit
+
+
+Ask about courses (or type 'exit' to quit):  What strategies can I use to ensure that my planned course schedule aligns with both the core course requirements and the additional 12-credit requirement?
+
+Assistant: To ensure that your planned course schedule aligns with both the core course requirements and the additional 12-credit requirement, you can follow these strategies:
+
+Strategy 1: Core Course Prioritization
+Identify Prerequisites: Begin by enrolling in core courses that are prerequisites for other advanced courses. This will ensure you have the necessary foundation.
+For example, start with courses like CSC 532 (Design and Analysis of Algorithms I) or MIS 534 (Information Security Management) as they are fundamental.
+Balance Core Courses with Electives: Aim to take a mix of core and elective courses each semester to maintain a balanced workload while progressing towards your degree requirements.
+
+Strategy 2: Plan Your Electives
+Align with Interests and Career Goals: Choose electives that align with your career aspirations and interests. This could include specialized topics within the CSC or MIS course offerings.
+Review Course Descriptions: Understand what each elective offers by reviewing course descriptions. This will help you select electives that complement your core coursework.
+
+Strategy 3: Long-Term Planning
+Create a Multi-Semester Plan: Map out all semesters until graduation. Identify when each required core course is offered and slot them into your schedule, ensuring prerequisites are met.
+Adjust as Needed: Be flexible and ready to adjust your plan based on course availability each semester.
+
+Strategy 4: Leverage Advising Resources
+Consult Your Academic Advisor Regularly: Schedule regular meetings with your advisor to review your progress and make adjustments to your plan if necessary.
+Utilize Degree Audit Tools: Regularly check your degree audit report to track completed credits against requirements. This helps in ensuring you're on track.
+
+Strategy 5: Optimize Workload
+Consider Course Load Balance: Ensure you balance challenging courses with those that may require less intensive work, preventing burnout.
+Plan Around Key Deadlines: Be mindful of major project deadlines or thesis/research commitments when scheduling demanding courses.
+
+Example Semester Plan
+
+Semester 1:
+CSC 532 - Design and Analysis of Algorithms I (Core)
+MIS 555 - Database Management Systems (Core)
+Elective from CSC/MIS range
+
+Semester 2:
+MIS 534 - Information Security Management (Core)
+CSC 550 - Software Engineering (Core)
+Elective from CSC/MIS range
+
+Semester 3:
+CSC 544 - Network Programming (Core)
+MIS 565 - Analysis, Modeling and Design (Core)
+Elective from CSC/MIS range
+
+Semester 4:
+Additional elective(s) or begin Research/Thesis credits
+Prepare for comprehensive exams if applicable
+
+Summary
+By prioritizing core requirements early, carefully selecting electives aligned with personal goals, consulting regularly with advisors, and planning across multiple semesters while maintaining flexibility, you'll be well-positioned to meet all credit requirements efficiently
+
+
+Ask about courses (or type 'exit' to quit):  How does the degree audit guide me in choosing between the research project and thesis options, and what factors should influence my decision?
+
+Assistant: The degree audit provides a structured outline of the requirements for both the research project and thesis options, helping you understand what each entails. Here’s how it can guide your decision-making process:
+
+Degree Audit Guidance
+
+1. Credit Requirements:
+Both the research project and thesis require six credits in designated courses (CSC 594/MIS 594 for the research project or CSC 599/MIS 599 for the thesis).
+
+2. Completion Requirements:
+Research Project: Requires successful defense and completion of a final project.
+Thesis: Involves passing a comprehensive oral exam, defending your thesis, submitting a draft and final thesis, along with several formal approvals.
+
+3. Course Registration:
+Ensure that you register for either CSC/MIS 594 or CSC/MIS 599 based on your choice.
+
+Factors to Consider in Decision-Making
+
+1. Career Goals:
+If you aim to pursue a Ph.D. or a career in academia/research, a thesis may provide valuable experience in conducting original research.
+A research project might be more suitable if you're looking to enter industry roles where applied skills are emphasized.
+
+2. Interest in Research:
+Consider your interest and aptitude for conducting extensive research versus applying knowledge to practical problems.
+   
+3. Time Commitment:
+A thesis typically requires more time due to its depth and complexity compared to a research project.
+
+4. Faculty Support:
+Identify faculty members who can supervise your work; their expertise might influence whether you choose a specific topic suitable for either option.
+
+5. Writing Skills:
+The thesis option will demand strong writing skills as it involves drafting substantial documents like proposals, drafts, and final submissions.
+
+6. Personal Circumstances:
+Evaluate personal circumstances such as time availability, workload management alongside other commitments (e.g., part-time work).
+
+Actionable Steps
+Consult with Advisors & Faculty: Discuss with academic advisors and potential faculty supervisors about which path aligns best with your goals.
+Review Past Projects/Theses: Look at examples of past projects or theses from peers to gauge expectations and scope.
+Self-assessment of Skills & Interests: Reflect on your strengths—whether they lie more in theoretical exploration or practical application—and how they align with each option.
+Plan Ahead for Deadlines & Deliverables: Understand all deliverables associated with each option (defenses, exams) to manage timelines effectively.
+
+Summary
+Choosing between a research project and a thesis should be guided by your long-term career objectives, interests in research versus application, available resources including faculty support, time commitment considerations, and personal circumstances affecting study intensity. Use insights from your degree audit as foundational guidance while making an informed decision based on these factors.
+
+
+Ask about courses (or type 'exit' to quit):  In what ways can I use the degree audit to monitor my progress toward meeting both the credit requirements and the 3.0 GPA minimum?
+
+Assistant: Using your degree audit effectively can help you monitor progress toward meeting both the credit requirements and the 3.0 GPA minimum for your Master of Science in Computer Science/Information Systems. Here's how:
+
+Monitoring Credit Requirements
+
+1. Track Completed Credits:
+Regularly review the "Credits required" versus "Credits applied" section to see how many credits you've completed and how many are still needed.
+Ensure you're enrolling in courses that count towards your degree, focusing first on core courses and then electives.
+
+2. Plan Course Enrollment:
+Use the audit to identify which core courses are still needed (e.g., CSC 532, MIS 534) and plan future semester enrollments accordingly.
+Keep track of elective credits by reviewing which additional CSC or MIS courses you've completed and what's left.
+
+3. Research/Thesis Credits:
+Check if you have registered for either research project or thesis credits as required, ensuring they fit within the total credit limit.
+
+4. Limitations on Certain Courses:
+Be mindful of restrictions such as only being able to apply a maximum of nine credit hours from certain directed study or internship courses like CSC 591, MIS 591, etc., toward your degree.
+
+Monitoring GPA Requirements
+
+1. GPA Tracking:
+Regularly check the "Overall GPA" section in your degree audit to ensure it reflects any newly completed coursework.
+Calculate potential impacts of current/future course grades on your overall GPA using online GPA calculators.
+
+2. Focus on Core Courses for GPA Improvement:
+Prioritize performing well in core courses since they carry significant weight and can impact your major's GPA directly.
+   
+3. Identify Areas for Academic Support:
+If your GPA is below the required threshold, use this insight to seek academic support services such as tutoring or workshops offered by the university.
+
+4. Regular Advising Sessions:
+Meet with an academic advisor regularly to discuss strategies for maintaining/improving your GPA, especially if you're struggling in certain subjects.
+
+Utilizing Degree Audit Features
+Progress Indicators: Look for visual indicators (e.g., complete/incomplete status) within each requirement block to quickly assess where you stand.
+Legend & Disclaimers: Use these sections at the bottom of the audit report to understand symbols used (like those indicating prerequisites) and interpret statuses correctly.
+Official Transcript Review: While not part of the degree audit itself, periodically request an official transcript to cross-check against audit details, ensuring accuracy in recorded grades/credits.
+
+Summary
+By actively using your degree audit report, you can systematically track credit completion and maintain awareness of your cumulative GPA relative to program requirements. This proactive approach enables timely interventions—such as course adjustments or seeking academic resources—to stay aligned with graduation goals while achieving necessary academic standards.
+
+
+Ask about courses (or type 'exit' to quit):  What are the implications of the credit restrictions (such as the limit on courses like CSC 591, MIS 591, etc.) noted in the audit, and how should this affect my course selection?
+
+Assistant: The credit restrictions noted in your degree audit, such as the limit on courses like CSC 591 (Directed Independent Study), MIS 591, and similar courses, have important implications for your course selection strategy. Here's how you should interpret these restrictions and plan accordingly:
+
+Implications of Credit Restrictions
+
+1. Limited Application Toward Degree:
+You can only apply a maximum of nine credit hours from specific courses (e.g., CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598) toward the total credit requirement for your degree.
+These courses are often designed for specialized study or practical experience and may not cover core curriculum topics.
+
+2. Impact on Course Load:
+Over-reliance on these restricted courses could lead to exceeding the allowable limit without fulfilling core or elective requirements necessary for graduation.
+
+3. Balancing Course Types:
+To meet graduation requirements effectively, you need to balance between directed studies/internships and required core/elective coursework.
+
+Strategies for Course Selection
+
+1. Prioritize Core Courses First:
+Focus initially on enrolling in mandatory core courses that form the foundation of your program (e.g., CSC 532, MIS 534).
+
+2. Plan Electives Wisely:
+Choose electives that align with your academic interests or career goals but ensure they fall within unrestricted categories unless specifically beneficial.
+
+3. Strategic Use of Restricted Credits:
+Use restricted credits strategically for opportunities like independent study or internships when they offer unique learning experiences directly relevant to your career objectives.
+   
+4. Monitor Credit Limits Actively:
+Keep track of how many restricted credits you've used by regularly reviewing your degree audit report to avoid surpassing the nine-credit cap inadvertently.
+
+5. Consult Academic Advisors:
+Regularly consult with advisors to ensure you're making informed decisions about which directed study or internship opportunities best complement required coursework while adhering to limits.
+
+6. Diversify Learning Experiences:
+Explore diverse course offerings across different subjects within Computer Science/Information Systems that are outside restricted lists but still valuable educationally/professionally.
+
+Summary
+Understanding and respecting credit restrictions is crucial in ensuring all completed coursework counts meaningfully towards fulfilling graduation requirements. By prioritizing core classes first while judiciously selecting elective and restricted-credit options based on personal goals/advisory guidance, you’ll maintain a balanced approach leading successfully towards program completion without unnecessary complications from overstepping imposed limits.

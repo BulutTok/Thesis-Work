@@ -1,0 +1,232 @@
+Ask about courses (or type 'exit' to quit):  Can you help me walk through my degree audit report and explain which core requirements I still need to complete?
+
+Assistant: Certainly! Let's walk through your degree audit report to identify which core requirements you still need to complete for your Master of Science in Computer Science/Information Systems.
+
+Current Status:
+Credits Required: 36
+Credits Applied: 12
+Remaining Credits Needed: 24
+
+Core Requirements Completed:
+1. CSC 532 - Design and Analysis of Algorithms I (3 credits)
+2. MIS 534 - Information Security Management (3 credits)
+3. CSC 550 - Software Engineering (3 credits)
+4. MIS 503 - Programming for Analytics (3 credits)
+
+Core Requirements Still Needed:
+1. Network Programming
+You need to complete: 
+CSC 544 - Network Programming
+
+2. Database Management Systems
+You need to complete:
+MIS 555 - Database Management Systems
+
+3. Analysis, Modeling, and Design
+You need to complete:
+MIS 565 - Analysis, Modeling and Design
+
+Additional Courses Requirement:
+You still need an additional 9 credits from elective courses within the range of CSC 501:598 or MIS 500:598, excluding CSC/MIS 594.
+
+Research or Thesis Credits Requirement:
+You must choose between completing a research project or a thesis:
+
+1. Research Project Option:
+Complete and successfully defend a research project.
+Earn a total of 6 credits in either CSC 594 or MIS 594.
+
+2. Thesis Option:
+Pass a comprehensive oral exam.
+Successfully defend your thesis.
+Submit all necessary thesis documents including draft, format approval sheet, final thesis, signed title page, and ETD submission form.
+Earn a total of 6 credits in either CSC 599 or MIS 599.
+
+Graduation Requirements:
+Apply to graduate via SeaNet by the specified deadline.
+Ensure you are enrolled in the semester you intend to graduate.
+
+Summary
+To fulfill your degree requirements, focus on completing the remaining core courses listed above, choose between the research project or thesis path for your capstone experience, and ensure that you meet all graduation requirements as outlined in your degree audit report.
+
+If you have any further questions about specific courses or how to plan your upcoming semesters effectively, feel free to ask!
+
+
+Ask about courses (or type 'exit' to quit):  I see some courses are marked as “still needed” (like CSC 544 for Network Programming and MIS 555 for Database Management Systems). When should I plan to take these?
+
+Assistant: To effectively plan your coursework and ensure timely completion of your degree, it's important to strategize your course schedule based on availability, prerequisites, and personal workload. Here's a suggested approach for when to take CSC 544 and MIS 555:
+
+Planning Your Course Schedule
+
+1. Check Prerequisites:
+Ensure you have completed any prerequisite courses required for CSC 544 and MIS 555.
+For CSC 544, the prerequisite is CSC 500 and either CSC 344 or MIS 323.
+For MIS 555, the prerequisites are BUS 500 and either CSC 455 or MIS 315.
+
+2. Course Availability:
+Check with the department or academic advisor regarding when these courses are typically offered (e.g., Fall, Spring).
+If possible, consult the upcoming course catalog or speak directly with faculty members to confirm scheduling.
+
+3. Balance Your Workload:
+Plan to take one of these courses in an upcoming semester alongside other requirements you need to fulfill.
+Consider balancing these with lighter elective courses if you're also working on research projects or a thesis.
+
+4. Align With Capstone Requirements:
+Depending on whether you choose a research project or thesis path, align your core coursework completion so that you can focus on capstone requirements in subsequent semesters.
+   
+5. Tentative Schedule Example:
+Spring/Summer Semester: 
+Take CSC 544 if available
+Focus on any remaining electives
+Continue working on capstone if applicable
+Fall Semester: 
+Take MIS 555 if available
+Finalize any remaining credits needed
+Complete capstone project/thesis defense
+
+Next Steps:
+Verify specific course offerings for upcoming semesters through SeaNet or by contacting your academic advisor.
+Adjust this plan based on personal commitments, part-time/full-time status changes, and any potential adjustments in course availability.
+
+By planning strategically around these considerations, you'll be better prepared to meet all degree requirements efficiently. If you need further assistance with personalized scheduling advice or connecting with faculty advisors, feel free to reach out!
+
+
+Ask about courses (or type 'exit' to quit):  Can you explain the differences between the research project and thesis options, and how should I decide which path fits my goals?
+
+Assistant: Choosing between a research project and a thesis can significantly impact your academic experience and future career path. Here's a breakdown of each option to help you decide which aligns best with your goals:
+
+Research Project Option
+
+Overview:
+Typically involves applied research focused on solving a practical problem.
+Requires completion of a specific project that demonstrates the application of theoretical knowledge.
+Culminates in a written report and an oral defense.
+
+Pros:
+Often more structured and shorter in duration than a thesis.
+Focused on practical applications, which can be beneficial if you're aiming for industry roles post-graduation.
+Allows for collaboration with industry partners or real-world projects.
+
+Cons:
+May offer less depth in terms of original research compared to a thesis.
+Might not provide as strong preparation for doctoral studies as a thesis would.
+
+Thesis Option
+
+Overview:
+Involves conducting original research that contributes new knowledge to the field.
+Results in a comprehensive document that includes literature review, methodology, findings, and analysis.
+Concludes with an oral defense and submission of the final thesis document.
+
+Pros:
+Provides an opportunity to deeply explore an area of interest, contributing to academic discourse.
+Strongly recommended if you plan to pursue doctoral studies or academic careers.
+Develops extensive skills in research methodologies and academic writing.
+
+Cons:
+Generally requires more time and commitment than a research project.
+Can be more challenging due to the need for original contributions to the field.
+
+How to Decide:
+
+1. Career Goals:
+If you're aiming for immediate entry into the workforce or roles that require practical skills, consider the Research Project option.
+If you're planning further studies or want an academic career, the Thesis might be more beneficial.
+
+2. Interest Level in Research:
+Choose based on your enthusiasm for conducting deep, independent research versus applying existing knowledge to solve problems.
+
+3. Time Commitment:
+Assess your available time and willingness to engage in longer-term projects when deciding between these options.
+
+4. Seek Advice from Faculty:
+Discuss with faculty advisors who can provide insights based on their understanding of your strengths and interests.
+
+5. Consider Opportunities for Collaboration:
+Look at opportunities within your department or through partnerships that align with either path (e.g., industry collaborations for projects).
+
+Ultimately, choose the path that aligns best with both your current interests and long-term career aspirations. If you need further assistance weighing these options or connecting with potential advisors, feel free to reach out!
+
+
+Ask about courses (or type 'exit' to quit):  What advice do you have for planning my Spring 2025 schedule to ensure I meet both the credit requirements and my degree milestones at UNCW?
+
+Assistant: To effectively plan your Spring 2025 schedule and ensure you meet both credit requirements and degree milestones at UNCW, consider the following steps:
+
+Step-by-Step Planning
+
+1. Review Degree Requirements:
+Confirm the remaining credits needed (24 credits) and specific courses required for your program.
+Prioritize core courses that are still needed: CSC 544 (Network Programming), MIS 555 (Database Management Systems), and MIS 565 (Analysis, Modeling, and Design).
+
+2. Check Course Offerings:
+Verify the availability of required courses for Spring 2025 through SeaNet or by consulting with your academic advisor.
+Consider enrolling in any electives that fit within your degree's allowed range (CSC 501:598 or MIS 500:598, except CSC/MIS 594).
+
+3. Balance Course Load:
+Aim to take a manageable number of credits per semester while balancing core courses with electives.
+Consider taking between 9-12 credits if you are studying full-time to maintain a balanced workload.
+
+4. Incorporate Capstone Work:
+Decide on pursuing either the research project or thesis path:
+If opting for a research project, begin planning your topic and potential advisors.
+For a thesis, start outlining potential research questions and methodology.
+
+5. Plan Around Deadlines:
+Ensure you're enrolled in all necessary courses to meet graduation requirements for Spring or Summer if you plan to graduate soon after.
+
+6. Utilize University Resources:
+Seek guidance from academic advisors to ensure all selected courses align with graduation goals.
+Attend workshops or seminars related to career planning offered by UNCW's career services.
+
+7. Prepare for Registration Early:
+Be ready for registration dates by having an approved course plan.
+Regularly check SeaNet for updates on course availability or changes in scheduling.
+
+8. Consider Continuous Enrollment if Needed: 
+    If you're not taking new coursework but need to maintain status while completing capstone work, register for continuous enrollment as needed.
+
+Tentative Schedule Example
+Core Courses: Enroll in CSC 544, MIS 555, and/or MIS 565 if available.
+Electives: Choose one or two electives from CSC/MIS offerings that interest you and contribute towards credit requirements.
+Capstone Preparation: Allocate time each week dedicated to capstone planning based on your chosen path (research project/thesis).
+
+Conclusion
+By strategically selecting courses that fulfill both core requirements and elective options while incorporating time for capstone preparation, you'll be well-positioned to meet degree milestones efficiently. Don't hesitate to reach out for additional support from faculty advisors as you finalize your plans!
+
+
+Ask about courses (or type 'exit' to quit):  I noticed the report mentions that no more than 9 credit hours from courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 can be applied toward my degree. Could you clarify how this policy works and what it means for my course planning?
+
+Assistant: Certainly! The policy that limits the number of credits from specific courses, such as CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 to a maximum of 9 credit hours toward your degree is designed to ensure that students gain a broad and diverse set of skills during their graduate studies. Here's how this policy affects your course planning:
+
+Understanding the Policy
+
+1. Course Types Affected:
+These courses typically involve independent study (CSC/MIS 591), research seminars (CSC/MIS 595), or internships (CSC/MIS 598).
+They are often more flexible in structure and can be tailored to individual student interests.
+
+2. Credit Limitations:
+You can only count a maximum of 9 credit hours from these types of courses towards the total credit requirement for your degree.
+This means you cannot rely solely on independent study or internship credits to fulfill your degree requirements.
+
+3. Purpose:
+Encourages students to take a variety of structured coursework alongside independent projects or practical experiences.
+Ensures exposure to a range of topics and methodologies within the Computer Science/Information Systems curriculum.
+
+Planning Your Courses
+
+1. Diversify Course Selection:
+Plan to include core courses and electives outside of these categories to meet the remaining credit requirements.
+Focus on completing required core courses like CSC 544, MIS 555, and MIS 565.
+
+2. Strategic Use of Credits:
+Use these limited credits strategically for areas where you have strong interest or career goals that align with independent study or internships.
+Consider using some credits for an internship if gaining practical experience is a priority.
+
+3. Balance with Other Requirements:
+Ensure you're meeting all other program requirements such as core coursework and capstone projects/thesis work without exceeding the limit on these specific course types.
+
+4. Consult with Advisors:
+Discuss your academic plan with an advisor who can help ensure compliance with this policy while aligning it with your personal goals.
+
+Conclusion
+This policy helps balance specialized learning experiences like independent studies and internships with traditional coursework, promoting comprehensive skill development across different areas within your field. By understanding this limitation and planning accordingly, you can optimize your educational experience while fulfilling all necessary degree requirements efficiently. If further clarification is needed or if you'd like assistance mapping out specific course options, feel free to reach out!

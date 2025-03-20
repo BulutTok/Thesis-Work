@@ -1,0 +1,207 @@
+Ask about courses (or type 'exit' to quit):  I currently have 33 out of 36 required credits with a GPA of 3.778—what specific steps or course options do you recommend to help me complete the remaining 3 credits quickly? 
+
+Assistant: Current Academic Status
+Credits Completed: 33 out of 36 required
+GPA: 3.778
+Major: Computer Science/Information Systems
+Remaining Requirements:
+You need 3 more credits to fulfill the degree requirement.
+You must successfully defend your research project.
+
+Recommendations for Completing Remaining Credits
+
+Step 1: Course Selection
+Based on your program requirements and current course load, here are some suitable options:
+
+1. CSC/MIS Courses (Excluding CSC 594 and MIS 594):
+Since you have already taken or are currently enrolled in CSC 594 (Research Project), you should consider other courses between CSC 501:598 or MIS 500:598.
+Review the course descriptions and prerequisites to ensure they align with your interests and academic plan.
+
+2. Potential Courses to Consider:
+MIS503 - Programming For Analytics: 
+This course is fully online, asynchronous, offering flexibility in managing your time while completing it quickly.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+MIS504 - Databases for Analytics: 
+Focuses on relational databases and data management, which could complement your existing skills in Database Management Systems.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+Step 2: Research Project Completion
+Ensure that you meet all the requirements for defending your research project as this is critical for graduation:
+Defense of Project (DEFN)
+Final Project completion (PROJ)
+
+Step 3: Enrollment and Graduation Requirements
+Make sure you're enrolled in the semester during which you plan to graduate.
+Apply to graduate via SeaNet by the deadline specified by UNCW.
+
+Summary of Actions
+
+1. Enroll in an additional course from CSC/MIS offerings that fits within your schedule and meets the degree criteria.
+2. Prioritize completing any outstanding requirements related to your research project defense.
+3. Follow up with administrative tasks like applying for graduation through SeaNet.
+
+By following these steps, you will efficiently complete your remaining credit requirement while ensuring a smooth path toward graduation. If needed, consult with your primary advisor, Devon Simmonds, for personalized advice or clarification on course selection and project requirements.
+
+
+Ask about courses (or type 'exit' to quit):  Since I’m enrolled in CSC 594 Research Project (6 credits), what are the next steps for successfully defending my project and completing the final project requirement as outlined in my audit?
+
+Assistant: Steps for Successfully Defending Your Research Project
+
+To fulfill the research project requirement and successfully defend your project, you need to complete several key steps. Here’s a structured approach to guide you through this process:
+
+Step 1: Complete the Research Project
+Finalize Your Research: Ensure that all components of your research are completed. This includes data collection, analysis, and drawing conclusions.
+Draft Your Report: Write a comprehensive report detailing your research methodology, findings, and implications.
+
+Step 2: Prepare for Defense
+Schedule the Defense: Contact your faculty advisor or graduate coordinator to schedule a date for your defense. Ensure that it aligns with departmental deadlines.
+Prepare Presentation: Develop a clear and concise presentation summarizing your research. Practice delivering it to ensure clarity and confidence during the actual defense.
+Seek Feedback: Before the defense, seek feedback from peers or mentors on both your report and presentation.
+
+Step 3: Execute Defense Requirements
+Oral Defense (DEFN): Present your research findings to a committee as scheduled. Be prepared to answer questions about your work and its broader impact.
+Final Project Submission (PROJ): After incorporating any feedback from the defense, submit the final version of your project report as required by your department.
+
+Step 4: Administrative Follow-Up
+Submit Required Documents: If there are any forms or additional documents needed post-defense (e.g., signed approval forms), make sure these are submitted promptly.
+Verify Completion Status: Check with the graduate school or relevant department office to confirm that all requirements have been officially recorded as complete.
+
+Summary of Actions
+1. Finalize and draft your research project report.
+2. Schedule and prepare for the oral defense by coordinating with faculty advisors.
+3. Conduct a successful oral defense and submit final documents as required.
+4. Confirm completion status with administrative offices.
+
+By adhering to these steps diligently, you'll be well-prepared to meet the necessary requirements for defending your research project effectively. For detailed instructions or specific forms related to submissions, visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page.
+
+
+Ask about courses (or type 'exit' to quit):  The degree audit lists both research project and thesis requirements—having completed the research project, am I exempt from the thesis-related items (like the comprehensive oral exam, draft thesis submission, and thesis defense), or do any of these still apply to me?
+
+Assistant: Clarification on Degree Requirements
+
+Based on your degree audit and the information provided, it appears that you are enrolled in a Research Project (CSC 594) for 6 credits. This typically means that you have opted for the research project track instead of the thesis track. Here’s how this affects your requirements:
+
+Research Project Track vs. Thesis Track
+Research Project Track:
+You are required to complete and defend a research project.
+You need to meet the defense requirement for your project as outlined earlier.
+Thesis Track:
+Involves comprehensive tasks such as a draft thesis submission, thesis defense, and other related documentation.
+These requirements generally do not apply if you are solely completing a research project.
+
+Your Current Standing
+
+Given that you are completing CSC 594 (Research Project), the thesis-related items such as:
+Comprehensive Oral Exam
+Draft Thesis Submission
+Thesis Defense Requirement
+Format Approval Sheet
+Final Thesis Submission
+Signed Thesis Title Page
+ETD Submission Form
+
+do not apply to your current academic track focused on the research project.
+
+Actionable Steps
+
+1. Focus on Completing Your Research Project: Ensure all components of your project defense and final report submission are completed.
+2. Verify with Advisor: For absolute clarity, consult with your primary advisor or graduate coordinator to confirm that no additional thesis-related requirements pertain to your degree path.
+3. Administrative Confirmation: After defending your research project, check with administrative offices to ensure all necessary records reflect completion accurately.
+
+By confirming these details with university officials, you'll ensure compliance with graduation requirements specific to your chosen academic path without unnecessary obligations from the thesis track.
+
+
+Ask about courses (or type 'exit' to quit):  What is the recommended timeline for completing the remaining research or thesis requirements, and how should I coordinate these deadlines with my graduation application process in SeaNet?
+
+Assistant: Recommended Timeline for Completing Research Project Requirements
+
+To ensure you meet all necessary requirements and align them with your graduation application process, follow this recommended timeline:
+
+1. Finalize Your Research Project
+Immediately: 
+Complete any remaining research activities.
+Draft your project report.
+
+2. Prepare for Defense
+Within the Next Month:
+Schedule your defense date with your advisor and committee.
+Prepare and practice your presentation.
+Seek feedback from peers or mentors.
+
+3. Conduct the Defense
+2-3 Months Before Graduation:
+Present your research to the committee on the scheduled date.
+Address any questions or feedback during the defense.
+
+4. Post-Defense Tasks
+1-2 Months Before Graduation:
+Revise your project report based on committee feedback.
+Submit final versions of any required documents to the department or graduate school.
+
+Coordinating With Graduation Application in SeaNet
+
+Apply to Graduate
+As Soon as Possible (Follow University Deadlines):
+Log into SeaNet and apply for graduation by the specified deadline.
+Ensure that you are enrolled in courses during your intended semester of graduation.
+
+Administrative Coordination
+1. Verify Completion Status: After submitting all project-related documents, confirm with your department that all requirements are recorded as complete.
+2. Regular Check-ins: Maintain communication with both your academic advisor and administrative offices to ensure no steps are missed in the lead-up to graduation.
+
+Summary of Actions
+Finalize research project components immediately and prepare for defense within a month.
+Schedule and conduct defense at least two months before expected graduation date.
+Apply for graduation through SeaNet by university deadlines, ensuring enrollment in relevant semester courses.
+
+By following this timeline, you will effectively manage both academic requirements and administrative processes leading up to graduation. If needed, consult with advisors or administrative staff for specific deadlines related to thesis/project submissions or other procedural queries.
+
+
+Ask about courses (or type 'exit' to quit):  Could you provide an overall evaluation of my degree audit, highlighting any potential concerns or areas where I might need additional guidance before I apply for graduation?
+
+Assistant: Overall Evaluation of Degree Audit
+
+Based on your degree audit and current academic standing, here is a comprehensive evaluation with highlighted areas for attention:
+
+Academic Status and Achievements
+Credits Completed: 33 out of 36 required credits.
+GPA: 3.778, which exceeds the minimum requirement of 3.0.
+Major: Computer Science/Information Systems.
+
+Areas Successfully Addressed
+
+1. Core Course Completion:
+You have successfully completed most core courses with strong grades, including:
+CSC 532 (Design and Analysis of Algorithms I)
+CSC 550 (Software Engineering)
+MIS 555 (Database Management Systems)
+
+2. In-Progress Courses:
+Currently enrolled in courses like CSC 502 (Machine Learning Fundamentals) and CSC 594 (Research Project), which are essential for meeting credit requirements.
+
+3. Research Project:
+Enrolled in CSC 594 for a total of 6 credits, indicating a focus on completing the research project requirement.
+
+Potential Concerns or Areas Needing Attention
+
+1. Remaining Credits:
+You need to complete an additional course to fulfill the remaining 3 credits required for graduation.
+Consider enrolling in another eligible course from the list provided earlier.
+
+2. Research Project Defense:
+Ensure all components related to your research project defense are scheduled and completed promptly.
+Double-check with your advisor that no additional requirements or documentation are pending.
+
+3. Graduation Application Process:
+Apply for graduation through SeaNet by the specified deadline.
+Ensure you are enrolled in at least one course during your intended semester of graduation to meet enrollment requirements.
+
+4. Verification with Advisor:
+Confirm with your primary advisor, Devon Simmonds, that all academic records accurately reflect your progress and upcoming plans.
+
+Additional Guidance Needed?
+
+If there are specific areas where you feel uncertain or require further assistance, consider scheduling a meeting with your academic advisor or reaching out to administrative offices for clarification on procedural aspects related to graduation.
+
+Summary
+Your degree audit indicates strong academic performance and significant progress toward completion. By addressing the outlined areas—particularly ensuring completion of all necessary credits and coordinating research project requirements—you will be well-positioned to apply for graduation successfully.

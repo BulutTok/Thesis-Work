@@ -1,0 +1,164 @@
+Ask about courses (or type 'exit' to quit):  can you help me understand which core courses I should prioritize this semester and how they fit into my overall degree requirements?
+
+Assistant: Certainly! Let's break down your degree requirements and prioritize your core courses for this semester.
+
+Current Academic Status
+Credits Completed: 12 out of 36 required.
+GPA Requirement: You need to achieve a minimum GPA of 3.0 (currently at 0.000).
+
+Core Course Requirements
+You have completed or are currently taking:
+CSC 532: Design & Analysis Of Algorithms I
+MIS 534: Information Security Management
+CSC 550: Software Engineering
+MIS 503: Programming for Analytics
+
+Still Needed:
+1. CSC 544: Network Programming
+2. MIS 555: Database Management Systems
+3. MIS 565: Analysis, Modeling and Design
+
+Recommendations
+
+Prioritize These Core Courses:
+1. CSC 544 - Network Programming
+Essential for completing your core requirements.
+   
+2. MIS 555 - Database Management Systems
+Important for understanding database management which is critical in many computing applications.
+
+3. MIS 565 - Analysis, Modeling and Design
+Focuses on methodologies that will be useful in project design and implementation.
+
+Additional Course Options:
+Since you also need elective credits, consider these while ensuring no more than nine credits from certain courses (e.g., CSC/MIS 591, CSC/MIS 595) count toward the degree.
+
+Research or Thesis Credits
+You need to complete either a research project or thesis (6 credits). Consider planning for these as you progress with your core courses.
+
+Actionable Steps
+1. Enroll in CSC 544, MIS 555, and MIS 565 if they are available this semester.
+2. Plan your schedule to maintain a balanced workload.
+3. Aim to improve your GPA by focusing on understanding course material thoroughly.
+4. Begin considering topics or areas of interest for your research project or thesis.
+
+Summary
+Focus on enrolling in the three remaining core courses while keeping an eye on fulfilling elective requirements and planning for research/thesis work later in the program.
+
+Feel free to reach out if you have more questions or need further assistance!
+
+
+Ask about courses (or type 'exit' to quit):  As an international student, I need to register for at least 9 credit hours (with 6 hours in-person) each semester. How should I structure my schedule to meet these visa and full-time requirements?
+
+Assistant: To meet your visa and full-time requirements as an international student, you should structure your schedule with the following considerations:
+
+Schedule Structure
+
+1. Enroll in at least 9 credit hours:
+You have core courses to complete, so prioritize these.
+
+2. Ensure at least 6 credit hours are in-person:
+Look for available sections of required courses that are offered in person.
+
+Suggested Courses
+CSC 544: Network Programming (if available in-person)
+MIS 555: Database Management Systems (if available in-person)
+MIS 565: Analysis, Modeling and Design (if available in-person)
+
+If any of these courses are not available in-person or don't add up to 6 in-person credits, consider elective courses that meet the requirement.
+
+Additional Steps
+Check the course schedule for each class to confirm their instructional method.
+Visit [UNCW Full-Time Status](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status) for more information about maintaining full-time status.
+
+Summary
+By enrolling in a combination of core and elective courses, ensure you have at least 9 total credit hours with a minimum of 6 being in-person. This will satisfy both your degree and visa requirements.
+
+
+Ask about courses (or type 'exit' to quit):  If I'm not enrolled in a traditional course while finishing my capstone work, what steps should I take to register for continuous enrollment and maintain my full-time status?
+
+Assistant: I understand that navigating these requirements can be stressful. Let's make sure you have a clear path forward.
+
+Steps for Continuous Enrollment
+
+1. Register for Continuous Enrollment:
+You need to enroll in the continuous enrollment course, which allows you to maintain your status while finishing your capstone work.
+This is specifically designed for students who have completed all coursework but are working on exit requirements like a capstone or thesis.
+
+2. Visit the Graduate School Forms Page:
+For detailed instructions and necessary forms, visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page.
+Look for the continuous enrollment form and follow the guidelines provided there.
+
+3. Ensure Full-Time Status:
+Even with continuous enrollment, confirm with your advisor or international student office how it impacts your full-time status, especially concerning visa requirements.
+
+Summary
+By enrolling in continuous enrollment, you'll maintain your academic standing while completing your capstone. Don't hesitate to reach out to your advisor or international office if you have more questions—they're there to help!
+
+If there's anything else I can assist you with, please let me know!
+
+
+Ask about courses (or type 'exit' to quit):  How does taking a full-time course load of 9 to 15 hours per semester benefit my progress toward graduation, especially given the credit and GPA requirements outlined in my audit?
+
+Assistant: Taking a full-time course load of 9 to 15 credit hours per semester can significantly benefit your progress toward graduation. Here's how:
+
+Benefits of Full-Time Enrollment
+
+1. Faster Progress:
+Completing more credits each semester accelerates your path to the 36-credit requirement, allowing you to graduate sooner.
+
+2. GPA Improvement:
+Taking multiple courses provides opportunities to improve your GPA by performing well across various subjects.
+Focus on courses that align with your strengths and interests to boost your grades.
+
+3. Consistent Engagement:
+Staying engaged with a full schedule keeps you connected to academic resources and faculty, providing support and feedback crucial for success.
+
+4. Balanced Workload:
+A range of courses can balance challenging classes with those you find more manageable, spreading the workload evenly.
+
+5. Visa Compliance (for International Students):
+Maintaining full-time status ensures compliance with visa requirements, avoiding any potential issues with immigration status.
+
+Strategic Planning
+Prioritize core courses while filling in elective slots that interest you or complement your career goals.
+Consider mixing in-person and online courses if it helps manage time effectively.
+
+Summary
+A full-time course load helps meet credit and GPA requirements efficiently, supporting timely graduation while enhancing learning experiences and maintaining visa status. If you need further assistance or have concerns about specific courses, feel free to reach out!
+
+
+Ask about courses (or type 'exit' to quit):  My degree audit indicates that courses like Network Programming (CSC 544), Database Management Systems (MIS 555), and Analysis, Modeling and Design (MIS 565) are still needed and are only offered in specific semesters. What detailed strategies should I use to plan and register for these courses to avoid delaying my graduation?
+
+Assistant: To avoid delays in your graduation, it's crucial to strategically plan and register for the courses you need. Here are some detailed strategies:
+
+Course Planning Strategies
+
+1. Check Course Availability:
+Confirm when CSC 544, MIS 555, and MIS 565 are offered. Courses may be available only in specific semesters (e.g., fall or spring).
+Contact the department or check the academic catalog for this information.
+
+2. Priority Registration:
+Register as soon as registration opens to secure a spot in these essential courses.
+Mark registration dates on your calendar and set reminders.
+
+3. Advising Sessions:
+Schedule regular meetings with your academic advisor to discuss course offerings and your plan.
+Advisors can provide insights into future course schedules and any potential changes.
+
+4. Backup Options:
+Identify alternative electives or courses that could fulfill requirements if any of these are unavailable.
+This ensures you continue progressing even if a specific course is not offered.
+
+5. Monitor Prerequisites:
+Ensure you meet all prerequisites before registering for these courses.
+Consider taking prerequisite courses early if needed.
+
+6. Flexibility with Electives:
+Use elective slots wisely by choosing courses that complement required ones or align with career goals.
+
+7. Communicate with Faculty:
+Reach out to instructors or department heads if you're struggling to fit a course into your schedule; they might offer advice or solutions.
+
+Summary
+By staying proactive, consulting advisors, and planning around course availability, you can effectively manage your schedule and avoid delaying graduation. Feel free to ask more questions if needed!

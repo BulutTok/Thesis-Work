@@ -1,0 +1,249 @@
+Ask about courses (or type 'exit' to quit):  I still need an additional 3 credits to complete my degree—are there elective courses or independent study options available that can fulfill this requirement while also enhancing my professional skill set? 
+
+Assistant: Evaluation of Current Academic Status and Interests
+
+Based on your degree audit, you have completed 33 credits towards your Master of Science in Computer Science/Information Systems and need an additional 3 credits to fulfill the 36-credit requirement. You have a strong academic record with a GPA of 3.778 and are currently enrolled in several courses that are in progress.
+
+Identifying Relevant Academic and Career Goals
+
+Given your focus on Computer Science/Information Systems, it would be beneficial to choose an elective or independent study that aligns with your professional goals and enhances your skill set. Consider areas such as advanced programming, data analytics, cybersecurity, or software development.
+
+Course Selection Options
+
+Here are some options for fulfilling the remaining credit requirement:
+
+1. Elective Courses:
+CSC515 - Artificial Intelligence: This course offers key concepts and applications in AI, which is highly relevant if you're interested in pursuing a career in AI development or research.
+Prerequisite: CSC 331 (min grade B).
+CSC517 - Symbolic Artificial Intelligence: Focuses on knowledge representation and heuristic search strategies.
+No prerequisites required.
+
+2. Independent Study:
+CSC591/MIS591 - Directed Independent Study: Allows for investigation under faculty supervision beyond existing courses.
+Credits: 1-6 (You can opt for 3 credits).
+Requires permission from an instructor.
+
+3. Internship Opportunities:
+MIS598/CSC598/BAN598 - Internship: Provides practical experience through work at a private company or public agency.
+Requires an overall GPA of at least 3.0 and permission from the graduate coordinator.
+Credits: Typically offered for up to 6 credits but can be taken for 3 credits based on arrangement.
+
+Actionable Steps
+Review course descriptions to identify which topics align best with your career aspirations.
+Contact potential faculty supervisors if you are interested in pursuing an independent study (CSC591/MIS591) to discuss possible projects.
+Reach out to the graduate coordinator regarding internship opportunities (MIS598/CSC598/BAN598) that match your interests.
+Ensure any selected course fits within the allowable credit limits set by your program requirements (e.g., no more than 9 credit hours from specific lists).
+
+Summary of Recommendations
+
+To fulfill the additional credit requirement while enhancing your professional skills:
+
+1. Consider enrolling in elective courses like CSC515 or CSC517 if they align with your career goals.
+2. Explore Directed Independent Study (CSC591/MIS591) options by discussing potential projects with faculty members.
+3. Investigate internship opportunities (MIS598/CSC598/BAN598) that offer hands-on experience relevant to your field of interest.
+
+These steps will help you meet graduation requirements while gaining valuable skills applicable to future career opportunities.
+
+
+Ask about courses (or type 'exit' to quit):  Could you review my degree audit with me to confirm that all requirements are accurately reflected, and advise if there are any hidden or additional departmental criteria I should address before applying for graduation?
+
+Assistant: Review of Your Degree Audit
+
+Based on the degree audit information provided, here's a breakdown of your current academic standing and outstanding requirements:
+
+Current Status:
+Overall GPA: 3.778
+Credits Required for Degree: 36
+Credits Completed: 33
+In-progress Credits: 15 (Courses include CSC502, CSC592, CSC594, MIS534)
+
+Outstanding Requirements:
+1. Credit Requirement:
+You need an additional 3 credits to meet the total requirement of 36 credits.
+
+2. Research or Thesis Requirements:
+Must successfully defend the research project.
+Complete the final project.
+Pass a comprehensive oral exam.
+Submit and defend your thesis, including submitting various forms and approvals related to the thesis.
+
+3. Graduation Requirements:
+Apply to graduate in SeaNet by the deadline.
+Be enrolled in the semester you plan to graduate.
+
+Additional Departmental Criteria
+
+While your degree audit covers most requirements, here are some additional considerations:
+
+1. Capstone or Thesis Project:
+Ensure that all components (defense, written reports) are scheduled and completed by department deadlines.
+   
+2. Advisory Meeting:
+Meet with your primary advisor, Devon Simmonds, to discuss any potential departmental criteria not captured in the degree audit report.
+   
+3. Departmental Approval for Electives/Independent Study:
+Verify that any elective or independent study courses you choose align with departmental policies and receive necessary approvals.
+
+4. Submission Deadlines:
+Pay close attention to submission deadlines for thesis drafts, format approval sheets, and other required documents through the Graduate School website.
+
+5. Graduation Application:
+Confirm application deadlines for graduation through SeaNet and ensure all documentation is submitted on time.
+
+Actionable Steps
+
+1. Schedule a meeting with your advisor to review any department-specific requirements not listed in your audit.
+2. Confirm elective course selections or independent studies with relevant faculty members to ensure they meet graduation criteria.
+3. Prepare for upcoming defense presentations or exams by reviewing guidelines provided by your department.
+4. Regularly check the Graduate School's website for updates on form submissions and deadlines related to thesis requirements.
+
+Summary
+
+You are well-positioned academically but should address specific project/thesis milestones and administrative tasks before applying for graduation. By actively engaging with your advisor and department resources, you'll be able to fulfill all remaining requirements smoothly.
+
+
+Ask about courses (or type 'exit' to quit):  For my CSC 594 Research Project, what are the key milestones and deliverables (such as the proposal, draft submission, and final defense), and how should I best coordinate with my advisor to ensure I meet these deadlines?
+
+Assistant: Key Milestones and Deliverables for CSC 594 Research Project
+
+The CSC 594 Research Project is an essential component of your degree program, and it involves several critical milestones and deliverables. Here’s a detailed overview:
+
+Key Milestones:
+
+1. Proposal Submission:
+Objective: Define the scope, objectives, methodology, and expected outcomes of your research.
+Action: Develop a comprehensive proposal outlining your project plan.
+Deadline: Typically early in the semester; confirm specific dates with your advisor.
+
+2. Draft Submission:
+Objective: Submit a draft of your research findings and analysis for review.
+Action: Prepare an initial draft that includes data collection results, analysis, conclusions, and any supporting documentation.
+Deadline: Mid-semester; exact timing will depend on departmental guidelines.
+
+3. Final Defense Preparation:
+Objective: Present your research findings to a committee for evaluation.
+Action: Develop a presentation summarizing key points from your research project. Practice defense with peers or mentors if possible.
+Deadline: Towards the end of the semester; coordinate with your advisor to schedule the defense date.
+
+4. Final Report Submission:
+Objective: Submit the finalized version of your research report after incorporating feedback from the defense.
+Action: Revise and polish your report based on feedback received during the defense.
+Deadline: Immediately following successful defense; ensure compliance with submission guidelines provided by the Graduate School.
+
+Coordination with Your Advisor
+
+To ensure you meet these deadlines effectively:
+
+1. Regular Meetings:
+Schedule regular check-ins (bi-weekly or monthly) with your advisor to discuss progress, address challenges, and receive feedback on drafts.
+
+2. Feedback Integration:
+Actively seek input from your advisor on each stage of your project—proposal development, data collection strategies, draft iterations—to refine and improve quality.
+
+3. Timeline Development:
+Work with your advisor to create a timeline that outlines each milestone's target dates aligned with departmental deadlines.
+
+4. Resource Utilization:
+Leverage available resources such as writing workshops or peer reviews facilitated by the department to enhance the quality of deliverables.
+
+5. Open Communication:
+Maintain open lines of communication regarding any changes in project scope or unforeseen delays to adjust plans accordingly.
+
+Summary
+
+Successfully completing CSC 594 requires careful planning and coordination between you and your advisor. By establishing clear milestones, adhering to deadlines, seeking continuous feedback, and utilizing available resources effectively, you'll be well-prepared to complete this significant component of your degree program successfully.
+
+
+Ask about courses (or type 'exit' to quit):  Are there any final-semester support resources—like workshops, one-on-one advising sessions, or seminars—available to help me successfully navigate my project defense and complete the administrative steps required for graduation?
+
+Assistant: Final-Semester Support Resources
+
+As you approach the completion of your degree, it's crucial to take advantage of the resources available to ensure a smooth transition through your final semester. Here are some support resources typically offered:
+
+Academic and Project Support
+
+1. Workshops:
+Writing and Research Workshops: Offered by the Writing Center or Graduate School, these workshops focus on thesis writing, research methodologies, and data analysis techniques.
+Presentation Skills Workshops: These sessions help refine your public speaking and presentation skills, crucial for your project defense.
+
+2. One-on-One Advising Sessions:
+Advisor Meetings: Regularly schedule meetings with your primary advisor, Devon Simmonds, to discuss progress and receive personalized feedback on your project.
+Graduate Program Coordinator Meetings: For specific administrative guidance related to graduation requirements.
+
+3. Seminars:
+Research Seminars: Attend seminars hosted by the department or university that focus on current research trends in Computer Science/Information Systems. These can provide insights into effective research practices.
+Professional Development Seminars: These may cover topics like career planning post-graduation, networking strategies, or industry-specific skills enhancement.
+
+Administrative Support
+
+1. Graduate School Resources:
+Visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page for detailed instructions on submission deadlines for graduation-related documents (e.g., thesis submission forms).
+
+2. Registrar’s Office:
+The Registrar's Office can assist with verifying enrollment status, applying for graduation in SeaNet, and ensuring all academic records are up-to-date.
+
+3. Library Services:
+Utilize library services for access to databases, journals, and other scholarly materials essential for your research.
+
+4. Career Services:
+Engage with Career Services for resume reviews, interview preparation workshops, and job search assistance as you near graduation.
+
+Actionable Steps
+Schedule an initial meeting with your advisor at the start of the semester to outline key objectives and set regular follow-up appointments.
+Register early for any workshops or seminars relevant to your needs; these may fill up quickly during peak times.
+Check the Graduate School website frequently for updates on important deadlines related to thesis submissions and graduation applications.
+Contact Career Services early in the semester if you plan to enter the job market immediately after graduation; they can provide valuable assistance tailored to your field.
+
+Summary
+
+By leveraging these support resources effectively throughout your final semester—attending workshops, engaging in one-on-one advising sessions, participating in seminars—you'll be well-prepared not only for a successful project defense but also for completing all necessary administrative steps required for graduation smoothly.
+
+
+Ask about courses (or type 'exit' to quit):  If unforeseen delays occur in meeting the research project milestones or thesis requirements, what is the process for requesting deadline extensions, and how might such changes affect my graduation timeline?
+
+Assistant: Process for Requesting Deadline Extensions
+
+If you encounter unforeseen delays in meeting research project milestones or thesis requirements, it's important to address these issues proactively. Here's a step-by-step guide on how to request deadline extensions and the potential impact on your graduation timeline:
+
+Steps to Request an Extension
+
+1. Identify the Issue:
+Clearly define the specific challenge causing the delay (e.g., data collection setbacks, personal circumstances).
+
+2. Communicate Early:
+Reach out to your primary advisor as soon as possible to discuss the situation. Open communication is crucial for finding a feasible solution.
+
+3. Document Your Request:
+Prepare a written request detailing:
+The nature of the delay.
+Actions you've taken to mitigate it.
+A revised timeline with proposed new deadlines.
+Any supporting documentation (e.g., medical notes, letters from employers).
+
+4. Advisor Approval:
+Obtain approval from your advisor for the extension request before proceeding further.
+
+5. Departmental Submission:
+Submit your formal extension request to the department chair or graduate program coordinator, following any specific departmental procedures.
+
+6. Graduate School Notification:
+If necessary, notify the Graduate School about changes in your timeline, especially if they affect thesis submission deadlines or graduation applications.
+
+Potential Impact on Graduation Timeline
+Graduation Delay: 
+An approved extension may push back key deliverables such as your defense date or final thesis submission, potentially delaying your graduation by one semester.
+Enrollment Requirements:
+Ensure you remain enrolled in continuous enrollment courses (like CSC600) if extending beyond current semester deadlines without completing all degree requirements.
+Financial Considerations:
+Be aware of any financial implications related to extending enrollment, including tuition fees and financial aid eligibility adjustments.
+
+Actionable Steps
+
+1. Act quickly upon recognizing any potential delays; early intervention is key to minimizing impacts.
+2. Collaborate closely with your advisor throughout this process—they can provide valuable support and advocacy when requesting extensions.
+3. Regularly review academic policies related to extensions on both departmental and university levels via relevant websites or handbooks.
+4. Plan ahead for potential financial implications of extended study periods—consult with Financial Aid Office if needed.
+
+Summary
+
+Requesting an extension requires timely action and clear communication with both advisors and departmental administrators. While extensions can affect your graduation timeline by delaying completion dates, proper planning can help manage these impacts effectively while ensuring you meet all academic requirements successfully despite unforeseen challenges.

@@ -1,0 +1,168 @@
+Ask about courses (or type 'exit' to quit):  As a new student, could you help me identify which core classes I should enroll in first and explain which courses are only offered during specific semesters?
+
+Assistant: Certainly! As a new student in the Master of Science program for Computer Science and Information Systems, it's important to start with your core courses to establish a strong foundation. Here’s a step-by-step guide on which courses you should prioritize:
+
+Core Courses to Enroll In First
+1. CSC 532 - Design and Analysis of Algorithms I
+This course is crucial as it covers the theory of designing efficient computer algorithms, which is fundamental for many advanced topics.
+   
+2. MIS 534 - Information Security Management
+Understanding security management in networked systems is essential for safeguarding information systems.
+   
+3. CSC 544 - Network Programming
+This course will give you hands-on experience with network components, which is vital for any computing-related field.
+
+4. CSC 550 - Software Engineering
+Provides an introduction to software life cycle models and emphasizes good software engineering practices.
+
+5. MIS 555 - Database Management Systems
+Focuses on database design and administration, which are key skills in managing data effectively.
+
+6. MIS 565 - Analysis, Modeling, and Design
+Covers methodologies for analyzing business needs and translating them into information system solutions.
+
+Course Offering Details
+From the provided data, it appears that specific semester offerings are not explicitly mentioned for each course. However, based on typical university scheduling practices:
+Core courses such as those listed above are usually offered every semester due to their foundational nature.
+Elective or specialized courses might be offered only once a year or during specific semesters (e.g., Fall or Spring).
+
+Actionable Steps
+Enroll Early: Register early to secure your spot in these core classes as they tend to fill up quickly.
+Consult Academic Calendar: Check the academic calendar or contact the department directly for detailed information about when each course is offered.
+Plan Ahead: If any core courses are unavailable this semester, plan your schedule accordingly by taking other required or elective courses.
+
+Summary
+Start with enrolling in CSC 532, MIS 534, CSC 544, CSC 550, MIS 555, and MIS 565 if they are available this semester. These foundational courses will provide you with essential skills needed throughout your program. Always verify specific offering times through official channels like the department's website or academic advisors.
+
+For more personalized advice tailored to your schedule and interests, consider meeting with an academic advisor who can provide insights based on current departmental offerings and trends.
+
+
+Ask about courses (or type 'exit' to quit):  I understand that to be considered full-time, I need to register for at least 9 but no more than 15 credit hours. How can I ensure my planned schedule meets this requirement?
+
+Assistant: To ensure that your planned schedule meets the full-time requirement, you need to register for at least 9 credit hours but not exceed 15 credit hours per semester. Here’s how you can plan your schedule effectively:
+
+Steps to Ensure Full-Time Enrollment
+
+1. List Your Core Courses:
+Identify the core courses you plan to take this semester and note their credit hours.
+Each core course typically carries 3 credit hours.
+
+2. Calculate Total Credit Hours:
+Add up the credit hours of your selected courses.
+Ensure the total is between 9 and 15 credits.
+
+3. Check Course Availability:
+Verify that all selected courses are available in the upcoming semester.
+Make adjustments if any course is not offered.
+
+4. Balance Your Workload:
+Consider a mix of core and elective courses to balance your workload.
+Avoid overloading yourself with too many challenging courses in one semester.
+
+5. Consult with an Advisor:
+Meet with an academic advisor to review your planned schedule.
+They can provide insights and confirm that your course selections meet program requirements.
+
+6. Register Early:
+Register for classes as soon as registration opens to secure your spot in desired courses.
+   
+Example Schedule
+If each course is worth 3 credits, a typical full-time schedule might include:
+CSC 532 (3 credits)
+MIS 534 (3 credits)
+CSC 544 (3 credits)
+
+This totals 9 credit hours, which meets the minimum requirement for full-time status.
+
+Additional Resources
+For further details on maintaining full-time status, especially if you're an international student, you can refer to [UNCW's Full-Time Status Information](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+Summary
+Ensure you register for at least three courses totaling a minimum of 9 credits this semester to maintain full-time student status. Plan wisely by considering both core and elective offerings while balancing your academic workload effectively.
+
+
+Ask about courses (or type 'exit' to quit):  As an international student, I must complete at least 6 hours of in-person courses to satisfy visa requirements. Can you clarify how this rule applies if I mix in online classes?
+
+Assistant: As an international student, maintaining your visa status requires you to be enrolled full-time, which is at least 9 credit hours per semester. Importantly, at least 6 of these credit hours must be from in-person classes to satisfy visa requirements. Here's how you can plan your schedule accordingly:
+
+Planning Your Schedule
+
+1. Identify In-Person Courses:
+Look for courses with scheduled in-person class times.
+From the provided course data, examples of in-person classes include:
+CSC 532 - Design and Analysis of Algorithms I (Scheduled Meeting Times: TR)
+MIS 534 - Information Security Management (Scheduled Meeting Times: MW)
+
+2. Select Online Courses Wisely:
+You may take online courses to make up the remaining credits needed for full-time status.
+Ensure that only up to 3 credit hours are taken online if you're taking a minimum of 9 credit hours.
+
+3. Calculate Total Credit Hours:
+Ensure that your total enrollment includes at least 6 credit hours from in-person courses and any additional credits required through online or other modalities.
+
+4. Meet with an Advisor:
+Confirm your planned schedule meets both academic and visa requirements by consulting with an academic advisor.
+   
+5. Use University Resources:
+Refer to [UNCW's Full-Time Status Information](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status) for detailed guidelines.
+
+Example Schedule
+In-Person Courses (6 Credits):
+CSC 532 (3 credits)
+MIS 534 (3 credits)
+Online Course (3 Credits):
+Any available online course that fits your program needs.
+
+Summary
+To comply with visa requirements as an international student, enroll in at least two in-person courses totaling at least 6 credit hours and complete the rest of your required credit load with online or other available course options to reach full-time status. Always verify specific course offerings each semester as they may vary.
+
+
+Ask about courses (or type 'exit' to quit):  If I'm not taking a regular course this semester and need to focus on my capstone, what are the steps for registering under “Continuous Enrollment” to maintain my full-time status?
+
+Assistant: If you're focusing on your capstone and not taking regular courses this semester, you can maintain your full-time status by registering for "Continuous Enrollment." Here are the steps to do so:
+
+Steps for Registering Under Continuous Enrollment
+
+1. Understand Continuous Enrollment:
+Continuous Enrollment is intended for graduate students who have completed all required coursework but need to maintain enrollment while finishing exit requirements like a capstone or thesis.
+
+2. Check Eligibility:
+Ensure you have completed all necessary coursework and only need to finish your capstone project.
+
+3. Access Required Forms:
+Visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page to find the continuous enrollment form.
+Complete any additional forms as instructed on this page.
+
+4. Complete the Form:
+Fill out the continuous enrollment form with details about your current academic status and plans for completing your capstone.
+
+5. Submit the Form:
+Submit the completed form to the Graduate School according to their instructions.
+   
+6. Register for Continuous Enrollment Course:
+Once approved, register for the continuous enrollment course (MIS 600 or CSC 600), which typically has 0 credit hours but maintains your active student status.
+   
+7. Consult Your Advisor:
+Meet with your academic advisor to ensure that all paperwork is complete and that you remain in good standing within your program.
+
+Summary
+By following these steps, you'll be able to focus on completing your capstone while maintaining full-time student status through continuous enrollment registration. This process helps ensure compliance with university policies and visa requirements if applicable.
+
+
+Ask about courses (or type 'exit' to quit):  Can you explain the recommended distribution of capstone credit hours—specifically, how many should be registered for during the proposal phase and how many during the final completion and defense phase?
+
+Assistant: Certainly! The capstone project is typically divided into two phases: the proposal phase and the final completion and defense phase. Here’s how you should plan your capstone credit hours:
+
+Recommended Distribution of Capstone Credit Hours
+
+1. Proposal Phase:
+Register for 3 Credit Hours: During this phase, you'll focus on developing your capstone proposal, which includes defining your research question or project scope, conducting preliminary research, and planning your methodology.
+
+2. Final Completion and Defense Phase:
+Register for 3 Credit Hours: In this phase, you'll complete the execution of your project, analyze results, write up your findings in a comprehensive report or thesis, and prepare for the defense of your capstone.
+
+Total Capstone Credits
+Typically, you will register for a total of 6 credit hours across both phases (3 credits per semester). This distribution allows you to allocate adequate time and resources to each critical stage of your capstone work.
+
+Summary
+By following this recommended structure—3 credit hours during the proposal phase and 3 credit hours during the final completion/defense—you can effectively manage your workload while ensuring that each component of the capstone receives sufficient attention. Always consult with your advisor to confirm these details align with departmental requirements.

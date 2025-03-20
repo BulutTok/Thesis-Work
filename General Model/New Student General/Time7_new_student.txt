@@ -1,0 +1,143 @@
+Ask about courses (or type 'exit' to quit):  What are the core courses required for the Computer Science & Information Systems major, and do they have any specific prerequisites?
+
+Assistant: Core Courses for Computer Science & Information Systems Major
+
+Based on the degree audit information provided, here are the core courses required for the Computer Science & Information Systems major along with their prerequisites:
+
+1. CSC 532 - Design and Analysis of Algorithms I
+Prerequisite: CSC 500
+This course covers the theory of designing efficient computer algorithms including sorting, searching, pattern matching, and more.
+
+2. MIS 534 - Information Security Management
+Prerequisites: BUS 500 and CSC 344 or MIS 323
+Focuses on security management principles in networked computer-based systems with hands-on implementation in a laboratory environment.
+
+3. CSC 544 - Network Programming
+Prerequisites: CSC 500 and CSC 344 or MIS 323
+Involves implementing network and distributed programming concepts using languages like C, C++, or JAVA on various platforms.
+
+4. CSC 550 - Software Engineering
+Prerequisites: CSC 500 and CSC 450 or MIS 411
+Covers software life cycle models, project management, risk management, and emphasizes large development projects.
+
+5. MIS 555 - Database Management Systems
+Prerequisites: BUS 500 and CSC 455 or MIS 315
+Study of design and administration of database systems in a business environment focusing on relational modeling, data integrity, etc.
+
+6. MIS 565 - Analysis, Modeling and Design
+Prerequisites: BUS 500 and CSC 450 or MIS 411
+Explores analysis and modeling of information systems including project estimation, logical design methodologies, etc.
+
+Summary
+These core courses are essential to gain foundational knowledge in both theoretical concepts and practical skills necessary for a career in Computer Science & Information Systems.
+Ensure you have completed the prerequisite courses before enrolling in these core classes to be adequately prepared.
+Keep track of your degree progress by consulting your academic advisor regularly to ensure all requirements are being met efficiently.
+
+
+Ask about courses (or type 'exit' to quit):  Are there any recommended prior courses or knowledge needed before enrolling in CSC 532 (Design and Analysis of Algorithms)?
+
+Assistant: Recommended Prior Courses or Knowledge for CSC 532
+
+The course CSC 532 - Design and Analysis of Algorithms I has a specific prerequisite:
+CSC 500 - Introduction to Computer Science
+This course provides an accelerated introduction to fundamental concepts in computer science, including object-oriented programming, data structures, algorithm design and analysis, and software engineering concepts.
+
+Recommended Knowledge
+
+To succeed in CSC 532, it is recommended that students have:
+
+1. Strong Foundation in Programming:
+Understanding of programming languages and paradigms.
+Experience with writing and debugging code.
+
+2. Familiarity with Data Structures:
+Concepts such as arrays, linked lists, stacks, queues, trees, graphs, etc.
+Ability to implement these structures efficiently.
+
+3. Basic Algorithmic Techniques:
+Understanding basic sorting and searching algorithms.
+Familiarity with complexity analysis (Big O notation).
+
+4. Problem-Solving Skills:
+Ability to approach problems methodically and break them down into manageable parts.
+
+By ensuring you have a solid grasp of these areas before enrolling in CSC 532, you will be better prepared to tackle the more advanced topics covered in the course. If you need additional preparation, consider reviewing materials or taking supplementary courses related to these foundational topics.
+
+
+Ask about courses (or type 'exit' to quit):  What prerequisites are required for MIS 534 (Information Security Management), and are there any exceptions?
+
+Assistant: Prerequisites for MIS 534 - Information Security Management
+
+The prerequisites for enrolling in MIS 534 - Information Security Management are:
+BUS 500
+CSC 344 or MIS 323
+
+Course Descriptions of Prerequisites
+
+1. BUS 500 - Business Essentials:
+This course is typically an introductory course covering fundamental business concepts and practices.
+
+2. CSC 344 or MIS 323:
+These courses generally cover topics related to computer science or management information systems, providing a foundation in the technical skills needed for information security.
+
+Exceptions and Additional Information
+No specific exceptions are mentioned in the course details provided.
+If you believe you have equivalent experience or coursework that might satisfy these prerequisites, consider discussing this with your academic advisor or the course instructor to see if any accommodations can be made.
+
+Ensure that you have completed these prerequisite courses to be well-prepared for the advanced content in MIS 534. If you're unsure about your eligibility or preparedness, consulting with an academic advisor would be beneficial.
+
+
+Ask about courses (or type 'exit' to quit):  Can you explain if the course CSC 544 (Network Programming) requires any foundational courses in programming or networking?
+
+Assistant: Prerequisites for CSC 544 - Network Programming
+
+CSC 544 - Network Programming has the following prerequisites:
+CSC 500 - Introduction to Computer Science
+CSC 344 or MIS 323
+
+Foundational Courses and Skills Required
+
+1. CSC 500 - Introduction to Computer Science:
+This course provides a strong foundation in fundamental computer science concepts, including programming, data structures, algorithm design, and software engineering.
+It ensures that students have a basic understanding of object-oriented programming and data structures, which are essential for network programming.
+
+2. CSC 344 or MIS 323:
+These courses typically cover more advanced topics related to computer science or management information systems.
+They provide foundational knowledge in areas such as system architecture, databases, or networking concepts.
+
+Summary
+
+The prerequisites ensure that students enrolling in CSC 544 have:
+A solid background in programming and an understanding of data structures from CSC 500.
+Additional technical skills from either CSC 344 or MIS 323, which may include elements of networking or systems management.
+
+This foundational knowledge is crucial for success in network programming tasks such as implementing network protocols and distributed systems using various programming languages. If you feel you need further preparation in these areas before taking CSC 544, consider reviewing relevant materials or seeking guidance from an academic advisor.
+
+
+Ask about courses (or type 'exit' to quit):  Where can I find detailed information about the prerequisites for CSC 550 (Software Engineering) and MIS 555 (Database Management Systems)?
+
+Assistant: Detailed Information on Prerequisites
+
+For detailed information about the prerequisites for CSC 550 - Software Engineering and MIS 555 - Database Management Systems, you can refer to the course descriptions provided in the university's course catalog. Here is a summary of the prerequisites for each course:
+
+CSC 550 - Software Engineering
+Prerequisites:
+CSC 500 - Introduction to Computer Science
+Provides an accelerated introduction to fundamental computer science concepts.
+CSC 450 or MIS 411
+These courses typically cover advanced topics in computer science or management information systems, focusing on areas such as systems analysis, design, and implementation.
+
+MIS 555 - Database Management Systems
+Prerequisites:
+BUS 500
+An introductory course covering fundamental business concepts and practices.
+CSC 455 or MIS 315
+These courses provide foundational knowledge in databases or information systems management.
+
+Where to Find More Information
+
+To find more detailed and specific information about these courses and their prerequisites:
+Visit the [UNCW Course Catalog](https://catalogue.uncw.edu) where you can search for specific courses using their course codes (e.g., CSC 550, MIS 555).
+Contact your academic advisor for personalized guidance based on your current coursework and future academic plans.
+
+Reviewing these resources will ensure that you have all necessary prerequisite knowledge before enrolling in these advanced courses.

@@ -1,0 +1,225 @@
+Ask about courses (or type 'exit' to quit):  I see I still need 24 credits to finish my degree—what are some recommended strategies for selecting courses that will help me meet this requirement efficiently?
+
+Assistant: Academic Evaluation and Course Selection Strategy
+
+1. Evaluate Current Academic Status
+You have completed 12 credits out of the required 36 for your Master of Science in Computer Science & Information Systems.
+Your current GPA is 0.000, but you need a minimum GPA of 3.0 to meet graduation requirements.
+
+2. Identify Core Requirements and Interests
+Core Courses Needed:
+Network Programming (CSC 544)
+Database Management Systems (MIS 555)
+Analysis, Modeling, and Design (MIS 565)
+Research or Thesis Credits:
+Choose between Research Project (6 credits in CSC/MIS 594) or Thesis (6 credits in CSC/MIS 599).
+
+3. Course Selection Recommendations
+
+Core Courses:
+CSC 544 - Network Programming: 
+   Focus on implementing network programming concepts which is crucial for understanding distributed systems.
+MIS 555 - Database Management Systems: 
+   Essential for understanding database design and administration in business environments.
+MIS 565 - Analysis, Modeling, and Design: 
+   This will enhance your skills in project estimation, logical design methodologies, and risk analysis.
+
+Elective Options:
+Consider courses that align with your career interests while also meeting the credit requirements:
+CSC511 – Fundamentals of Internet of Things: 
+    Offers insight into IoT technologies if interested in device programming and communications.
+CSC502 – Machine Learning Fundamentals: 
+    Ideal if you are interested in AI-related fields; prepares you for research or implementation roles.
+BAN510 – Sports Analytics: 
+    If you're interested in applying analytics to sports data for strategic insights.
+
+Research/Thesis Credits:
+Decide whether to pursue a Research Project or Thesis based on your interest:
+If opting for a Research Project:
+   Register for CSC/MIS594 after consulting with a faculty member to select a topic aligned with your interests.
+If opting for a Thesis:
+   Register for CSC/MIS599 after forming a thesis committee and selecting an approved topic.
+
+4. Structured Action Plan
+
+1. Complete core course requirements first to build foundational knowledge essential for advanced topics.
+   
+2. Balance workload by combining core courses with electives that interest you but don't overwhelm your schedule.
+   
+3. Maintain at least three courses per semester if possible to meet credit requirements promptly while ensuring quality performance.
+   
+4. Engage actively with professors during office hours to deepen understanding and explore potential research opportunities.
+   
+5. Monitor your GPA closely each semester to ensure it meets the graduation requirement by seeking academic support if needed.
+
+Conclusion
+By strategically selecting courses that fulfill both core requirements and personal interests while balancing elective choices that complement long-term career goals, you can efficiently progress toward completing your degree within the desired timeline. Regularly consult with your academic advisor to ensure alignment with program expectations and maintain academic standing
+
+
+Ask about courses (or type 'exit' to quit):  As an international student, are there any specific enrollment or visa-related considerations that affect my course load or registration deadlines at UNC Wilmington?
+
+Assistant: Enrollment and Visa Considerations for International Students at UNC Wilmington
+
+As an international student, it is important to ensure that your course load and registration adhere to both university policies and visa requirements. Here are key considerations:
+
+1. Full-Time Enrollment Requirement
+International students must maintain full-time enrollment status to comply with visa regulations.
+Graduate Students: 
+You need to enroll in a minimum of 9 credit hours per semester.
+At least 6 of these credit hours must be in-person classes.
+
+   For more details on full-time status requirements, you can visit the [UNCW Full-Time Status Information](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+2. Registration Deadlines
+Ensure you register for courses within the designated registration periods to avoid any issues with maintaining your status.
+Be mindful of the specific deadlines for adding or dropping courses as these can impact your full-time status.
+
+3. Online Course Restrictions
+While online courses can be part of your curriculum, you must ensure that no more than one online class (or 3 credits) counts toward the full-time enrollment requirement each semester.
+
+4. Continuous Enrollment
+If you're not taking any courses but need to finish a capstone project or thesis, consider registering for continuous enrollment to maintain your student status.
+For instructions and necessary forms, visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page.
+
+5. Consultation with International Student Office
+Regularly consult with the UNCW Office of International Programs or similar services at your institution to stay informed about any changes in immigration laws or university policies that may affect your status.
+  
+Conclusion
+Maintaining compliance with both academic and visa requirements is crucial for international students at UNCW. By ensuring full-time enrollment, adhering to registration deadlines, and consulting regularly with relevant offices, you can successfully navigate these responsibilities while focusing on your studies.
+
+
+Ask about courses (or type 'exit' to quit):  For international students, what academic support services or orientation programs are available to help adjust to the graduate system and improve overall performance?
+
+Assistant: Academic Support Services and Orientation Programs for International Students at UNCW
+
+UNC Wilmington offers a variety of resources to help international students adjust to the graduate system and enhance their academic performance. Here are some key support services and programs available:
+
+1. International Student Orientation
+Purpose: Provides an introduction to university life, academic expectations, and cultural adjustment.
+Content: Sessions include information on visa regulations, campus resources, cultural activities, and tips for academic success.
+
+2. Office of International Programs (OIP)
+Services Offered:
+Guidance on visa-related issues and compliance with immigration laws.
+Workshops on cultural adjustment and navigating life in the U.S.
+Social events to connect with other international students.
+
+3. Academic Advising
+Graduate Advisors: Available to help plan your course schedule, ensure you meet degree requirements, and provide advice on academic challenges.
+Regular Meetings: Encouraged to discuss academic progress and any concerns you may have about coursework or program expectations.
+
+4. Learning Centers
+Writing Center:
+Offers assistance with writing assignments, thesis work, and improving English language skills.
+Provides workshops on grammar, style, citation formats, etc.
+Math Lab:
+Provides tutoring for mathematics courses or quantitative aspects of research projects.
+
+5. Library Resources
+Access to research databases, journals, books, and interlibrary loans.
+Research librarians available for one-on-one consultations to assist with finding scholarly resources relevant to your field of study.
+
+6. Counseling Center
+Offers support for personal or emotional challenges that may affect your academic performance.
+Provides workshops on stress management and coping strategies specifically designed for international students.
+
+7. Student Organizations
+Joining student organizations related to your field of study or cultural background can offer peer support and networking opportunities.
+   
+Conclusion
+By utilizing these academic support services and participating in orientation programs at UNCW, international students can effectively transition into the graduate system while enhancing their overall performance. Regular engagement with these resources will not only aid in achieving academic goals but also enrich the overall university experience.
+
+
+Ask about courses (or type 'exit' to quit):  If a course I've taken abroad might count towards my credit requirements, what is the process for submitting it for evaluation or transfer credit?
+
+Assistant: Process for Submitting International Courses for Evaluation or Transfer Credit at UNCW
+
+If you have taken courses abroad that you believe may count toward your credit requirements at UNCW, follow these steps to submit them for evaluation and potential transfer credit:
+
+1. Gather Required Documentation
+Official Transcripts: Obtain official transcripts from the institution where you completed the course. Ensure they are in English or accompanied by an official translation.
+Course Descriptions and Syllabi: Collect detailed course descriptions and syllabi outlining the content, learning objectives, and assessment methods of the courses you wish to transfer.
+
+2. Contact the Office of International Programs (OIP)
+Schedule a meeting with an advisor at OIP to discuss your intent to transfer international credits. They can provide guidance on the process and necessary documentation.
+
+3. Submit Documentation for Evaluation
+Provide all gathered documents (transcripts, course descriptions, syllabi) to the Registrar’s Office or designated department responsible for evaluating transfer credits.
+Some programs might require additional forms or specific procedures; ensure you follow any program-specific instructions.
+
+4. Evaluation by Academic Departments
+The relevant academic departments will review your submitted materials to determine if your international courses are equivalent to UNCW courses.
+This evaluation will assess whether the content and level of study meet UNCW's standards.
+
+5. Receive Decision Notification
+After evaluation, you will be notified about which credits have been approved for transfer and how they apply toward your degree requirements.
+If some credits are not accepted, inquire about any possible appeal process or further steps that can be taken.
+
+6. Update Your Degree Audit
+Once approved, ensure that your degree audit is updated with any transferred credits reflecting their contribution towards fulfilling degree requirements.
+
+Conclusion
+Transferring international credits requires thorough preparation and communication with university offices involved in credit evaluations. By following these steps carefully, you can facilitate a smooth process in integrating previous coursework into your current academic plan at UNCW.
+
+
+Ask about courses (or type 'exit' to quit):  How do I schedule an appointment with my academic advisor to review my degree progress and discuss potential course substitutions or elective options?
+
+Assistant: Scheduling an Appointment with Your Academic Advisor at UNCW
+
+Meeting with your academic advisor is a crucial step in ensuring that you are on track to meet your degree requirements and explore potential course substitutions or elective options. Here’s how you can schedule an appointment:
+
+1. Identify Your Academic Advisor
+Check Online: Log into your student portal (such as SeaNet or another system used by UNCW) to find the name and contact information of your assigned academic advisor.
+Department Office: If you're unsure who your advisor is, contact the department office related to your major for assistance.
+
+2. Contact Your Advisor
+Email: Send an email to your advisor requesting a meeting. Include details about what you’d like to discuss (e.g., degree progress, course substitutions, electives).
+Phone Call: Some advisors may prefer phone communication; call during office hours if this option is available.
+
+3. Use Scheduling Tools
+Many advisors use online scheduling tools such as Calendly or university-specific systems to manage appointments. Check if such a tool is available through the university website or included in their email signature.
+
+4. Prepare for Your Meeting
+Review your current degree audit and make note of any questions or topics you want to discuss.
+Gather any relevant documents such as transcripts, course descriptions, or syllabi if discussing transfer credits or course substitutions.
+
+5. Follow-Up After the Meeting
+After the meeting, review any notes taken and follow up on action items discussed with your advisor.
+If necessary, schedule additional meetings for further discussion or clarification on complex issues.
+
+Conclusion
+By proactively scheduling a meeting with your academic advisor and coming prepared with specific topics and questions, you can make the most out of the advising session and effectively plan for successful completion of your degree program at UNCW.
+
+
+Ask about courses (or type 'exit' to quit):  How do I schedule an appointment with my academic advisor to review my degree progress and discuss potential course substitutions or elective options?
+
+Assistant: Scheduling an Appointment with Your Academic Advisor at UNCW
+
+To effectively review your degree progress and discuss course substitutions or elective options, follow these steps to schedule an appointment with your academic advisor:
+
+1. Identify Your Academic Advisor
+Student Portal: Log into SeaNet or the university’s student portal where you can find the name and contact information of your assigned academic advisor.
+Department Contact: If you're unable to locate this information online, contact your department's administrative office for assistance.
+
+2. Contact Your Advisor
+Email: Write a concise email to your advisor requesting a meeting. Clearly state the purpose of the meeting, such as discussing degree progress or exploring course options.
+Example: "Dear [Advisor's Name], I hope this message finds you well. I would like to schedule a meeting to review my degree progress and discuss potential course substitutions or elective options. Please let me know your available times. Thank you."
+Phone Call: If preferred, call during their office hours for direct scheduling.
+
+3. Utilize Online Scheduling Tools
+Some advisors may use online scheduling platforms (e.g., Calendly) linked in their email signatures or departmental websites. Check if there is an online system available for booking appointments.
+
+4. Prepare for Your Meeting
+Review your current degree audit and make note of any questions regarding unmet requirements or specific courses you're interested in.
+Gather any relevant documents that might be necessary for discussion, such as syllabi for potential transfer courses.
+
+5. Attend the Meeting
+Be punctual and bring any materials needed for reference during the discussion.
+Take notes on recommendations provided by your advisor regarding course selections and strategies for completing degree requirements.
+
+6. Follow-Up Actions
+After the meeting, review any advice given and take action on recommended next steps, such as enrolling in suggested courses or submitting forms for course substitutions.
+Schedule future check-ins if ongoing guidance is needed throughout your program.
+
+Conclusion
+By following these steps, you can efficiently schedule and prepare for a productive advising session that supports your academic goals at UNCW. Regular communication with your advisor will ensure you stay on track toward successful completion of your degree program.
