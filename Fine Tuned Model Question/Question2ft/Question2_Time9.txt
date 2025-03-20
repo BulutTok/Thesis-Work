@@ -1,0 +1,37 @@
+Assistant: Degree Completion Status
+Credits Required: 36
+Credits Earned: 33
+Credits Needed: 3
+
+Available Courses to Complete Your Degree
+
+To fulfill your remaining credit requirement, you can choose from the following courses:
+
+Course Options
+1. MIS503 - Programming For Analytics
+Credits: 3
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+No prerequisites.
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+No prerequisites.
+
+3. MIS505 - Data Visualization
+Credits: 3
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277200)
+Prerequisite: BAN500 (may be taken concurrently).
+
+4. Complete In-progress Courses:
+Ensure successful completion of CSC502 and CSC592, which are currently in progress.
+
+Actionable Steps
+
+1. Focus on completing the in-progress courses (CSC502 and CSC592).
+2. If needed, select one additional course from the list above based on interests or availability.
+3. Confirm with your academic advisor that your course selection aligns with degree requirements.
+
+Conclusion
+
+You need an additional 3 credits to complete your degree, which can be achieved by finishing your current courses or selecting a new one from the options provided.

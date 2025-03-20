@@ -1,0 +1,44 @@
+Assistant: Based on your degree audit, you need 9 additional credits in courses from CSC 501:598 or MIS 500:598, excluding CSC 594 and MIS 594. Here are your options:
+
+Course Options
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Description: Introductory programming concepts for data analytics.
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Description: Foundations of relational databases and data management.
+
+3. MIS505 - Data Visualization
+Credits: 3
+Prerequisite: BAN 500 (may be taken concurrently)
+Description: Design principles for data visualization using software tools.
+
+4. MIS506 - Text and Unstructured Data Analytics
+Credits: 3
+Prerequisite: MIS503
+Description: Skills for managing unstructured data environments.
+
+5. CSC500 – Introduction to Computer Science
+Credits: 4
+    – Description: Accelerated introduction to computer science fundamentals.
+
+6. CSC502 – Machine Learning Fundamentals
+    – Credits: 3
+    – Description: Core concepts and applications of machine learning.
+
+7. CSC515 – Artificial Intelligence
+    – Credits: 3
+    – Prerequisite: CSC331 (min grade B)
+    – Description: Key concepts in AI including neural networks and genetic algorithms.
+    
+Restrictions
+Exclude CSC594 and MIS594 from these selections.
+Ensure prerequisites are met before enrolling in any course.
+
+Recommendations
+Choose courses that align with your career goals or areas where you seek further expertise.
+Consider the course schedule to fit them into your current academic plan effectively.
+
+These options will help you fulfill the additional credit requirement while adhering to program constraints.

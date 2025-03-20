@@ -1,0 +1,30 @@
+Assistant: Based on your degree audit, you need 3 more credits to complete your degree. Here are some available courses that could help you reach that total:
+
+Available Courses
+1. MIS503 - Programming For Analytics
+Credits: 3
+Description: Introduction to programming concepts and techniques for data analytics.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Description: Focuses on relational databases and data management.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. BAN501 - Prescriptive Analytics
+Credits: 3
+Description: Develop modeling techniques used in business with MS Excel.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277188)
+
+4. CSC511 - Fundamentals of Internet of Things
+Credits: 3
+Description: Covers IoT technologies such as device programming and cloud integration.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277871)
+
+These courses align with the remaining requirements needed for your degree completion.
+
+Next Steps
+Review the course descriptions and select a course that aligns with your interests or career goals.
+Ensure you meet any prerequisites before enrolling.
+
+Feel free to ask if you need more detailed advice on these options!

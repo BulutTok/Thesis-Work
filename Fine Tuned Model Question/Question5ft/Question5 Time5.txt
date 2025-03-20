@@ -1,0 +1,34 @@
+Assistant: Certainly! Here's a breakdown of the differences between the research project and thesis options, along with their key milestones:
+
+Research Project
+
+Overview:
+A research project typically involves applying theoretical knowledge to a practical problem.
+It's more focused on application rather than generating new knowledge.
+
+Key Milestones:
+1. Project Proposal: Develop and submit a proposal outlining your project's scope, objectives, and methodology.
+2. Conduct Research: Implement your project plan, collect data, and analyze results.
+3. Final Project Report: Write a comprehensive report detailing your findings and conclusions.
+4. Defense of Project (DEFN): Present and defend your project before a committee.
+5. Completion (PROJ): Successfully complete all components of the project.
+
+Thesis
+
+Overview:
+A thesis is more academic in nature, involving original research that contributes to existing knowledge in the field.
+It usually requires more extensive research and analysis compared to a project.
+
+Key Milestones:
+1. Draft Thesis (DRAT): Submit an initial draft of your thesis for review by the Graduate School.
+2. Format Approval Sheet (FORM): Obtain approval for the format of your thesis.
+3. Thesis Defense Requirement (DEFN): Defend your thesis orally before a committee.
+4. Comprehensive Oral Exam (COMO): Pass an oral exam covering your research area.
+5. Final Thesis Submission (THES): Submit the final version of your thesis electronically by the deadline.
+6. Signed Thesis Title Page (TITL): Include a signed title page with the final submission.
+7. ETD Submission Form (ETDF): Complete an Electronic Thesis Form submission.
+
+Conclusion
+Both options require rigorous work but differ in focus and depth. Choose based on whether you're interested in practical application or contributing new knowledge through detailed research.
+
+If you need further assistance or have specific questions about requirements, consult with your advisor or visit [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms).

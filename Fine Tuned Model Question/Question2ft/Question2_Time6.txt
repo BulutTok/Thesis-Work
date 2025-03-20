@@ -1,0 +1,37 @@
+Assistant: Degree Completion Requirements
+Credits Required: 36
+Credits Applied: 33
+Credits Still Needed: 3
+
+Course Options to Complete Credits
+
+Based on your current progress and requirements, you need to select courses from the range CSC 501:598 or MIS 500:598, excluding CSC 594 or MIS 594.
+
+Here are some options available:
+
+1. MIS503 - Programming For Analytics
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+Credit Hours: 3
+Prerequisites: None
+Description: Introduces programming concepts in R and Python for data analytics.
+
+2. MIS504 - Databases for Analytics
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+Credit Hours: 3
+Prerequisites: None
+Description: Focuses on relational databases and data management.
+
+3. MIS505 - Data Visualization
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277200)
+Credit Hours: 3
+Prerequisites: BAN 500 (may be taken concurrently)
+Description: Covers design principles for data visualization.
+
+4. CSC502 - Machine Learning Fundamentals (Already in progress)
+5. CSC592 Topics in Computing (Already in progress)
+
+Conclusion
+
+You need to complete one additional course worth three credits from the eligible options listed above to meet your degree requirements. Consider choosing a course that aligns with your career goals and interests.
+
+If you have any further questions or need help with enrollment, feel free to ask!

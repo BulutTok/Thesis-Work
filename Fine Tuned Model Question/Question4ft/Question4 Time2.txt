@@ -1,0 +1,34 @@
+Assistant: Additional Course Requirement Options
+
+To fulfill the 9 additional credits, you can choose from:
+CSC 501:598 or MIS 500:598
+
+Restrictions
+You cannot apply credits from CSC 594 or MIS 594 toward this requirement.
+No more than 9 credit hours from CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 may be applied toward the degree.
+
+Recommended Courses
+
+Consider the following options:
+
+1. MIS504 - Databases for Analytics
+Focuses on relational databases and data management
+No prerequisites
+
+2. BAN500 - Descriptive Analytics
+Covers statistical inference and linear models
+No prerequisites
+
+3. CSC502 - Machine Learning Fundamentals
+Core concepts of machine learning
+No prerequisites
+
+4. BAN501 - Prescriptive Analytics
+Optimization and decision analysis techniques
+No prerequisites
+
+These courses align well with your program requirements and interests.
+
+Conclusion
+
+Select courses that fit within the eligibility criteria while considering how they support your academic and career goals.

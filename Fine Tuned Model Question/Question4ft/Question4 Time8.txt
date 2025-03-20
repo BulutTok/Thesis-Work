@@ -1,0 +1,30 @@
+Assistant: Options for Fulfilling Additional Course Requirement
+
+Based on your degree audit, you need to complete 9 additional credits from CSC 501:598 or MIS 500:598. However, courses CSC 594 and MIS 594 cannot be counted towards this requirement.
+
+Courses Available
+
+Here are some options available to you:
+MIS503 - Programming For Analytics
+MIS504 - Databases for Analytics
+MIS505 - Data Visualization (Prerequisite: BAN 500)
+MIS506 - Text and Unstructured Data Analytics (Prerequisite: MIS 503)
+MIS520 - Information Systems Strategy and Governance (Prerequisite: MBA 514)
+CSC500 - Introduction to Computer Science
+CSC502 - Machine Learning Fundamentals
+
+Considerations
+
+1. Prerequisites: Ensure you meet the prerequisites for each course.
+2. Schedule: Check the availability of courses in the upcoming semester.
+3. Credit Limitations: Remember that no more than 9 credit hours from CSC/MIS 591, CSC/MIS 595, and CSC/MIS 598 may be applied toward your degree.
+
+Recommendations
+
+1. Choose courses that align with your career goals and interests.
+2. Consider taking foundational courses like "Machine Learning Fundamentals" if interested in data science or AI fields.
+3. Discuss with your academic advisor to tailor selections that best fit your academic plan.
+
+Conclusion
+
+By selecting appropriate courses from the above options while adhering to restrictions, you'll fulfill your additional course requirement effectively.

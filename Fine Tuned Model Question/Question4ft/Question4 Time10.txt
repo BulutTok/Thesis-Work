@@ -1,0 +1,22 @@
+Assistant: Additional Course Requirement Options
+
+Based on your degree audit, you need to complete 9 credits from the following courses, excluding CSC 594 and MIS 594:
+
+Eligible Courses:
+CSC 501:598 (excluding CSC 594)
+MIS 500:598 (excluding MIS 594)
+
+Restrictions
+You cannot use CSC 594 or MIS 594 for these credits.
+Ensure no more than 9 credit hours come from the list of CSC/MIS courses that include directed independent study, research seminar, or internship options (e.g., CSC 591, MIS 591, etc.).
+
+Recommendations
+1. Explore Electives: Consider courses that align with your career goals or interests within the eligible range.
+2. Balance Your Schedule: Choose a mix of theoretical and practical courses to balance workload and learning experiences.
+
+Next Steps
+Review course descriptions in the catalogue to determine which align with your interests.
+Discuss options with your academic advisor to ensure they fit within your overall academic plan.
+
+Conclusion
+Select from eligible courses while adhering to restrictions and focusing on those that support your career aspirations.
