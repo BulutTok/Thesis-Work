@@ -1,0 +1,19 @@
+Assistant: Course Repeatability and Impact on GPA
+
+1. Course Repeatability
+Most courses in the provided course data are not repeatable for additional credit. This means if you retake a course, it will not count as additional credit hours towards your degree requirement.
+
+2. Impact on Credit Count
+Retaking a course does not add to your total credit count beyond the original credits of that course since the course is not repeatable.
+If you did not achieve the required grade initially, retaking and passing it with a satisfactory grade will satisfy that particular course requirement but won't add extra credits to your overall requirement.
+
+3. Impact on GPA
+The new grade you earn from repeating a course can replace the previous grade in your GPA calculation, depending on university policy.
+If your institution allows for grade replacement, this can potentially improve your GPA if you perform better upon retaking the course.
+
+Recommendations
+Before deciding to retake a class, confirm with your academic advisor or registrar’s office about the specific policies regarding grade replacement and its effect on your GPA.
+Ensure that retaking a course aligns with achieving the minimum 3.0 GPA requirement needed for graduation in your program.
+
+Summary
+Retaking courses where you've underperformed can be beneficial for improving your GPA but will not increase your total credit count towards degree completion. Always check specific institutional policies regarding repeat courses and their impact on GPA calculations.

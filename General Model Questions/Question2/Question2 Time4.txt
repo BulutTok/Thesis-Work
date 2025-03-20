@@ -1,0 +1,38 @@
+Assistant: Based on your degree audit, you currently have 33 credits applied toward your Master of Science in Computer Science and Information Systems. You need a total of 36 credits to complete your degree, which means you still need to earn 3 more credits.
+
+Available Courses for Additional Credits
+
+Here are some courses you can consider enrolling in to earn the remaining 3 credits:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Description: Introduces essential programming concepts and techniques for data analytics using R and Python.
+[More Info](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Description: Focuses on relational databases, data management, queries, reporting, and data cleansing.
+[More Info](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. CSC502 - Machine Learning Fundamentals (In Progress)
+Credits: 3
+Description: Covers core concepts, theories, algorithms, and applications of machine learning.
+
+4. BAN500 - Descriptive Analytics
+Credits: 3
+Description: Covers statistical inference for management decision-making with a focus on linear statistical models.
+[More Info](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277187)
+
+5. CSC532 - Design and Analysis of Algorithms I (Completed)
+6. MIS534 - Information Security Management (In Progress)
+
+Steps to Consider
+Review the course descriptions to ensure they align with your academic interests and career goals.
+Check prerequisites or any additional requirements before enrolling in a course.
+Confirm the availability of courses during the upcoming semester.
+
+Conclusion
+
+To complete your degree requirements, enroll in one of the available courses that offer at least 3 credit hours. Ensure that the course fits within any remaining program requirements or personal interests you may have.
+
+If you have any further questions or need assistance with enrollment procedures, feel free to reach out!

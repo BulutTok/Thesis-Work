@@ -1,0 +1,44 @@
+Assistant: Based on your degree audit and the available course data, you need to complete 9 credits from courses listed under CSC 501:598 or MIS 500:598. However, there are specific exclusions:
+
+Restrictions:
+Exclusions: You cannot use CSC 594 or MIS 594 to fulfill these additional course requirements.
+
+Options for Additional Course Requirement:
+Here are some eligible courses that you can consider within the specified range:
+
+1. MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. MIS505 - Data Visualization
+Credit Hours: 3
+Prerequisite Courses: BAN 500 (may be taken concurrently)
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277200)
+
+4. CSC532 - Design and Analysis of Algorithms I
+Credit Hours: 3
+Prerequisite Courses: CSC500
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=275985)
+
+5. BAN502 – Predictive Analytics
+Credit Hours: 3 
+Prerequisites : BAN500 and MIS503 
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277189)
+
+6. CSC544 – Network Programming
+Credit Hours : 3 
+Prerequisites : CSC500 and CSC344 or MIS323 
+No schedule information available
+
+These courses fit within the required course number range and do not include any exclusions like CSC594 or MIS594.
+
+Conclusion:
+Select from the above list to fulfill your additional course requirement while ensuring that all prerequisites are satisfied before enrollment.
+
+For personalized guidance, consulting with your academic advisor would be beneficial to align these choices with your academic trajectory and career aspirations.

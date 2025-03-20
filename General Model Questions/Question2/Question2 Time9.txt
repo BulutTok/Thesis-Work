@@ -1,0 +1,34 @@
+Assistant: Based on your degree audit, you currently have 33 credits and need a total of 36 credits to complete your Master of Science degree. Therefore, you still need to earn 3 more credits.
+
+Available Courses to Reach Total
+
+Given that you need 3 additional credits and the restriction that no more than 9 credit hours from certain courses may be applied toward the degree (CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598), here are some course options:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Description: This course introduces programming concepts and techniques for data analytics using R and Python.
+Detail URL: [MIS503 Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Description: Focuses on relational databases, data management, querying, reporting, and anomaly detection.
+Detail URL: [MIS504 Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. BAN501 - Prescriptive Analytics
+Credits: 3
+Description: Introduces prescriptive analytics using modeling techniques in business applications with Excel.
+Detail URL: [BAN501 Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277188)
+
+4. CSC502 - Machine Learning Fundamentals (In Progress)
+You can continue with this course as it's already in progress.
+
+5. Other courses available within the Computer Science or Information Systems programs that fit your schedule and interests while meeting program requirements.
+
+Next Steps
+Review these course options based on your interests and career goals.
+Confirm with your academic advisor that any selected course aligns with your degree requirements.
+Register for the chosen course(s) during the registration period.
+
+Conclusion
+
+To complete your degree requirements, enroll in one of the available courses listed above or consult with your advisor for any additional recommendations that align with your academic plan.

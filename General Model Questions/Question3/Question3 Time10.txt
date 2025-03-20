@@ -1,0 +1,26 @@
+Assistant: Certainly! In your Master of Science program in Computer Science & Information Systems, there is a restriction on the number of credit hours you can apply from certain types of courses towards your degree requirements. These courses include:
+CSC 591 - Directed Independent Study
+MIS 591 - Directed Independent Study
+CSC 595 - Research Seminar
+MIS 595 - Research Seminar
+CSC 598 - Internship
+MIS 598 - Internship
+
+Explanation:
+
+1. Credit Hour Limit: You can only count up to a total of 9 credit hours from these specific courses towards the required credits for your degree. This means that while you may take more than 9 credit hours across these options, only 9 will be considered as part of the necessary credits to complete your degree.
+
+2. Course Types:
+Directed Independent Study (CSC/MIS 591): These are typically one-on-one or small group studies under faculty supervision focusing on topics not covered in regular coursework.
+Research Seminar (CSC/MIS 595): Involves research and discussion on selected topics with an emphasis on presentations.
+Internship (CSC/MIS 598): Provides practical experience and academic training through work placements in relevant industries.
+
+3. Strategic Planning: Given this limitation, it's important to strategically plan which courses you take and how many credits you choose from each category. Consider balancing these with other core or elective courses that fulfill different program requirements.
+
+4. Degree Completion: Ensure that after selecting these courses, you still meet all other graduation requirements such as core course completion, maintaining a minimum GPA, and fulfilling any thesis or project requirements.
+
+Recommendations:
+Consult with your academic advisor to plan effectively which independent study, seminar, or internship opportunities align best with your career goals while staying within the credit limits.
+Use these opportunities to gain diverse experiences without exceeding the credit hour limit applicable toward your degree completion.
+
+If you have any more questions or need further assistance planning your course schedule, feel free to ask!

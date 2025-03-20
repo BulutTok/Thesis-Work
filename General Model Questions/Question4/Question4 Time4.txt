@@ -1,0 +1,59 @@
+Ask about courses (or type 'exit' to quit):  What are my options for fulfilling the additional course requirement, and are there any restrictions—such as specific courses that cannot be used (for example, excluding CSC 594 or MIS 594)?
+
+Assistant: Options for Fulfilling Additional Course Requirement
+
+Evaluation
+You need 9 additional credits in the range of CSC 501:598 or MIS 500:598, excluding CSC 594 and MIS 594.
+
+Eligible Courses
+Based on your current academic progress and the restrictions provided, here are some eligible courses you can consider:
+
+1. MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+
+2. MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+
+3. MIS505 - Data Visualization
+Credit Hours: 3
+Prerequisite Courses: BAN 500 (may be taken concurrently)
+
+4. CSC502 - Machine Learning Fundamentals
+Credit Hours: 3
+Prerequisite Courses: None
+
+5. CSC511 - Fundamentals of Internet of Things
+Credit Hours: 3
+Prerequisite Courses: None
+
+6. CSC515 - Artificial Intelligence
+Credit Hours: 3
+Prerequisite Courses: CSC 331 (min grade B)
+
+7.BAN500 – Descriptive Analytics
+Credit Hours: 3
+Prerequisites: None
+    
+8.BAN501 – Prescriptive Analytics
+Credit Hours: 3 
+Prerequisites: None
+    
+9.BAN502 – Predictive Analytics
+Credit Hours: 3 
+Prerequisites: BAN500(may be taken concurrently) and MIS503
+  
+Restrictions:
+You cannot use CSC594 or MIS594 towards these additional credits.
+Ensure you meet any prerequisites for the courses you choose to enroll in.
+
+Recommendations:
+Review your interests and career goals to select courses that align best with them.
+Consider taking courses like "Machine Learning Fundamentals" or "Artificial Intelligence" if you're interested in data science.
+If database management is more appealing, "Databases for Analytics" would be a good choice.
+
+Summary:
+To fulfill your additional course requirement, select from the eligible options listed above while ensuring prerequisites are met and excluding CSC594/MIS594 from consideration. Choose based on alignment with your academic interests and career goals.
+
+For detailed information about each course, please refer to their respective catalog entries linked above in the course descriptions provided earlier.

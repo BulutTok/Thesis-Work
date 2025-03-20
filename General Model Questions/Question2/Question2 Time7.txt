@@ -1,0 +1,35 @@
+Assistant: Evaluation of Current Academic Status
+Current Credits: You have completed 33 credits.
+Credits Required for Degree Completion: 36 credits.
+Credits Still Needed: 3 credits.
+
+Course Options to Complete Degree Requirements
+
+Based on your degree audit, you need to complete an additional 3 credit hours. Here are some course options available that could fulfill this requirement:
+
+1. CSC Courses (500:598) or MIS Courses (500:598)
+Ensure the courses selected do not include CSC 594 or MIS 594 as they are excluded from the remaining requirements.
+
+Available Courses
+
+Here are some potential courses you could consider enrolling in:
+MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+MIS505 - Data Visualization
+Credit Hours: 3
+Prerequisite Courses: BAN500 (may be taken concurrently)
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277200)
+CSC502 - Machine Learning Fundamentals
+Credit Hours: Currently in progress; ensure completion.
+
+Summary and Recommendations
+
+To complete your degree, you need to earn an additional three credits. Consider enrolling in one of the suggested courses based on your interests and schedule availability, ensuring it aligns with your career goals and academic interests. Ensure you meet any prerequisites or consult with your advisor if needed for further guidance on course selection.
+
+For more information about registration deadlines and course offerings, please consult the course catalog or contact your academic advisor, Devon Simmonds, for personalized advice.

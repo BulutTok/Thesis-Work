@@ -1,0 +1,42 @@
+Assistant: Degree Completion Status
+
+Based on your degree audit, you have completed 33 out of the required 36 credits for your Master of Science in Computer Science/Information Systems. You need an additional 3 credits to meet the graduation requirements.
+
+Available Courses to Earn Credits
+
+Given that you need 3 more credits and considering the courses you've already taken or are in progress, here are some options from which you can choose to fulfill the remaining credit requirement:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Prerequisites: None
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Prerequisites: None
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. CSC511 - Fundamentals of Internet of Things
+Credits: 3
+No prerequisite information available.
+   
+4. BAN501 - Prescriptive Analytics
+Credits: 3
+Prerequisite: None
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277188)
+
+5. BAN502 - Predictive Analytics
+Credits: 3 
+Prerequisite: BAN500 (may be taken concurrently) and MIS503 
+[Course Detail](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277189)
+
+Next Steps
+Review the course descriptions and prerequisites to determine which course aligns best with your academic interests and career goals.
+Ensure that the selected course fits into your schedule and meets any outstanding requirements for your major.
+Consult with your academic advisor, Devon Simmonds, if needed, to discuss these options further.
+
+Summary
+
+You need to earn an additional 3 credits to complete your degree requirements. The courses listed above are potential options that align with your program needs and current progress.
+
+If you have any further questions or need assistance with registration, feel free to reach out!

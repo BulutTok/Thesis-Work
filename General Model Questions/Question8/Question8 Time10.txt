@@ -1,0 +1,34 @@
+Assistant: Understanding Full-Time Status and Academic Progress
+
+Step 1: Maintaining Full-Time Status
+As an international student, maintaining full-time status is crucial for your visa requirements. At the University of North Carolina Wilmington, you need to enroll in at least 9 credit hours per semester to be considered a full-time graduate student. Additionally, at least 6 of these credit hours must be in-person classes. This ensures compliance with both academic and immigration policies.
+
+For more detailed information about full-time status requirements, please refer to [UNCW's Full-Time Status Policy](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+Step 2: Course Schedule and Prerequisites
+Based on your degree audit:
+Courses Currently In-Progress (Spring 2025):
+CSC 532 - Design & Analysis Of Algorithms I (3 credits)
+CSC 550 - Software Engineering (3 credits)
+MIS 503 - Programming for Analytics (3 credits)
+MIS 534 - Information Security Management (3 credits)
+
+You are currently enrolled in a total of 12 credit hours, which satisfies the requirement for maintaining full-time status.
+
+Step 3: Managing Prerequisites
+Ensure that you meet any prerequisites for upcoming courses. For example:
+MIS505 requires BAN500 as a prerequisite.
+MIS506 requires MIS503 as a prerequisite.
+  
+If you meet at least one prerequisite for any course requiring multiple prerequisites, you are eligible to enroll in that course.
+
+Additional Steps or Documentation
+Continuous Enrollment: If you're not taking courses but still need to finish your capstone or thesis, consider registering for continuous enrollment to maintain your student status. Visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page for more information.
+Consultation with Advisor: Regularly consult with your academic advisor to ensure you're on track academically and meeting all necessary requirements.
+  
+Summary
+Your current enrollment aligns well with both academic progress and visa requirements. Continue monitoring your course load each semester to ensure compliance with full-time status criteria. Don't hesitate to reach out if you have any further questions or need additional support.
+
+Remember, maintaining communication with both your academic advisor and the international office can help mitigate any potential issues related to your visa status and academic progress.
+
+If there's anything else you'd like assistance with or if there are specific concerns you'd like addressed, please feel free to let me know!

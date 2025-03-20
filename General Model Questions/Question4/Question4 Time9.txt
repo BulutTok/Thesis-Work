@@ -1,0 +1,58 @@
+Assistant: Evaluation of Your Academic Status
+Current Credits: 12 credits applied
+Credits Required for Degree Completion: 36 credits
+Additional Credits Needed: 24 credits
+
+Additional Course Requirement
+
+You need to complete additional courses to fulfill the credit requirements for your degree. Based on your degree audit:
+
+1. Required Core Courses (In Progress or Still Needed):
+CSC 532: Design and Analysis of Algorithms I (In Progress)
+MIS 534: Information Security Management (In Progress)
+CSC 550: Software Engineering (In Progress)
+MIS 503: Programming for Analytics (In Progress)
+Still needed:
+CSC 544: Network Programming
+MIS 555: Database Management Systems
+MIS 565: Analysis, Modeling and Design
+
+2. Additional Course Credits Needed: 
+   You need an additional 9 credits from the following course ranges:
+CSC courses numbered between CSC 501 to CSC 598
+MIS courses numbered between MIS 500 to MIS 598
+   
+3. Restrictions on Additional Courses:
+   You cannot count the following courses towards the additional course requirement:
+CSC 594
+MIS 594
+
+Recommendations for Course Selection
+
+1. Select Core Courses You Haven't Completed Yet:
+Consider enrolling in:
+CSC 544: Network Programming
+MIS 555: Database Management Systems
+MIS 565: Analysis, Modeling and Design
+
+2. Choose from Elective Courses within Allowed Range (Excluding Restricted Courses):
+    Here are some options that fit within the criteria:
+CSC500 – Introduction to Computer Science
+CSC502 – Machine Learning Fundamentals
+BAN500 – Descriptive Analytics
+    *(Note that these are examples; ensure they align with your interest and career goals.)*
+
+3. Research or Thesis Credits Options: 
+    If you choose a research project or thesis option, you must enroll in either:
+Research Project Credits through CSC/MIS594 for a total of up to six credits.
+    *or*
+Thesis Credits through CSC/MIS599 for a total of up to six credits.
+
+4. Consultation with Advisor Recommended: 
+It’s advisable to consult with your academic advisor for personalized guidance tailored to your career goals and interests.
+
+Conclusion 
+
+To fulfill your degree requirements effectively, focus on completing core courses still needed, select elective courses wisely within allowed ranges excluding restricted ones, and consider research/thesis options if applicable. Ensure any chosen electives align with both academic interests and career aspirations.
+
+If further assistance is needed, please contact your academic advisor or refer back to this summary during planning sessions.

@@ -1,0 +1,39 @@
+Assistant: Evaluation
+
+Based on your current degree audit, you need to fulfill additional course requirements for your Master of Science in Computer Science & Information Systems. Specifically, you need 9 credits from courses within the CSC 501:598 or MIS 500:598 range, with the exception of CSC 594 and MIS 594.
+
+Options for Fulfilling Additional Course Requirement
+
+You have a variety of options to choose from within the specified range. Below are some courses you can consider:
+
+CSC Courses:
+CSC502 - Machine Learning Fundamentals
+CSC511 - Fundamentals of Internet of Things
+CSC515 - Artificial Intelligence
+CSC517 - Symbolic Artificial Intelligence
+CSC520 - Digital Image Processing
+CSC532 - Design and Analysis of Algorithms I (already taken)
+CSC537 - Parallel Computing
+
+MIS Courses:
+MIS504 - Databases for Analytics
+MIS505 - Data Visualization
+MIS506 - Text and Unstructured Data Analytics (Prerequisite: MIS503)
+MIS513 - Information Analysis and Management
+
+Restrictions
+
+1. You cannot apply credits from CSC 594 or MIS 594 toward this requirement.
+2. You must meet any prerequisite requirements for the selected courses.
+3. Ensure that no more than 9 credit hours come from specific courses such as CSC/MIS 591, CSC/MIS 595, and CSC/MIS 598 if considering them.
+
+Actionable Steps
+
+1. Review the prerequisites for each course to ensure eligibility.
+2. Check your schedule availability against course offerings.
+3. Consult with your academic advisor to confirm selections align with career goals and remaining degree requirements.
+4. Enroll in the chosen courses during the upcoming registration period.
+
+Summary
+
+To fulfill your additional course requirement while adhering to restrictions, select from available CSC or MIS courses that fit within the specified range but exclude CSC 594 and MIS 594. Be mindful of prerequisites and consult your advisor as needed to ensure these choices align with both degree completion and career aspirations.

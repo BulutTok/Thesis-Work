@@ -1,0 +1,40 @@
+Assistant: Degree Completion Requirements
+
+Based on your degree audit, you currently have 33 credits applied toward your Master of Science degree and need a total of 36 credits to complete the program. Therefore, you still need to earn 3 more credits.
+
+Course Options to Complete Your Degree
+
+To fulfill the remaining credit requirement, you can choose from any course in the range of CSC 501:598 or MIS 500:598, except for CSC 594 or MIS 594. Here are some available options:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Description: Introduces programming concepts and techniques for data analytics using R and Python.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Description: Focuses on relational databases, data management, queries, and reporting.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. CSC502 - Machine Learning Fundamentals (Currently In Progress)
+Credits: 3
+Description: Covers core concepts and algorithms in machine learning.
+   
+4. BAN500 - Descriptive Analytics
+Credits: 3
+Description: Covers statistical inference for management decision making with a focus on linear models.
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277187)
+
+5. CSC532 - Design and Analysis of Algorithms I (Completed)
+   
+6. Other courses listed under "Additional Courses" or "Research or Thesis Credits" may also be considered if they meet the requirements specified in your audit.
+
+Recommendations
+Since you are already enrolled in CSC502 (Machine Learning Fundamentals), completing this course will fulfill your credit requirement if all goes well.
+Ensure that any additional course aligns with your academic interests and career goals.
+
+Conclusion
+
+You need to complete an additional 3-credit course from the eligible list above or continue progressing through your current courses to reach the required total for graduation.
+
+If you have any further questions or require specific guidance regarding these options, please feel free to reach out!

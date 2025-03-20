@@ -1,0 +1,45 @@
+Assistant: Understanding Your Concerns
+
+I completely understand your concerns about maintaining your visa status while progressing academically. It's important to address both aspects carefully to ensure a smooth experience during your studies.
+
+Ensuring Full-Time Enrollment
+
+1. Credit Hour Requirements:
+As an international student, you must enroll in at least 9 credit hours per semester to maintain full-time status.
+Out of these, at least 6 credit hours should be from courses with in-person components.
+
+2. Current Course Schedule:
+You are enrolled in the following courses for Spring 2025:
+CSC 532 (Design & Analysis Of Algorithms I)
+CSC 550 (Software Engineering)
+MIS 503 (Programming for Analytics)
+MIS 534 (Information Security Management)
+Each course is worth 3 credit hours, giving you a total of 12 credit hours, which meets the full-time requirement.
+
+3. In-Person Courses:
+Ensure that at least two of these courses have face-to-face or hybrid components to satisfy the in-person requirement.
+From available information, CSC 532 and CSC 550 include scheduled in-person sessions.
+
+Planning for Prerequisites
+Prerequisite Awareness: 
+Familiarize yourself with any prerequisites required for future courses you wish to take. For instance, if planning on taking MIS505 (Data Visualization), ensure you have completed or are concurrently enrolled in BAN500.
+Course Selection:
+Plan your course selection strategically each semester to avoid delays caused by unmet prerequisites.
+
+Additional Steps and Documentation
+
+1. Stay Informed:
+Regularly consult with your academic advisor to stay updated on any changes that might affect your course planning or visa status requirements.
+
+2. Documentation:
+Keep all necessary documents such as I-20 forms and proof of enrollment up-to-date and accessible.
+   
+3. Utilize University Resources:
+Engage with the International Student Office for guidance on immigration-related queries and support services offered by the university.
+
+4. Online Resource:
+Refer to this [UNCW Full-Time Status Information](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status) for comprehensive details regarding maintaining full-time status as an international student.
+
+Conclusion
+
+You are currently meeting the requirements for full-time enrollment with your current schedule. By keeping track of prerequisites and engaging regularly with advisors, you'll be well-equipped to manage both academic progress and visa requirements effectively. If there's anything else you're unsure about or need assistance with, please feel free to reach out!

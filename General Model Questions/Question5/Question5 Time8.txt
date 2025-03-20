@@ -1,0 +1,60 @@
+Assistant: Certainly! At the University of North Carolina Wilmington, students in the Master of Science program have the option to fulfill their research/thesis credit requirement through either a research project or a thesis. Each path has distinct objectives and milestones:
+
+Research Project Option
+
+Objective: 
+The research project is typically more applied in nature and focuses on addressing a specific problem or challenge within the field of computer science or information systems.
+
+Key Milestones:
+1. Topic Selection and Approval:
+Select a research topic with guidance from a faculty advisor.
+Obtain approval from both the advisor and graduate coordinator.
+
+2. Conducting Research:
+Undertake the research under faculty supervision.
+Apply theoretical knowledge to practical scenarios.
+
+3. Written Analysis:
+Prepare a comprehensive written report detailing your findings, methodology, analysis, and conclusions.
+
+4. Oral Presentation (Defense):
+Successfully defend your project before an academic committee.
+Address questions and feedback regarding your work.
+
+5. Final Project Completion:
+Ensure all aspects of the project meet academic standards.
+   
+6. Enrollment Requirement:
+Must be enrolled in CSC 594 or equivalent during the semester when you complete/defend your project.
+
+Thesis Option
+
+Objective: 
+The thesis involves conducting original research that contributes new knowledge to the field. It is generally more extensive than a project.
+
+Key Milestones:
+
+1. Draft Thesis Submission:
+Submit an initial draft of your thesis for review by your committee and graduate school by specified deadlines.
+
+2. Format Approval Sheet:
+Submit this sheet alongside your draft to ensure adherence to formatting guidelines set by the Graduate School.
+
+3. Thesis Defense (Oral Exam):
+Present and defend your thesis before a committee.
+Demonstrate mastery over subject matter related to your research topic.
+
+4. Final Thesis Submission:
+Revise based on feedback received during defense.
+Submit final version electronically by specified deadlines, including any required forms like ETD Submission Form and Signed Thesis Title Page.
+
+5. Comprehensive Oral Exam:
+Pass this exam as part of demonstrating comprehensive understanding of broader subject areas relevant to your thesis work.
+    
+6. Enrollment Requirement: 
+Enrollment in CSC 599 or equivalent during completion/defense period is mandatory.
+
+Summary
+The primary difference lies in scope; projects are more practical while theses are more theoretical with contributions to existing literature. Both require careful planning, rigorous execution, presentation skills, and adherence to submission guidelines provided by advisors and university protocols for successful completion.
+
+Should you need further guidance on selecting between these options or planning towards them, consulting with your primary advisor would be highly beneficial!

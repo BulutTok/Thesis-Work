@@ -1,0 +1,34 @@
+Assistant: Certainly! At the University of North Carolina Wilmington, students pursuing a Master's degree in Computer Science & Information Systems have the option to fulfill their research or thesis credit requirements through either a Research Project or a Thesis. Here’s a breakdown of each option and the key milestones associated with them:
+
+Research Project
+
+Description:
+The research project involves focused study on a practical application of computer science or information systems under faculty guidance. Students select topics approved by faculty and the graduate coordinator.
+  
+Key Milestones:
+1. Topic Selection: Choose a research topic with faculty approval.
+2. Project Development: Develop your project, which includes planning, executing, and analyzing results.
+3. Written Analysis and Oral Presentation: Prepare a comprehensive written analysis and present your findings orally.
+4. Defense of Project (DEFN): Successfully defend your research project in front of a committee.
+5. Final Project Completion (PROJ): Ensure all project components are completed as per guidelines.
+
+Thesis
+
+Description:
+A thesis is an intensive research study on a selected topic that requires approval by a thesis committee. It involves original research contributing new knowledge or understanding to the field.
+
+Key Milestones:
+1. Draft Thesis Submission (DRAT): Submit an initial draft electronically to the Graduate School by the deadline.
+2. Format Approval Sheet (FORM): Submit this form along with your draft for format approval.
+3. Comprehensive Oral Exam (COMO): Pass an oral exam testing comprehensive knowledge related to your thesis topic.
+4. Thesis Defense Requirement (DEFN): Defend your thesis before a committee successfully.
+5. Final Thesis Submission (THES): Submit the final version of your thesis electronically by the deadline.
+6. Signed Thesis Title Page (TITL) & ETD Submission Form (ETDF): Provide these documents with your final submission.
+
+Summary
+The Research Project is more practice-oriented, focusing on applying theoretical concepts to real-world problems, while the Thesis is more academically rigorous, involving original research that contributes to scholarly literature.
+Both paths require substantial preparation and culminate in formal presentations or defenses before academic committees.
+
+Choosing between these options often depends on career goals—whether you are aiming for industry positions where practical experience is valued, or academia/research roles where contributions to scholarly work are critical.
+
+If you have any further questions about choosing between these options or need help planning out these milestones, I recommend consulting directly with your primary advisor or visiting [UNCW's Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page for detailed instructions and necessary forms related to each requirement path.
