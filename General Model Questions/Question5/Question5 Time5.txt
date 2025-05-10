@@ -1,0 +1,33 @@
+Assistant: Certainly! At the University of North Carolina Wilmington, graduate students can fulfill their research/thesis credit requirement through either a research project or a thesis. Both options involve significant research and contribute to the completion of your degree, but they differ in focus, scope, and format.
+
+Research Project Option
+
+Overview:
+The research project is typically applied and practical in nature. It involves solving a specific problem using established methods.
+This option often suits students aiming for industry roles where practical application of skills is emphasized.
+
+Key Milestones:
+1. Project Proposal: Develop a detailed proposal outlining the problem statement, objectives, methodology, and expected outcomes.
+2. Conduct Research: Implement the project plan by collecting data, analyzing it, and deriving conclusions or solutions.
+3. Final Project Completion (PROJ): Complete all elements of the project and compile findings into a comprehensive report.
+4. Defense (DEFN): Present and defend your project before a faculty committee to demonstrate its validity and significance.
+
+Thesis Option
+
+Overview:
+A thesis involves conducting original research that contributes new knowledge or insights to the field.
+It is more extensive than a research project and requires adherence to academic standards for documentation.
+
+Key Milestones:
+1. Draft Thesis (DRAT): Prepare an initial draft of your thesis for review by your advisor or committee.
+2. Format Approval Sheet (FORM): Obtain approval for the format of your draft thesis from the Graduate School to ensure compliance with guidelines.
+3. Comprehensive Oral Exam (COMO): Pass an oral exam covering coursework relevant to your thesis topic.
+4. Thesis Defense Requirement (DEFN): Defend your thesis in front of an academic committee who evaluates its originality and scholarly contribution.
+5. Final Thesis Submission (THES): Submit the revised final version electronically by the deadline set by the Graduate School.
+6. Signed Thesis Title Page (TITL) & ETD Submission Form (ETDF): Include these forms with your final submission as part of official requirements.
+
+Summary
+The research project focuses on applying existing knowledge practically with less emphasis on theoretical contributions compared to a thesis.
+The thesis demands rigorous investigation into new areas or expansion of existing theories with strict adherence to scholarly formats.
+
+Choosing between these paths should align with your career goals—whether you aim for practical industry applications or academic/research-oriented careers—and consulting with your advisor can provide further personalized guidance based on individual strengths and aspirations.

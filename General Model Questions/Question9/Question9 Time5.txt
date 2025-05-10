@@ -1,0 +1,20 @@
+Assistant: Course Repeatability and Its Impact on Credit Count and GPA
+
+1. Repeatability of Courses:
+Most courses listed in the provided data, such as CSC 532, CSC 550, MIS 503, and MIS 534, specify that they "may not be repeated." This means if you do not achieve the required grade, these specific courses cannot be retaken for credit.
+
+2. Impact on Credit Count:
+If a course is repeatable (though not specified for most of your current courses), repeating it will typically mean that only one instance of the course counts towards your total credit requirements.
+For non-repeatable courses like those you're currently enrolled in, you would need to consult with your academic advisor to explore alternative options or different courses to fulfill the credit requirement.
+
+3. Impact on GPA:
+Repeating a course can affect your GPA depending on institutional policies. Typically:
+If a course is repeatable and you choose to retake it, both grades might appear on your transcript but only the highest grade might count towards your GPA.
+If a course is not repeatable and you are unable to improve the grade through repetition, this could negatively impact your GPA since all grades remain part of the calculation.
+
+4. Next Steps:
+Consult with an academic advisor or refer to official university policies regarding how repeats affect GPA and degree progress.
+Consider additional support resources like tutoring or study groups if you're struggling with specific courses.
+
+Summary
+Given that most of your current courses are marked as non-repeatable, achieving satisfactory grades initially is crucial for maintaining progress toward graduation requirements. Your overall credit count remains unaffected by attempts at non-repeatable courses; however, poor performance can impact GPA negatively without remediation options via repetition. Ensure continuous communication with advisors for personalized guidance based on evolving academic performance.

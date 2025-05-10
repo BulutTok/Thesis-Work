@@ -1,0 +1,29 @@
+Assistant: Core Courses Required for the MSc in Computer Science & Information Systems
+
+For your Master of Science in Computer Science & Information Systems program, you are required to complete the following core courses:
+
+1. CSC 532 - Design and Analysis of Algorithms I
+Prerequisite: CSC 500 (Introduction to Computer Science)
+
+2. MIS 534 - Information Security Management
+Prerequisites: BUS 500 and CSC 344 or MIS 323
+
+3. CSC 544 - Network Programming
+Prerequisites: CSC 500 and CSC 344 or MIS 323
+
+4. CSC 550 - Software Engineering
+Prerequisites: CSC 500 and CSC 450 or MIS 411
+
+5. MIS 555 - Database Management Systems
+Prerequisites: BUS 500 and CSC 455 or MIS 315
+
+6. MIS 565 - Analysis, Modeling and Design
+Prerequisites: BUS 500 and CSC 450 or MIS 411
+
+Actionable Steps
+Review your academic history to ensure you have completed the necessary prerequisites for each core course.
+If any prerequisites are missing, plan to enroll in those courses first.
+Contact your academic advisor if you need assistance with planning your course schedule.
+
+Conclusion
+These core courses form the foundation of your MScIS program, so it's crucial to complete any prerequisite requirements beforehand. This will help ensure a smooth progression through your graduate studies. If you need further guidance on scheduling or fulfilling these requirements, feel free to reach out for additional support!

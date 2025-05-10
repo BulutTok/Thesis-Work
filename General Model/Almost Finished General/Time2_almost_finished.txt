@@ -1,0 +1,165 @@
+Ask about courses (or type 'exit' to quit):   As an almost finished student with only 3 credits remaining, what course options or electives should I consider to efficiently complete my degree requirements and ensure I graduate on time?
+
+Assistant: Evaluation of Current Academic Status and Interests
+Current Credits: 33 credits completed, 3 credits remaining.
+GPA: 3.778, which is above the minimum requirement of 3.0.
+In-progress Courses: 
+CSC 502 - Machine Learning Fundamentals
+CSC 592 - Computer Vision
+CSC 594 - Research Project
+MIS 534 - Information Security Management
+
+Relevant Academic and Career Goals
+Degree: Master of Science in Computer Science/Information Systems.
+Remaining Requirements:
+Must complete an additional course within the range of CSC/MIS courses (501 to 598) except for CSC/MIS 594.
+  
+Structured Advice on Course Selection
+
+1. Course Selection:
+   Since you need one more course to reach the required credit hours, consider selecting a course that complements your current coursework or enhances your career goals. Here are some options:
+MIS506: Text and Unstructured Data Analytics
+Prerequisite: MIS503 (You may have already fulfilled this if you've taken relevant courses).
+Focuses on unstructured data management skills, which can be beneficial if you're interested in big data analytics.
+CSC515: Artificial Intelligence
+Prerequisite: CSC331 with a minimum grade B (ensure you've met this prerequisite).
+Offers key concepts in AI, which could align well with your interest in Machine Learning.
+BAN501: Prescriptive Analytics
+No prerequisites listed.
+Involves optimization and decision analysis techniques using Excel, which might complement your analytical skills.
+
+2. Research Opportunities:
+   Continue focusing on your ongoing research project (CSC594) as it contributes significantly to your degree requirements and can enhance your practical experience.
+
+3. Graduation Requirements:
+   Ensure you have applied for graduation through SeaNet by the deadline and are enrolled in the semester you plan to graduate.
+
+Summary of Recommendations
+
+To efficiently complete your degree:
+Consider enrolling in MIS506 or CSC515 depending on your interests and any prerequisites you have already satisfied.
+Ensure all graduation paperwork is submitted on time, including applying for graduation via SeaNet.
+Continue progress on the comprehensive oral exam and defense of your research project/thesis as outlined in your program requirements.
+
+This approach will help you complete the necessary credit hours while aligning with both academic interests and career aspirations, ensuring timely graduation.
+
+
+Ask about courses (or type 'exit' to quit):  In my final semester, if I’m not taking a full course load, how can I adjust my schedule to meet the full-time enrollment requirement of 9–15 credit hours?
+
+Assistant: Evaluating Your Current Situation
+Current Enrollment: You are completing your final semester with several in-progress courses.
+Full-Time Requirement: As a graduate student, you need to maintain 9–15 credit hours for full-time status.
+
+Options to Meet Full-Time Enrollment
+
+1. Enroll in Additional Courses:
+Consider enrolling in one or more additional courses to meet the 9-credit hour minimum if you're currently below this threshold.
+Review your academic interests and career goals to select appropriate courses. For instance, consider electives that complement your ongoing research or enhance skills relevant to your field.
+
+2. Continuous Enrollment:
+If you have completed all coursework but still need to finish a capstone project or thesis, consider registering for continuous enrollment. This option allows you to maintain full-time status without taking additional traditional courses.
+For details on continuous enrollment, visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page and complete the necessary forms.
+
+3. Research or Directed Study:
+Register for directed independent study (CSC591/MIS591) or research seminar (CSC595/MIS595) if applicable, as these can provide flexibility while allowing you to focus on specific areas of interest under faculty supervision.
+These options can also help fulfill any remaining credit requirements while providing valuable research experience.
+
+Actionable Steps
+Review Course Offerings: Check available courses for the upcoming term that fit within your schedule and interests.
+Consult Your Advisor: Discuss your current situation with your academic advisor, Devon Simmonds, to ensure all options align with degree requirements and personal circumstances.
+Complete Necessary Forms: If opting for continuous enrollment or directed study, ensure all forms are completed promptly to secure enrollment.
+
+By taking these steps, you can adjust your schedule accordingly while meeting the university's full-time enrollment requirements and ensuring a smooth path toward graduation.
+
+
+Ask about courses (or type 'exit' to quit):  As an international student nearing graduation, how can I confirm that my final semester schedule meets the visa requirement of 6 hours of in-person courses?
+
+Assistant: Evaluating Your Current Academic and Visa Requirements
+Visa Requirement for International Students: To maintain your F-1 visa status, you must enroll in at least 9 credit hours, with a minimum of 6 credit hours being in-person courses.
+
+Steps to Ensure Compliance with Visa Requirements
+
+1. Review Current Course Enrollment:
+Confirm the mode of instruction for your current courses. You need at least two courses (totaling 6 credit hours) that are delivered in-person or have a significant in-person component.
+   
+2. Course Schedule Verification:
+Check each course's schedule details to ensure they meet the in-person requirement:
+Look for designations such as "F2F" (Face-to-Face) or specific classroom locations and times indicating physical attendance is necessary.
+For example, courses like CSC532 (Design and Analysis of Algorithms I), which are labeled as requiring attendance and participation in person at specified days/times, will fulfill this requirement.
+
+3. Adjust Schedule if Necessary:
+If any of your enrolled courses do not meet the in-person criteria, consider adjusting your schedule by enrolling in other available face-to-face courses.
+Review potential electives or required courses that fit within your academic plan while meeting the visa requirements.
+
+4. Consult with an International Student Advisor:
+Reach out to the international student office at UNCW for additional guidance on maintaining compliance with visa regulations.
+They can provide further clarification and assistance if there are any concerns about your course selections relative to visa requirements.
+
+5. Official Resources:
+Refer to the [UNCW Full-Time Status](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status) page for comprehensive guidelines on full-time enrollment standards.
+
+Summary
+
+By verifying your current course schedule against these steps, you can ensure compliance with both university policies and visa requirements, allowing you to focus on successfully completing your degree program while maintaining legal student status in the U.S.
+
+
+Ask about courses (or type 'exit' to quit):  If I’m shifting from traditional courses to completing my capstone work, what is the proper procedure to register for continuous enrollment and maintain full-time status?
+
+Assistant: Evaluating Your Current Academic Needs
+Current Status: You are transitioning from traditional coursework to focusing on completing your capstone project.
+Requirement: To maintain full-time status while completing capstone work, you need to register for continuous enrollment.
+
+Steps to Register for Continuous Enrollment
+
+1. Understand Continuous Enrollment:
+This option is designed for graduate students who have completed all required coursework but still need to finish their capstone, thesis, or other exit requirements.
+
+2. Registration Process:
+Visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page.
+Locate and complete the "Continuous Enrollment Form," which is necessary to register for this course option.
+Ensure that you meet any prerequisites or conditions outlined on the form.
+
+3. Consultation with Advisor:
+Discuss your decision with your academic advisor, Devon Simmonds, to ensure it aligns with your academic plan and degree completion timeline.
+Your advisor can provide additional guidance and support through the registration process.
+
+4. Submit Required Documentation:
+After completing the form, submit it as instructed (usually online or via email) to the Graduate School for processing.
+Keep a copy of all submitted documents for your records.
+
+5. Verify Enrollment Status:
+Once registered, confirm your enrollment status in SeaNet or through communication from the Registrar's Office to ensure you are officially enrolled under continuous enrollment.
+
+Summary
+
+By following these steps and utilizing available resources, you can smoothly transition into continuous enrollment while maintaining full-time student status. This will allow you to focus on completing your capstone work without disrupting your progress toward graduation.
+
+
+Ask about courses (or type 'exit' to quit):  For my capstone project, is it advisable to register for 3 credit hours per semester (one for the proposal and one for the final defense), or are there alternative recommended approaches for someone in the final stages of their program?
+
+Assistant: Evaluating Capstone Project Registration
+Current Academic Stage: You are in the final stages of your program, focusing on completing your capstone project.
+Credit Hour Requirement: Typically, students register for 3 credit hours per semester for their capstone work.
+
+Recommended Approach for Capstone Project
+
+1. Standard Practice:
+First Semester (Proposal): Register for 3 credit hours to work on developing and submitting your capstone proposal. This allows you to focus on planning, researching, and drafting the initial stages of your project.
+Second Semester (Completion/Defense): Register for another 3 credit hours to complete the project and prepare for the defense. This phase involves finalizing your research, writing up results, and preparing for any presentations or oral defenses required.
+
+2. Benefits of Standard Approach:
+Provides a structured timeline that aligns with typical academic schedules.
+Ensures adequate time is allocated to both proposal development and project completion without overwhelming workloads in a single semester.
+Allows you to maintain full-time status if combined with other coursework or continuous enrollment options as needed.
+
+3. Alternative Approaches:
+If you have already made significant progress on your capstone project or have lighter course loads due to completed requirements, consider discussing with your advisor about accelerating the process within one semester.
+Some students opt to take more than 3 credits in a single semester if they feel confident in managing their workload effectively.
+
+4. Consultation with Advisor:
+Discuss these options with your academic advisor, Devon Simmonds, who can provide personalized guidance based on your progress and specific circumstances.
+Your advisor can also help ensure that any deviations from the standard practice still meet all graduation requirements.
+
+Summary
+
+The typical recommendation is to register for 3 credit hours per semester over two semesters (one focused on the proposal and one on completion/defense). However, depending on individual progress and workload capacity, alternative strategies may be viable with advisor consultation. This approach balances maintaining full-time status while providing dedicated timeframes for each stage of the capstone project.

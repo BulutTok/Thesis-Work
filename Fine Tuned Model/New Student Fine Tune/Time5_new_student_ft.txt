@@ -1,0 +1,23 @@
+Ask about courses (or type 'exit' to quit):  Why do MIS503 sections have different date ranges? Do they differ beyond scheduling?
+
+Assistant: The different date ranges for MIS503 sections reflect scheduling differences, such as when the course content is delivered. However, all sections share the same course content and format, which is fully online and asynchronous. The primary distinction lies in the specific weeks during which students engage with the material. There are no differences in content or structure beyond these scheduling aspects.
+
+
+Ask about courses (or type 'exit' to quit):  In MIS504, do the asynchronous sections vary in interactive elements or deadlines?
+
+Assistant: MIS504 sections are all fully online and asynchronous, which means that while the delivery format is consistent, interactive elements and deadlines may vary based on the instructor's preferences. However, specific details about variations in interactive elements or deadlines are not provided in the course data. For precise information, it's best to consult the course syllabus or contact the instructor directly.
+
+
+Ask about courses (or type 'exit' to quit):  For MIS534, are there alternative options if I can’t attend the in-person sessions?
+
+Assistant: MIS534 is scheduled with in-person sessions, and no alternative online options are listed. If attending in person is not possible, consider discussing your situation with the instructor to explore potential accommodations or future offerings that might fit your schedule.
+
+
+Ask about courses (or type 'exit' to quit):  How does MIS505 manage real-time feedback in its asynchronous format?
+
+Assistant: MIS505, being fully online and asynchronous, may utilize discussion forums, email, or scheduled virtual office hours for real-time feedback. The specifics can vary by instructor. Check the course syllabus or contact the instructor for detailed information on how feedback is managed.
+
+
+Ask about courses (or type 'exit' to quit):  What differences should I consider between the MIS520 sections taught by Professor Gebauer
+
+Assistant: All sections of MIS520 taught by Professor Gebauer are fully online and asynchronous, so the content and structure should be consistent across sections. Differences may include specific deadlines or minor variations in engagement activities. For precise details, reviewing the syllabus or contacting Professor Gebauer would be beneficial.

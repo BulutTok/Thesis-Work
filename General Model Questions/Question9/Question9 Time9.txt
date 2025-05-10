@@ -1,0 +1,24 @@
+Assistant: Repeating a Course and Its Impact on Credits and GPA
+
+1. Eligibility for Repeating Courses:
+Course Repeatability: Most courses in the provided data, including core courses such as CSC532 (Design and Analysis of Algorithms I), CSC550 (Software Engineering), MIS503 (Programming for Analytics), and MIS534 (Information Security Management) are listed as "Course may not be repeated."
+Exceptions: If a course explicitly states that it may be repeated, you could retake it to improve your grade.
+
+2. Impact on Credit Count:
+If you repeat a course that is allowed to be repeated, only the most recent attempt typically counts towards your credit requirements.
+Courses like CSC591 or MIS591 allow repetition up to a certain number of hours. Ensure any repetitions do not exceed these limits.
+
+3. Impact on GPA:
+When you retake a course, the new grade will replace the old one in calculating your GPA. However, all attempts may still appear on your transcript.
+Improving grades through repetition can help achieve the required 3.0 GPA for graduation.
+
+4. Considerations:
+Before deciding to repeat any course, consult with your academic advisor to ensure compliance with university policies.
+Keep track of the total number of credit hours you're allowed from specific categories like directed independent study or internships to avoid exceeding limits.
+
+Summary
+You cannot typically repeat core courses unless specified otherwise.
+Retaking courses can help improve your GPA if allowed but doesn't contribute additional credits toward degree requirements beyond one successful completion.
+Always confirm with an academic advisor before proceeding with repeating a course to understand its implications fully.
+
+If you need further clarification or have specific concerns about particular courses or policies at UNCW, contacting an academic advisor directly would be beneficial.

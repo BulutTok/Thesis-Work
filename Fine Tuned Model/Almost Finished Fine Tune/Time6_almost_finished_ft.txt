@@ -1,0 +1,73 @@
+Ask about courses (or type 'exit' to quit):  How many credits do I still need to complete my Master of Science degree, and how does that compare with the total required credits?
+
+Assistant: You currently have 33 credits and need 3 more to complete your Master of Science degree. The total required credits for the degree are 36.
+
+
+Ask about courses (or type 'exit' to quit):  Can you help me understand my progress in the core courses, including the grades I received and the terms in which I took them?
+
+Assistant: Certainly! Here's a summary of your progress in the core courses:
+
+Completed Core Courses
+CSC 532 - Design and Analysis of Algorithms I
+Grade: A-
+Term: Spring 2024
+CSC 544 - Network Programming
+Grade: B
+Term: Fall 2023
+CSC 550 - Software Engineering
+Grade: A
+Term: Spring 2024
+MIS 555 - Database Management Systems
+Grade: A
+Term: Fall 2024
+MIS 565 - Analysis, Modeling and Design
+Grade: A
+Term: Fall 2024
+
+In-progress Core Courses
+MIS 534 - Information Security Management
+Term: Spring 2025
+
+Let me know if you need further details!
+
+
+Ask about courses (or type 'exit' to quit):  What role do the additional courses I’ve taken (like CSC 502 and CSC 592) play in fulfilling my major requirements?
+
+Assistant: Additional Courses
+
+The additional courses you've taken contribute to fulfilling the credit requirements for your degree, but they are not part of the core course requirements. Here's how they fit into your overall program:
+CSC 502 - Machine Learning Fundamentals
+In-progress (3 credits)
+Helps meet the total credit requirement.
+CSC 592 - Topics in Computing
+Grade: A (3 credits) completed in Fall 2023
+In-progress (Computer Vision, Spring 2025)
+
+These courses add to your elective credits and help you reach the required total of 36 credits for graduation. They also provide valuable skills and knowledge that can be applicable to your research project or future career opportunities.
+Ask about courses (or type 'exit' to quit):  What are the specific research or thesis milestones I need to complete, such as defending my project or submitting my thesis components?
+
+Assistant: Here's a list of the specific research or thesis milestones you need to complete:
+
+Research Project Requirements
+Defense of Project: Must successfully defend the research project.
+Final Project: Must successfully complete the final project.
+
+Thesis Requirements
+Comprehensive Oral Exam: Must pass a comprehensive written exam.
+Thesis Defense Requirement: Must pass a defense of the thesis.
+Draft Thesis: Submit a draft thesis electronically to the Graduate School by the deadline.
+Format Approval Sheet: Submit with the draft thesis.
+Final Thesis: Submit a final thesis electronically by the deadline.
+Signed Thesis Title Page: Submit with the final thesis.
+ETD Submission Form: Submit an Electronic Thesis Form with the final thesis.
+
+Make sure to consult your advisor for guidance and deadlines related to these requirements.
+
+
+Ask about courses (or type 'exit' to quit):  Besides earning course credits, what other graduation requirements do I still need to fulfill, like applying to graduate or being enrolled in the graduation semester?
+
+Assistant: In addition to earning course credits, here are the other graduation requirements you need to fulfill:
+Apply to Graduate: You must apply to graduate in SeaNet by the deadline.
+Enrolled in Semester of Graduation: You must be enrolled in the semester you plan to graduate.
+
+Make sure you complete these steps on time to ensure a smooth graduation process.

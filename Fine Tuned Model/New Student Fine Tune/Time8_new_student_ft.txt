@@ -1,0 +1,202 @@
+Ask about courses (or type 'exit' to quit):  What does it mean when my degree audit indicates "0% degree progress" and "0 credits applied," and what steps should I take to begin accumulating credits?
+
+Assistant: Understanding "0% Degree Progress" and "0 Credits Applied"
+
+Meaning:
+0% Degree Progress: You haven't started your coursework toward your degree yet.
+0 Credits Applied: You haven't earned any credits that count toward your degree requirements.
+
+Steps to Begin Accumulating Credits
+
+1. Review Core Course Requirements:
+Start with required core courses as they form the foundation of your program.
+Required core courses include:
+CSC 532 - Design and Analysis of Algorithms I
+MIS 534 - Information Security Management
+CSC 544 - Network Programming
+CSC 550 - Software Engineering
+MIS 555 - Database Management Systems
+MIS 565 - Analysis, Modeling, and Design
+
+2. Enroll in Core Courses:
+Check course availability for the upcoming semester.
+Register for these courses through your student portal.
+
+3. Plan Additional Courses:
+You need additional credits from courses numbered CSC 501-598 or MIS 500-598 (excluding CSC/MIS 594).
+
+4. Research or Thesis Requirement:
+   Choose one path:
+Research Project: Enroll in CSC/MIS 594 (6 credits).
+Thesis: Enroll in CSC/MIS 599 (6 credits).
+
+5. Meet with an Academic Advisor:
+   Schedule a meeting to discuss your academic plan, ensure you're on track, and clarify any questions about prerequisites or course sequences.
+
+Summary
+
+To begin making progress, enroll in core courses immediately available and plan for additional coursework. Regularly consult with your advisor to ensure you’re meeting all program requirements efficiently.
+
+
+Ask about courses (or type 'exit' to quit):  With 36 credits required for graduation and specific core course requirements (e.g., CSC 532, MIS 534, CSC 544, CSC 550, MIS 555, MIS 565), how should I plan my schedule to satisfy these academic requirements?
+
+Assistant: Academic Planning for 36-Credit Graduation Requirement
+
+To meet your graduation requirements efficiently, follow this structured approach:
+
+Core Courses (18 Credits)
+Start by enrolling in the required core courses. Aim to complete these early in your program as they are foundational:
+
+1. CSC 532 - Design and Analysis of Algorithms I (3 credits)
+2. MIS 534 - Information Security Management (3 credits)
+3. CSC 544 - Network Programming (3 credits)
+4. CSC 550 - Software Engineering (3 credits)
+5. MIS 555 - Database Management Systems (3 credits)
+6. MIS 565 - Analysis, Modeling, and Design (3 credits)
+
+Additional Courses (12 Credits)
+Choose from CSC or MIS courses numbered 501-598, except CSC/MIS 594:
+Look for courses that align with your interests or career goals.
+Consider prerequisites when selecting these courses.
+
+Research or Thesis Requirement (6 Credits)
+Decide between a research project or thesis:
+Research Project: Enroll in CSC/MIS 594
+Thesis: Enroll in CSC/MIS 599
+
+Sample Semester Plan
+
+Semester 1:
+CSC 532
+MIS 534
+Additional Course
+
+Semester 2:
+CSC 544
+MIS 555
+Additional Course
+
+Semester 3:
+CSC 550
+MIS 565
+Additional Course
+
+Semester 4:
+Research Project/Thesis Part I
+Additional Course
+
+Semester 5:
+Research Project/Thesis Part II
+
+Tips for Success
+
+1. Balance Workload: Mix core and additional courses each semester.
+2. Prerequisites: Ensure you meet prerequisites before enrolling in advanced courses.
+3. Consult Advisor: Regularly check in with your advisor to stay on track.
+4. Flexibility: Adjust your plan based on course availability and personal circumstances.
+
+By following this plan, you'll systematically complete the necessary coursework while allowing flexibility for adjustments as needed.
+
+
+Ask about courses (or type 'exit' to quit):  The degree audit notes that my current GPA is below the minimum 3.0 requirement—what are the consequences of this, and how can I improve my academic standing?
+
+Assistant: Consequences of a GPA Below 3.0
+Academic Standing: Falling below a 3.0 GPA can affect your academic standing, potentially leading to probation.
+Graduation Requirement: A minimum GPA of 3.0 is required to graduate.
+
+Steps to Improve Your GPA
+
+1. Course Selection:
+Prioritize Core Courses: Focus on core courses where you can perform well.
+Balance Workload: Mix challenging courses with ones you feel more confident in.
+
+2. Study Strategies:
+Effective Study Habits: Set a regular study schedule and use active learning techniques (e.g., summarizing, teaching others).
+Resources: Utilize tutoring services, study groups, and office hours for additional support.
+
+3. Time Management:
+Create a calendar with deadlines for assignments and exams.
+Break tasks into manageable chunks to avoid last-minute cramming.
+
+4. Seek Feedback:
+Regularly meet with professors to discuss your progress and seek feedback on assignments and exams.
+Use their insights to improve future performance.
+
+5. Academic Support Services:
+Access workshops or resources offered by the university's academic support center.
+Consider enrolling in seminars focused on study skills or time management.
+
+Summary
+
+By focusing on strategic course selection, effective study habits, and utilizing available resources, you can work towards improving your GPA while ensuring you're on track to meet graduation requirements.
+
+
+Ask about courses (or type 'exit' to quit):  How does the audit differentiate between the research project option (CSC 594/MIS 594) and the thesis option (CSC 599/MIS 599), and what requirements must be completed for each pathway?
+
+Assistant: Research Project vs. Thesis Option
+
+The degree audit outlines two distinct pathways for fulfilling the research or thesis requirement:
+
+Research Project (CSC 594/MIS 594)
+Credits Required: 6 credits
+Requirements:
+Defense of Project: Successfully defend your research project.
+Final Project Submission: Complete and submit the final project.
+
+Thesis (CSC 599/MIS 599)
+Credits Required: 6 credits
+Requirements:
+Comprehensive Oral Exam: Pass a comprehensive written exam.
+Thesis Defense: Successfully defend your thesis.
+Draft Thesis Submission: Submit a draft to the Graduate School by the deadline.
+Format Approval Sheet: Submit with the draft thesis.
+Final Thesis Submission: Submit electronically by the deadline.
+Signed Thesis Title Page: Include with the final submission.
+ETD Submission Form: Complete and submit this form with your thesis.
+
+Choosing Your Pathway
+Consider your career goals and whether you prefer a practical application (project) or an in-depth research study (thesis).
+Discuss with your advisor to determine which option aligns best with your interests and future plans. 
+
+Both pathways require planning and adherence to deadlines, so ensure you are well-prepared regardless of which option you choose.
+
+
+Ask about courses (or type 'exit' to quit):  In addition to the core courses, the audit lists additional courses totaling 12 credits and various graduation requirements—what is the overall process for meeting these supplementary requirements and applying for graduation?
+
+Assistant: Meeting Supplementary Requirements and Applying for Graduation
+
+Additional Courses (12 Credits)
+Course Selection: Choose from CSC 501-598 or MIS 500-598, excluding CSC/MIS 594.
+Align with Interests: Select courses that align with your career goals or areas of interest.
+Prerequisites: Ensure you meet any prerequisites before enrolling.
+
+Graduation Requirements
+
+1. Complete All Coursework:
+Ensure all core, additional, and research/thesis credits are completed.
+
+2. Maintain Minimum GPA:
+Achieve a minimum overall GPA of 3.0.
+
+3. Apply to Graduate:
+Apply through SeaNet by the specified deadline for your intended graduation term.
+
+4. Enrollment in Final Semester:
+You must be enrolled in at least one course during your graduation semester.
+
+5. Completion of Research/Thesis Requirements:
+If choosing the research project, complete and defend it.
+If opting for a thesis, follow all submission guidelines and deadlines.
+
+Steps to Apply for Graduation
+
+1. Consult Advisor:
+Verify that all academic requirements will be met by your intended graduation date.
+
+2. Submit Application:
+Use SeaNet to apply by the deadline specific to your graduation semester.
+
+3. Check Deadlines:
+Be aware of university deadlines for submitting projects or theses and applying to graduate.
+
+By following these steps, you’ll ensure you meet all necessary requirements for graduation on time. Regular consultations with your advisor can help keep you on track throughout this process.

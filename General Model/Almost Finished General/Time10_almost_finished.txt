@@ -1,0 +1,191 @@
+Ask about courses (or type 'exit' to quit):  As an MScIS student, how can I confirm that my additional courses (like CSC 502 and CSC 592) fully satisfy the core competencies required by my major?
+
+Assistant: Evaluating Additional Courses for Core Competency Satisfaction
+
+To ensure that your additional courses, such as CSC 502 (Machine Learning Fundamentals) and CSC 592 (Topics in Computing), satisfy the core competencies required by your MScIS major, follow these steps:
+
+1. Review Program Requirements:
+Verify the core competency requirements outlined in your program's curriculum guide or degree audit report. Ensure you have a clear understanding of what competencies are expected to be fulfilled.
+
+2. Check Course Descriptions:
+CSC 502 focuses on machine learning fundamentals, including supervised learning, regression, unsupervised learning, and related statistics.
+CSC 592 covers current topics in computing that may vary but often involve advanced computational techniques or emerging technologies.
+
+3. Align Courses with Competencies:
+Determine if the content of CSC 502 aligns with any specific competency areas such as data analysis, algorithmic development, or statistical modeling.
+For CSC 592, identify whether the topic covered directly supports a required competency area. This could depend on the specific focus of the course during your enrollment.
+
+4. Consult Your Academic Advisor:
+Schedule a meeting with your academic advisor to discuss how these courses fit into your degree plan and whether they meet any core requirements. Given that your primary advisor is Devon Simmonds, reaching out to them would be beneficial.
+
+5. Refer to Degree Audit Report:
+Use your degree audit report as a guide to check which courses are marked as fulfilling required competencies and identify any gaps you may need to address.
+
+6. Consider In-progress Courses:
+Since both CSC 502 and CSC 592 are currently in progress (IP), verify their completion status and ensure grades meet minimum standards once finalized.
+
+Summary
+Review program requirements and course descriptions.
+Align course content with necessary competencies.
+Consult with Devon Simmonds or another academic advisor.
+Use the degree audit report for guidance on requirement fulfillment.
+Confirm completion status of in-progress courses after grades are posted.
+
+By following these steps, you'll be able to confirm whether your additional courses adequately satisfy the core competencies needed for your MScIS major. If further clarification is needed after consulting these resources, continue discussions with faculty members who can provide insight into course content alignment with program goals.
+
+
+Ask about courses (or type 'exit' to quit):  What impact do the credit hour restrictions for courses such as CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 have on my ability to pursue specialized topics within my field?
+
+Assistant: Impact of Credit Hour Restrictions on Specialized Topics
+
+The credit hour restrictions for courses such as CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 can influence your ability to explore specialized topics within your field in several ways:
+
+Understanding the Restrictions:
+Credit Limit: You can apply no more than 9 credit hours from the specified list of courses towards your degree. This includes Directed Independent Study (CSC/MIS 591), Research Seminar (CSC/MIS 595), and Internship (CSC/MIS 598).
+  
+Implications for Specialization:
+1. Limited Exploration:
+These courses often allow students to delve into niche areas or emerging topics not covered in standard coursework. However, the credit limit means you must choose carefully which specialized topics you wish to explore deeply.
+  
+2. Strategic Planning:
+You'll need to strategically plan which independent studies, seminars, or internships will best complement your core competencies and align with your career goals. Prioritize those that offer the most value or relevance to your desired specialization.
+
+3. Balancing Core Requirements:
+Ensure that while pursuing these specialized topics through restricted credit hours, you are still meeting all core program requirements without exceeding allowed limits.
+
+4. Enhanced Focus on Capstone/Thesis Projects:
+Since these restrictions require careful selection of independent study or research opportunities, they may encourage a stronger focus on capstone projects or thesis work where you can independently explore specialized areas without impacting credit hour limitations.
+
+5. Advisor Consultation:
+Regular consultation with your academic advisor is crucial to ensure that you make informed decisions about which courses will best support your specialization interests without exceeding limits.
+
+Actionable Steps:
+Evaluate how each potential course aligns with both personal interests and professional objectives.
+Discuss options with Devon Simmonds or another advisor who understands program nuances.
+Consider focusing any extra-curricular research efforts outside formal coursework if necessary.
+
+Summary
+While the credit hour restrictions limit the number of credits from certain courses like CSC/MIS 591 and others toward degree completion, they encourage strategic planning around specialization pursuits within permissible limits. By leveraging these constraints effectively alongside guidance from advisors and focusing on comprehensive projects like a thesis or capstone, you'll be able to maintain depth in key interest areas while fulfilling degree requirements efficiently.
+Ask about courses (or type 'exit' to quit):  For my research project in CSC 594, what specific milestones must I meet, and how will the defense process integrate with the overall MScIS curriculum? 
+
+Assistant: Evaluation of Current Academic Status and Interests
+You are currently pursuing a Master of Science in Computer Science/Information Systems, with a focus on completing your research project (CSC 594). You have 33 credits completed and are working towards the final 3 credits needed to fulfill the degree requirements. Your GPA is strong at 3.778.
+
+Relevant Academic and Career Goals
+Your immediate goal is to complete your research project as part of CSC 594, which will count towards your degree completion. Successfully defending your project will be integral to fulfilling the program's graduation requirements.
+
+Structured Advice on Milestones for CSC 594
+
+1. Research Project Completion:
+Project Development: Continue working on your research project by developing a solution to a real-world problem using theoretical and practical knowledge acquired during your coursework.
+Written Analysis: Prepare a comprehensive written analysis that details your methodology, findings, and conclusions.
+
+2. Defense Preparation:
+Draft Submission: Submit a draft of your research project for review by the Graduate School before the specified deadline.
+Format Approval Sheet: Ensure you submit a Format Approval Sheet along with your draft to meet submission guidelines.
+
+3. Defense Process Integration:
+Oral Presentation: Prepare an oral presentation summarizing your research findings, methodology, and implications.
+Defense Requirement (DEFN): Successfully defend your research in front of a committee as part of the program’s requirement.
+The defense process is designed to assess both your depth of understanding and ability to communicate complex ideas effectively—a critical component of the MScIS curriculum.
+
+4. Graduation Requirements:
+Ensure you apply for graduation via SeaNet by the deadline.
+Confirm enrollment in the semester you plan to graduate.
+
+Summary and Recommendations
+Focus on completing all necessary components for CSC 594, including writing up results and preparing for defense.
+Coordinate with faculty advisors or committee members early in this process for guidance on expectations during both preparation and defense stages.
+Keep track of deadlines related to thesis submission requirements—such as format approval sheets—to ensure compliance with university regulations.
+
+By meeting these milestones, you'll align successfully with program goals while demonstrating mastery in applying computer science principles within practical contexts.
+
+
+Ask about courses (or type 'exit' to quit):  With 33 credits completed and 43% degree progress, what should be my academic focus for the upcoming semester to efficiently meet the remaining graduation requirements?
+
+Assistant: Evaluation of Current Academic Status
+Credits Completed: You have completed 33 credits.
+Degree Progress: Currently at 43% completion for your Master of Science in Computer Science/Information Systems.
+GPA: Your GPA is a strong 3.778.
+
+Requirements to Complete Degree
+
+1. Remaining Credits: You need 3 more credits to meet the required 36 credits for degree completion.
+2. Current Coursework:
+In-progress courses include CSC 502 (Machine Learning Fundamentals), CSC 592 (Computer Vision), CSC 594 (Research Project), and MIS 534 (Information Security Management).
+
+Academic Focus for Upcoming Semester
+
+1. Complete Remaining Credits:
+Ensure successful completion of the current in-progress courses, particularly focusing on CSC 594, which is crucial for fulfilling the research project requirement.
+
+2. Milestones for Research Project (CSC 594):
+Complete and defend your research project as this will contribute significantly to both credit requirements and mastery demonstration.
+
+3. Graduation Requirements:
+Apply for graduation through SeaNet by the specified deadline.
+Ensure enrollment in all necessary courses during your final semester.
+
+4. Consider Additional Electives or Advanced Courses:
+If you are interested in further specialization or enhancing specific skills, consider enrolling in an elective course that complements your career goals, provided it fits within the program’s requirements and doesn’t exceed allowable credit limits from specific course lists like CSC/MIS 591, CSC/MIS 595, etc.
+
+5. Thesis/Project Defense Preparation:
+Begin preparing materials needed for the defense of your research project if not already underway.
+
+Summary and Recommendations
+
+To efficiently meet graduation requirements:
+Focus on completing all current courses with strong performance.
+Prioritize finishing your research project with a comprehensive analysis and successful defense.
+Manage administrative tasks such as applying for graduation and ensuring enrollment compliance.
+  
+By concentrating efforts on these areas, you’ll be well-positioned to complete your degree efficiently while maintaining high academic standards.
+
+
+Ask about courses (or type 'exit' to quit):  As a Non-Resident in the College of Science & Engineering, are there any particular administrative or course selection considerations that I should be aware of to ensure smooth progress toward graduation?
+
+Assistant: Evaluation of Current Academic Status
+Residency Status: You are a non-resident student.
+College: Enrolled in the College of Science & Engineering.
+Degree Progress: 43% completion towards your Master of Science in Computer Science/Information Systems.
+
+Administrative Considerations
+
+1. Tuition and Fees:
+As a non-resident, be aware that tuition fees may be higher compared to resident students. Ensure you budget accordingly for any upcoming semesters.
+
+2. Enrollment Requirements:
+Maintain full-time enrollment status if required by any financial aid or visa conditions (for international students). Full-time status generally requires at least 9 credit hours per semester, with at least 6 being in-person if applicable.
+
+3. Graduation Application:
+Apply for graduation through SeaNet by the deadline specific to non-residents or as outlined by your program guidelines.
+
+4. Advising and Support Services:
+Take advantage of advising services offered by the College of Science & Engineering to stay on track with degree requirements and any specific considerations for non-resident students.
+   
+5. Residency Policies:
+If considering a change in residency status, consult with the registrar's office regarding policies and procedures.
+
+Course Selection Considerations
+
+1. Remaining Credits:
+You need 3 more credits to fulfill degree requirements; prioritize courses that align with your academic goals and remaining program requirements.
+   
+2. Elective Options:
+If additional courses are needed beyond the core curriculum, consider electives that enhance your specialization or career objectives within computer science/information systems.
+
+3. Research Project Completion (CSC 594):
+Focus on completing and defending your research project, which is critical for meeting graduation requirements.
+
+4. Course Scheduling Flexibility:
+Be mindful of course scheduling to accommodate potential travel or other commitments associated with being a non-resident student.
+
+Summary and Recommendations
+
+To ensure smooth progress toward graduation:
+Manage financial aspects related to non-resident tuition fees effectively.
+Keep track of administrative deadlines such as graduation applications.
+Utilize advising resources within the College of Science & Engineering for personalized guidance tailored to your residency status.
+Prioritize completing necessary credits while aligning course selections with career goals.
+
+By staying informed about these considerations, you'll maintain a clear path toward successful program completion while navigating any unique challenges associated with your residency status.

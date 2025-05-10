@@ -1,0 +1,20 @@
+Assistant: Certainly! In your Master of Science program in Computer Science & Information Systems, there is a limitation on the number of credit hours you can apply from certain types of courses. Specifically:
+
+Explanation:
+Directed Independent Study (CSC 591, MIS 591): These courses involve investigation under faculty supervision beyond what is offered in existing courses.
+Research Seminar (CSC 595, MIS 595): These courses involve research and discussion of selected topics in computer science or information systems.
+Internship (CSC 598, MIS 598): These provide academic training and practical experience through work in a private company or public agency.
+
+Limitation:
+You are allowed to apply a maximum of 9 credit hours combined from these course categories toward your degree requirements.
+
+Reasoning:
+1. Balance: The program aims to ensure that students receive a balanced education with exposure to both structured coursework and experiential learning.
+2. Depth and Breadth: Limiting these credits encourages students to take a variety of courses that provide both depth in specific areas and breadth across the field.
+3. Consistency with Program Goals: This ensures alignment with the overall educational goals of the program by emphasizing core knowledge acquisition alongside independent study or practical experiences.
+
+Actionable Steps:
+1. Plan your coursework so that you do not exceed this limit if you wish to include any directed independent study, research seminars, or internships as part of your degree plan.
+2. Consult with your academic advisor to strategically select these opportunities based on your career goals and interests while staying within the credit hour restrictions.
+
+In summary, while these opportunities are valuable for gaining practical experience and conducting independent research, the restriction ensures that you also complete essential coursework necessary for your degree completion.

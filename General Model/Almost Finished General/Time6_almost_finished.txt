@@ -1,0 +1,124 @@
+Ask about courses (or type 'exit' to quit):  How many credits do I still need to complete my Master of Science degree, and how does that compare with the total required credits?
+
+Assistant: Based on the information provided, you currently have 33 credits applied toward your Master of Science degree. The total number of credits required for completion of the degree is 36. Therefore, you still need to complete 3 more credits to meet the graduation requirements.
+
+
+Ask about courses (or type 'exit' to quit):  Can you help me understand my progress in the core courses, including the grades I received and the terms in which I took them?
+
+Assistant: Certainly! Here's a breakdown of your progress in the core courses for your Master of Science degree, including the grades received and the terms during which you took them:
+
+Core Courses Progress
+
+1. CSC 532 - Design and Analysis of Algorithms I
+Grade: A-
+Term: Spring 2024
+
+2. MIS 534 - Information Security Management
+Grade: IP (In Progress)
+Term: Spring 2025
+
+3. CSC 544 - Network Programming
+Grade: B
+Term: Fall 2023
+
+4. CSC 550 - Software Engineering
+Grade: A
+Term: Spring 2024
+
+5. MIS 555 - Database Management Systems
+Grade: A
+Term: Fall 2024
+
+6. MIS 565 - Analysis, Modeling and Design
+Grade: A
+Term: Fall 2024
+
+Additional Courses In Progress
+CSC 502 – Machine Learning Fundamentals: IP (In Progress), Spring 2025
+CSC 592 – Computer Vision: IP (In Progress), Spring 2025
+
+You have completed several core courses with excellent grades, and you are currently progressing through some additional courses this semester. Keep up the good work to complete your degree requirements!
+
+
+Ask about courses (or type 'exit' to quit):  What role do the additional courses I’ve taken (like CSC 502 and CSC 592) play in fulfilling my major requirements?
+
+Assistant: The additional courses you have taken, such as CSC 502 (Machine Learning Fundamentals) and CSC 592 (Computer Vision), play a significant role in fulfilling your major requirements by contributing to the total credit count needed for your degree. Here’s how they fit into your program:
+
+Role of Additional Courses
+
+1. Credit Contribution:
+Both CSC 502 and CSC 592 are part of the additional courses that contribute to the total number of credits required for completing your Master of Science degree.
+Each course provides 3 credits, helping you reach the required 36 credits.
+
+2. Specialization and Skill Enhancement:
+These courses offer an opportunity to gain specialized knowledge in areas of interest within Computer Science, such as Machine Learning and Computer Vision.
+They enhance your skill set, making you more versatile and prepared for advanced roles or research opportunities in these fields.
+
+3. Flexibility within Program Requirements:
+The inclusion of elective or additional courses allows you to tailor your education to match career goals or personal interests while still meeting the overall credit requirements.
+
+In summary, these additional courses not only help fulfill the credit requirement but also enrich your academic experience by providing deeper insights into specific topics relevant to your field.
+
+
+Ask about courses (or type 'exit' to quit):  What are the specific research or thesis milestones I need to complete, such as defending my project or submitting my thesis components?
+
+Assistant: To complete your Master of Science degree, you need to meet several specific research or thesis milestones. Here’s a detailed overview of the requirements:
+
+Research Project Requirements
+
+1. Defense of Project:
+You must successfully defend your research project. This involves presenting and justifying your work to a committee, demonstrating the validity and significance of your findings.
+
+2. Final Project Completion:
+Successfully complete all components of the final project as outlined by your program requirements.
+
+Thesis Requirements (if applicable)
+
+1. Comprehensive Oral Exam:
+Pass a comprehensive written exam that assesses your understanding and integration of key concepts from your coursework and research.
+
+2. Thesis Defense Requirement:
+Successfully pass a defense of the thesis before a committee, which includes presenting your research findings and answering questions.
+
+3. Draft Thesis Submission:
+Submit a draft version of your thesis electronically to the Graduate School by the specified deadline for initial review.
+
+4. Format Approval Sheet:
+Submit a Format Approval Sheet along with your draft thesis to ensure compliance with formatting guidelines.
+
+5. Final Thesis Submission:
+Submit the final version of your thesis electronically to the Graduate School by the deadline after incorporating feedback from reviewers.
+
+6. Signed Thesis Title Page:
+Provide a signed title page with the final thesis submission, as required by university guidelines.
+
+7. ETD Submission Form:
+Complete and submit an Electronic Thesis Form (ETDF) along with your final thesis submission.
+
+Graduation Requirements
+Apply to graduate through SeaNet by the designated deadline.
+Ensure you are enrolled in courses during the semester in which you plan to graduate.
+
+Completing these milestones is crucial for fulfilling graduation requirements, so it’s important to keep track of deadlines and maintain communication with advisors and committee members throughout this process.
+
+
+Ask about courses (or type 'exit' to quit):  Besides earning course credits, what other graduation requirements do I still need to fulfill, like applying to graduate or being enrolled in the graduation semester?
+
+Assistant: In addition to earning the required course credits, there are several other graduation requirements you need to fulfill. Here’s a list of those requirements:
+
+Graduation Requirements
+
+1. Apply to Graduate:
+You must apply to graduate through SeaNet by the specified deadline. This is an essential administrative step to ensure your intent to graduate is officially recorded.
+
+2. Enrollment in Graduation Semester:
+Ensure you are enrolled in courses during the semester in which you plan to graduate. This requirement helps confirm your active status as a student at the time of graduation.
+
+3. Completion of Research or Thesis Milestones:
+Successfully defend your research project or thesis.
+Complete and submit all required components for your research project or thesis, such as draft submissions, final versions, and necessary forms.
+
+4. Maintain Minimum GPA Requirement:
+Your overall GPA must meet the minimum requirement set by your program (you have already met this with a 3.778 GPA).
+
+By fulfilling these requirements alongside completing your coursework, you will be well-positioned to successfully complete your Master of Science degree program. Be sure to keep track of deadlines and maintain regular communication with advisors and administrative offices for any updates or changes in requirements.

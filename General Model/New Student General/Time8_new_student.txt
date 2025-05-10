@@ -1,0 +1,258 @@
+Ask about courses (or type 'exit' to quit):  What does it mean when my degree audit indicates "0% degree progress" and "0 credits applied," and what steps should I take to begin accumulating credits?
+
+Assistant: Understanding Your Degree Audit
+
+When your degree audit indicates "0% degree progress" and "0 credits applied," it means that you have not yet completed any courses that count towards the credit requirements for your Master of Science degree in Computer Science/Information Systems. This is common for new students who are just beginning their program.
+
+Steps to Begin Accumulating Credits
+
+1. Review Program Requirements:
+You need a total of 36 credits to complete your degree.
+Ensure you understand the core courses and additional course requirements:
+Core Courses Required:
+CSC 532: Design and Analysis of Algorithms I
+MIS 534: Information Security Management
+CSC 544: Network Programming
+CSC 550: Software Engineering
+MIS 555: Database Management Systems
+MIS 565: Analysis, Modeling and Design
+
+2. Plan Your First Semester Courses:
+As a new student, it's advisable to start with core courses required for your major.
+Consider enrolling in one or more of the following:
+CSC 532 if available (Design and Analysis of Algorithms I)
+MIS 534 if available (Information Security Management)
+
+3. Consider Course Prerequisites and Availability:
+Some courses may have prerequisites; ensure you meet them before enrolling.
+Check the course schedule for availability during your desired semester.
+
+4. Register for Courses:
+Use SeaNet or consult with your academic advisor to register for courses.
+Make sure to enroll in at least nine credit hours per semester if you're an international student needing full-time status.
+
+5. Consult Your Academic Advisor:
+Meet with your academic advisor to discuss your academic plan, ensuring it aligns with degree requirements and personal goals.
+   
+6. Explore Research or Thesis Options Early On: 
+Decide whether you want to pursue a research project (CSC/MIS 594) or thesis (CSC/MIS 599).
+Plan accordingly as these require approval and planning over multiple semesters.
+
+7. Maintain Good Academic Standing: 
+    – Aim for at least a GPA of 3.0, as this is required for graduation.
+
+8. Utilize University Resources: 
+    – Take advantage of tutoring services, workshops, and other resources offered by UNCW to support your studies.
+
+Conclusion
+
+By taking these steps, you'll be well on your way toward accumulating credits needed for graduation. Always keep track of progress through regular consultations with advisors and by frequently checking updates on SeaNet regarding course offerings each semester.
+
+
+Ask about courses (or type 'exit' to quit):  With 36 credits required for graduation and specific core course requirements (e.g., CSC 532, MIS 534, CSC 544, CSC 550, MIS 555, MIS 565), how should I plan my schedule to satisfy these academic requirements?
+
+Assistant: Planning Your Course Schedule
+
+To efficiently satisfy your academic requirements for the Master of Science degree in Computer Science/Information Systems, it's important to strategically plan your course schedule. Here's a suggested approach:
+
+Step 1: Understand Core Course Requirements
+Core Courses (Each typically 3 credits):
+CSC 532: Design and Analysis of Algorithms I
+MIS 534: Information Security Management
+CSC 544: Network Programming
+CSC 550: Software Engineering
+MIS 555: Database Management Systems
+MIS 565: Analysis, Modeling and Design
+
+Step 2: Balance Your Semester Load
+Aim to take around three courses per semester (9 credits), which is full-time status.
+This will allow you to complete the required credits over four semesters.
+
+Step 3: Plan Your First Year
+
+First Semester
+CSC Courses:
+CSC 532 if available (Design and Analysis of Algorithms I)
+CSC 550 if available (Software Engineering)
+MIS Course:
+MIS 555 if available (Database Management Systems)
+
+Second Semester
+CSC Courses:
+CSC 544 if available (Network Programming)
+MIS Courses:
+MIS 534 if available (Information Security Management)
+MIS 565 if available (Analysis, Modeling and Design)
+
+Step 4: Incorporate Additional Electives
+You need an additional set of elective courses from the range CSC/MIS/BAN to reach a total of at least twelve more credits.
+Select electives that align with your career goals or areas you wish to specialize in.
+
+Step 5: Consider Research or Thesis Options Early On 
+Decide between pursuing a research project or thesis early as it requires planning.
+Enroll in corresponding courses like CSC/MIS594 or CSC/MIS599 after consulting with faculty advisors.
+
+Step6 : Monitor Prerequisites & Availability 
+– Check prerequisites for each course and ensure they are met.
+– Confirm course availability through SeaNet each semester prior to registration.
+
+Conclusion
+
+By following this structured approach, you'll be able to fulfill all core requirements while maintaining flexibility in exploring additional topics through electives. Regular consultation with academic advisors will further ensure that any adjustments needed are made timely based on course offerings each semester.
+
+
+Ask about courses (or type 'exit' to quit):  The degree audit notes that my current GPA is below the minimum 3.0 requirement—what are the consequences of this, and how can I improve my academic standing?
+
+Assistant: Understanding the Consequences of a GPA Below 3.0
+
+Having a GPA below the minimum requirement of 3.0 can have several implications:
+
+1. Academic Probation: 
+You may be placed on academic probation, which is a formal warning that your academic performance must improve.
+   
+2. Impact on Financial Aid:
+Falling below the required GPA can affect eligibility for certain scholarships or financial aid.
+
+3. Graduation Eligibility:
+You must achieve at least a 3.0 GPA to graduate from your program.
+
+4. Program Continuation:
+Continued low performance could lead to dismissal from the program if not addressed.
+
+Steps to Improve Your Academic Standing
+
+1. Evaluate Current Performance:
+Identify courses where you struggled and understand why (e.g., difficulty with material, time management issues).
+
+2. Seek Academic Support:
+Utilize tutoring services offered by the university.
+Attend workshops focused on study skills and time management.
+
+3. Meet with an Academic Advisor:
+Discuss your current challenges and develop a plan to address them.
+Advisors can provide guidance on course selection and workload balance.
+
+4. Improve Study Habits:
+Create a structured study schedule that allows ample time for each subject.
+Use active learning techniques such as summarizing information, self-quizzing, and teaching concepts to others.
+
+5. Leverage Office Hours and Faculty Support:
+Regularly attend office hours to seek clarification on difficult topics.
+Build relationships with faculty who can offer personalized advice and support.
+
+6. Focus on Core Courses Initially:
+Prioritize improving grades in core courses that are crucial for degree completion.
+   
+7. Consider Course Load Adjustment:
+    – If necessary, consider reducing course load temporarily to focus more intensively on fewer subjects.
+
+8. Regularly Monitor Progress: 
+    – Keep track of grades throughout each semester using available resources like SeaNet or Canvas for real-time updates.
+
+Conclusion
+
+By taking proactive steps towards improving your academic performance, you can raise your GPA above the minimum requirement while also gaining confidence in managing coursework effectively moving forward into subsequent semesters within your program at UNCW!
+
+
+Ask about courses (or type 'exit' to quit):  How does the audit differentiate between the research project option (CSC 594/MIS 594) and the thesis option (CSC 599/MIS 599), and what requirements must be completed for each pathway?
+
+Assistant: Differentiation Between Research Project and Thesis Options
+
+Your degree audit outlines two distinct pathways for completing your research requirement: the Research Project option (CSC 594/MIS 594) and the Thesis option (CSC 599/MIS 599). Each pathway has its own set of requirements:
+
+Research Project Option (CSC 594/MIS 594)
+Credits Required: 
+You need to complete a total of 6 credits in either CSC 594 or MIS 594.
+Requirements:
+Final Project: Successfully complete a final research project.
+This involves selecting a research topic, conducting thorough investigation, analysis, and presenting findings.
+The project typically culminates in a written report or paper.
+Defense of Project: Successfully defend the research project.
+A formal presentation where you explain your methodology, results, and conclusions to a committee.
+Feedback from the committee will be integral to final approval.
+
+Thesis Option (CSC 599/MIS 599)
+Credits Required:
+You need to complete a total of 6 credits in either CSC 599 or MIS 599.
+Requirements:
+Comprehensive Oral Exam: Pass a comprehensive oral exam related to your thesis work.
+Thesis Defense Requirement: Successfully defend your thesis before a committee.
+Similar to the research project defense but often more rigorous due to the depth of work involved in a thesis.
+Draft Thesis Submission: Submit an electronic draft of your thesis by the specified deadline. 
+
+   – Must include:
+Draft submission electronically
+Format Approval Sheet
+Final submission with all necessary signatures
+Additional Documents:
+   – ETD Submission Form is required upon completion
+
+Choosing Between Options
+
+1. Research Interests & Goals:
+If you prefer practical applications and shorter-term projects, consider the Research Project option.
+If you are interested in deep academic inquiry or considering doctoral studies, the Thesis option may be more suitable.
+
+2. Consultation with Advisors:
+   – Discuss both options with faculty advisors who can provide insights into what each entails based on past student experiences within UNCW's program structure.
+
+3. Time Commitment & Resources:
+   – Consider available time commitment as theses generally require more extended periods due to their comprehensive nature compared with projects that tend toward applied learning outcomes over shorter durations!
+
+By understanding these differences clearly along with associated requirements per path chosen at UNCW’s graduate level programs; it becomes easier making informed decisions aligning best personal career aspirations alongside institutional expectations!
+
+
+Ask about courses (or type 'exit' to quit):  In addition to the core courses, the audit lists additional courses totaling 12 credits and various graduation requirements—what is the overall process for meeting these supplementary requirements and applying for graduation?
+
+Assistant: Meeting Supplementary Course and Graduation Requirements
+
+To successfully complete your Master of Science degree in Computer Science/Information Systems, you must fulfill additional course requirements beyond the core courses, as well as meet specific graduation requirements. Here's a detailed breakdown:
+
+Additional Courses Requirement
+
+1. Credit Hours:
+You need 12 additional credits from courses in the range CSC 501-598 or MIS 500-598, excluding CSC/MIS 594.
+
+2. Course Selection:
+Choose electives that align with your career interests or areas you wish to specialize in.
+Consider courses like:
+MIS503: Programming for Analytics
+BAN502: Predictive Analytics
+CSC502: Machine Learning Fundamentals
+Ensure any prerequisites are met before enrolling.
+
+3. Consultation with Advisor:
+Discuss elective choices with your academic advisor to ensure they complement your overall academic and career goals.
+
+Graduation Requirements
+
+1. Maintain Minimum GPA:
+Ensure you have a minimum GPA of 3.0 by the time of graduation.
+
+2. Research or Thesis Completion:
+Successfully complete either the research project (CSC/MIS 594) or thesis (CSC/MIS 599), including all associated defenses and submissions.
+
+3. Apply to Graduate:
+Apply for graduation through SeaNet by the specified deadline for your intended semester of graduation.
+   
+4. Enrollment During Graduation Semester:
+   – Be enrolled during the semester in which you plan to graduate.
+   
+5. Complete All Administrative Forms:
+    – Submit necessary forms such as ETD Submission Form if pursuing a thesis option.
+
+6. Check Degree Audit Regularly: 
+    – Monitor progress using your degree audit report ensuring all requirements are met timely before applying officially via SeaNet system interface!
+
+Application Process for Graduation
+
+1. Check Deadlines: 
+    – Confirm application deadlines on UNCW’s Registrar's page relevant to desired completion term (Fall/Spring/Summer).
+
+2. Review Audit & Consult Advisor: 
+    – Conduct thorough review meeting discussing any pending tasks needed addressing prior submission period end dates reached each cycle yearlong schedule rotations provide prospective candidates alike!
+
+3. Submit Application via SeaNet: 
+    – Complete online application form accessed through SeaNet portal ensuring accuracy inputted data matching official records maintained within university systems database repository securely housed therein perpetuity thereafter recorded appropriately reflecting student academic journey undertaken culminating successful attainment degree conferral ceremony celebrated commencement exercises organized annually recognized milestone achieved significant life accomplishments documented cherished memories shared loved ones friends colleagues alike! 
+
+By following these steps diligently while maintaining open communication channels between advisors faculty peers throughout duration study tenure at institution ensures smooth transition towards eventual goal achieving master’s level education completion ready embark upon next chapter professional journey confidently prepared tackle challenges opportunities await horizon ahead!

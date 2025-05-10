@@ -1,0 +1,55 @@
+Assistant: Analysis of Additional Course Requirement
+
+Current Academic Status:
+You have completed 12 credits and need an additional 24 credits to fulfill your degree requirements.
+Your GPA is currently 0.000, which must be improved to meet the minimum requirement of 3.0 for the major.
+
+Specific Requirements:
+You need to complete additional courses totaling 9 credits from a selection of CSC or MIS courses (CSC 501:598 or MIS 500:598), excluding certain options like CSC 594 or MIS 594.
+
+Options for Fulfilling Additional Course Requirements
+
+Based on the provided data, you have several course options to choose from that fit within the specified range and are not excluded:
+
+1. MIS503 - Programming For Analytics
+Credits: 3
+Prerequisites: None
+This course is already in progress for you.
+
+2. MIS504 - Databases for Analytics
+Credits: 3
+Prerequisites: None
+
+3. MIS505 - Data Visualization
+Credits: 3
+Prerequisites: BAN500 (may be taken concurrently)
+
+4. CSC502 - Machine Learning Fundamentals
+Credits: 3
+Prerequisites: None
+
+5. CSC532 - Design and Analysis of Algorithms I
+Already in progress, but it might be part of your core requirement rather than elective credit.
+
+6. CSC515 – Artificial Intelligence
+    *Note*: Requires CSC331 with a minimum grade B, which might not align if you haven't met this prerequisite.
+
+7. Additional relevant electives could include:
+CSC517 – Symbolic Artificial Intelligence
+MIS506 – Text and Unstructured Data Analytics (requires MIS503 as a prerequisite)
+  
+Restrictions:
+You cannot count more than nine credit hours from specific independent study or internship courses towards your degree.
+Excluded Courses:
+CSC594 and MIS594 are explicitly mentioned as not applicable towards fulfilling these particular elective requirements.
+
+Recommended Action Steps
+
+1. Review your interest in available electives based on career goals and academic strengths.
+2. Ensure prerequisites are met before enrolling in any chosen course.
+3. Consult with an academic advisor to confirm selections align with graduation requirements and consider potential impacts on GPA improvement.
+4. Consider opportunities for improving GPA through focused study strategies and possibly retaking low-grade courses if needed.
+
+Conclusion
+
+Select a combination of available courses such as those listed above that align with your interests, career goals, and required prerequisites while ensuring they fit within program restrictions regarding repeatable hours and specific exclusions like CSC594 or MIS594.

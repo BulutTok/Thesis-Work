@@ -1,0 +1,26 @@
+Assistant: Based on the degree audit for your Master of Science in Computer Science & Information Systems (MScIS) program at the University of North Carolina Wilmington, here are the core courses you are required to complete:
+
+Core Courses Required
+1. CSC 532 - Design and Analysis of Algorithms I
+Prerequisites: CSC 500
+
+2. MIS 534 - Information Security Management
+Prerequisites: BUS 500 and CSC 344 or MIS 323
+
+3. CSC 544 - Network Programming
+Prerequisites: CSC 500 and CSC 344 or MIS 323
+
+4. CSC 550 - Software Engineering
+Prerequisites: CSC 500 and CSC 450 or MIS 411
+
+5. MIS 555 - Database Management Systems
+Prerequisites: BUS 500 and CSC 455 or MIS 315
+
+6. MIS 565 - Analysis, Modeling and Design
+Prerequisites: BUS 500 and CSC 450 or MIS 411
+
+Summary
+Ensure that you meet all prerequisite requirements before enrolling in these courses.
+Begin with any prerequisites you have not yet completed to ensure eligibility for these core courses.
+
+If you need further assistance with planning your course schedule or understanding prerequisites, please reach out to your academic advisor.

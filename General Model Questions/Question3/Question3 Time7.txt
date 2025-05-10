@@ -1,0 +1,32 @@
+Assistant: Understanding Credit Limitations for Specific Courses
+
+In your program, there is a limitation on the number of credits that can be counted toward your degree from certain types of courses. Specifically, no more than 9 credit hours can be applied from the following courses:
+CSC 591 - Directed Independent Study
+MIS 591 - Directed Independent Study
+CSC 595 - Research Seminar
+MIS 595 - Research Seminar
+CSC 598 - Internship
+MIS 598 - Internship
+
+Why This Limitation Exists
+
+These courses typically involve independent study, research projects, or internships. While these experiences are valuable and provide practical learning opportunities:
+
+1. Breadth of Knowledge: The program aims to ensure that students receive a broad education across various topics within Computer Science and Information Systems.
+2. Structured Learning: Core and elective courses often have structured curricula designed to cover essential theories and applications comprehensively.
+
+How This Affects Your Planning
+
+1. Course Selection: If you plan to take any combination of the above courses, ensure that their total does not exceed 9 credit hours if you wish them all to count toward your degree.
+   
+2. Balancing Coursework: You should also focus on completing required core courses and electives that provide a broader range of knowledge and skills.
+
+3. Strategic Use: Use these limited credit opportunities strategically for areas where hands-on experience or specialized research aligns with your career goals.
+
+Recommendations
+Review which of these experiences will most benefit your academic and career objectives.
+Discuss with your academic advisor how best to integrate these experiences into your overall course plan without exceeding the limit.
+  
+Conclusion
+
+By understanding this limitation, you can effectively plan your coursework to meet graduation requirements while gaining valuable hands-on experience through directed studies or internships. Be sure to balance these with other required courses for a comprehensive educational experience in your field.

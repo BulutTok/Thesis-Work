@@ -1,0 +1,45 @@
+Assistant: Evaluation of Your Current Academic Status
+Credits Required for Degree Completion: 36 credits
+Credits Currently Applied: 33 credits
+Credits Still Needed: 3 credits
+
+Available Courses to Fulfill Credit Requirements
+
+Based on your degree audit, you need to complete additional coursework to meet the credit requirement. You are currently taking some courses and have some in-progress, but they do not count towards the remaining required credits. Here are some available courses you can consider enrolling in:
+
+Courses You Can Consider:
+1. MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. BAN501 - Prescriptive Analytics
+Credit Hours: 3
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277188)
+
+4. BAN513 - Digital Marketing Analytics
+Credit Hours: 3
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277190)
+
+5. CSC532 - Design and Analysis of Algorithms I (if eligible for a repeat)
+Note that this course may not be repeated if already completed.
+
+Please ensure that the selected course fits into your schedule and aligns with your academic interests or career goals.
+
+Actionable Steps
+
+1. Review the course descriptions and prerequisites.
+2. Check your schedule to ensure availability during the term these courses are offered.
+3. Consult with your academic advisor to confirm that these courses will fulfill your credit requirements.
+4. Register for the selected course through your student portal.
+
+Summary
+
+You need an additional 3 credits to complete your degree requirements at UNC Wilmington, and there are several courses available that could help you reach this total while enhancing your knowledge in areas related to Computer Science and Information Systems.
+
+If you have further questions or need assistance with registration, please feel free to reach out!

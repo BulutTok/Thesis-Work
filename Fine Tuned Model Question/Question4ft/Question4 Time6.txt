@@ -1,0 +1,32 @@
+Assistant: Additional Course Requirement Options
+
+Based on the provided information, you need 9 additional credits from courses numbered CSC 501 to 598 or MIS 500 to 598, excluding CSC 594 and MIS 594.
+
+Eligible Courses
+
+Here are some options you can consider:
+
+MIS Courses
+MIS503 - Programming For Analytics
+MIS504 - Databases for Analytics
+MIS505 - Data Visualization
+MIS506 - Text and Unstructured Data Analytics
+MIS513 - Information Analysis and Management
+MIS520 - Information Systems Strategy and Governance
+
+CSC Courses
+CSC500 - Introduction to Computer Science
+CSC502 - Machine Learning Fundamentals
+CSC511 - Fundamentals of Internet of Things
+CSC515 - Artificial Intelligence
+
+Restrictions
+You cannot use CSC 594 or MIS 594 towards these credits.
+  
+Actionable Steps
+1. Review course descriptions in your areas of interest.
+2. Ensure you meet any prerequisites before enrolling.
+3. Consider how each course aligns with your career goals.
+
+Conclusion
+Choose courses that not only fulfill credit requirements but also enhance your skills relevant to your career aspirations. If further assistance is needed, consulting with an academic advisor is recommended.

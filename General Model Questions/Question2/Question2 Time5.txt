@@ -1,0 +1,45 @@
+Assistant: Based on your degree audit, you currently have 33 credits applied towards your Master of Science degree, and you need a total of 36 credits to graduate. This means you need 3 more credits to complete your degree requirements.
+
+Available Courses for Additional Credits
+
+Here are some courses that you can consider enrolling in to earn the remaining 3 credits:
+
+1. CSC500 - Introduction to Computer Science
+Credit Hours: 4
+Prerequisites: None
+Course may not be repeated
+
+2. MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisites: None
+Fully Online - asynchronous Instructional Method
+
+3. MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisites: None
+Fully Online - asynchronous Instructional Method
+
+4. BAN500 - Descriptive Analytics
+Credit Hours: 3
+Prerequisites: None
+Available both in-person and online asynchronously
+
+5. BAN501 - Prescriptive Analytics
+Credit Hours: 3
+Prerequisites: None
+Fully Online
+
+6. BAN502 – Predictive Analytics
+Credit Hours: 3 
+Prerequisite Courses : BAN500 (may be taken concurrently) and MIS503 
+Fully Online – asynchronous Instructional Method 
+
+Recommendations:
+Since you only need one course, I recommend selecting a course that aligns with your interests and career goals.
+Consider whether an online or in-person format suits your schedule better.
+Make sure the chosen course does not conflict with any prerequisites if applicable.
+
+Conclusion:
+Enroll in one of the above courses based on your interest and availability to fulfill the remaining credit requirement for your degree completion.
+
+If you need further guidance or assistance in enrolling, please contact your academic advisor or refer to the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page for additional instructions.

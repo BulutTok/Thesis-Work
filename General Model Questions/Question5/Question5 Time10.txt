@@ -1,0 +1,36 @@
+Assistant: Certainly! Understanding the differences between the research project and thesis options, as well as their respective key milestones, is crucial for planning your academic trajectory. Here’s a breakdown of each:
+
+Research Project Option
+
+Purpose:
+The research project is typically focused on applying theoretical knowledge to a practical problem or case study within the field of Computer Science or Information Systems.
+
+Key Milestones:
+1. Research Proposal: Develop and get approval for your research proposal from your advisor.
+2. Conduct Research: Implement your project according to the approved plan.
+3. Write-Up: Prepare a detailed report documenting your methodology, findings, and analysis.
+4. Defense of Project (DEFN): Present and defend your project before a committee.
+5. Final Project Completion (PROJ): Successfully complete all aspects of the final project as per guidelines.
+
+Thesis Option
+
+Purpose:
+A thesis involves conducting original research that contributes new knowledge or insights to the field. It is more comprehensive than a research project.
+
+Key Milestones:
+1. Comprehensive Oral Exam (COMO): Pass an oral exam covering foundational topics in your field.
+2. Thesis Proposal: Develop and submit a proposal outlining your intended research.
+3. Draft Thesis Submission (DRAT): Submit an initial draft of your thesis for review by deadlines set by the Graduate School.
+4. Format Approval Sheet (FORM): Ensure that formatting complies with institutional standards and submit the approval sheet along with the draft thesis.
+5. Thesis Defense Requirement (DEFN): Defend your thesis before an academic committee, demonstrating mastery over your topic and its broader implications.
+6. Final Thesis Submission (THES): Make necessary revisions post-defense and submit the final version electronically to meet graduation requirements.
+7. Signed Thesis Title Page (TITL) & ETD Submission Form (ETDF): Submit these documents with your final thesis to complete submission requirements.
+
+Summary
+The choice between a research project and a thesis largely depends on whether you are more interested in practical application or contributing original scholarly work to the field:
+Choose the Research Project if you prefer hands-on application of existing theories to solve real-world problems in Computer Science/Information Systems.
+Opt for the Thesis if you are inclined towards conducting detailed original research that can contribute new insights or discoveries in academia.
+
+Both paths require significant effort but differ in scope, depth, and type of contribution expected from students.
+
+For both options, it's important to work closely with faculty advisors who can provide guidance specific to departmental expectations and assist with navigating through these key milestones effectively.

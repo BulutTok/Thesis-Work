@@ -1,0 +1,20 @@
+Assistant: Course Repeatability and Impact on Credits and GPA
+
+1. Course Repeatability
+General Policy: Most courses in the provided data cannot be repeated for credit. This means if you do not achieve the required grade, you may retake the course, but it won't count as additional credits towards your degree requirements.
+Effect on Credit Count: Repeating a course will not add to your total credit count since the course can only be counted once towards your degree requirements.
+
+2. Impact on GPA
+Grade Replacement: When you repeat a course, typically the most recent grade replaces the previous one in calculating your GPA. This can help improve your GPA if you earn a higher grade upon repeating.
+GPA Calculation: Your overall GPA is calculated based on the grades of all completed courses, including repeats where only the latest attempt counts.
+
+3. Specific Courses with Repeat Options
+For certain courses like "Directed Independent Study" (MIS591 or CSC591) and "Research Seminar" (MIS595 or CSC595), which are listed as repeatable, repeating might allow for additional credits up to a specified maximum limit.
+
+Actionable Steps
+1. Check Course Specifics: Review each course's repeatability policy in its detailed description.
+2. Consult Advisor: Discuss with your academic advisor about how repeating a specific course will impact your degree progress and overall GPA.
+3. Plan Accordingly: Consider strategically which courses to retake to optimize both your credit requirements and GPA improvement.
+
+Summary
+Repeating a non-repeatable course allows for grade improvement but does not increase total credits applied towards graduation. It is essential to consult an advisor for personalized guidance based on individual circumstances and program specifics.

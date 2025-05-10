@@ -1,0 +1,63 @@
+Assistant: Evaluation of Your Current Academic Status
+Credits Required: 36
+Credits Applied: 12
+Remaining Credits Needed: 24
+GPA Requirement: Minimum 3.0 (currently at 0.000)
+
+Additional Course Requirement
+
+You need to complete additional courses totaling 9 credits from the following course numbers:
+CSC 501 to CSC 598
+MIS 500 to MIS 598
+
+Restrictions:
+You cannot use credits from CSC 594 or MIS 594 towards these additional course requirements.
+  
+Recommended Courses for Fulfillment
+
+Based on the available courses and your degree plan, here are some options you might consider:
+
+1. CSC502 - Machine Learning Fundamentals
+Prerequisites: None
+Credit Hours: 3
+
+2. CSC517 - Symbolic Artificial Intelligence
+Prerequisites: None
+Credit Hours: 3
+
+3. MIS504 - Databases for Analytics
+Prerequisites: None
+Credit Hours: 3
+   
+4. BAN500 - Descriptive Analytics
+Prerequisites: None
+Credit Hours: 3
+
+5. MIS505 - Data Visualization
+Prerequisite Courses: BAN500 (may be taken concurrently)
+Credit Hours: 3
+  
+6. CSC515 – Artificial Intelligence
+    *Prerequisite:* CSC331 with a minimum grade of B 
+    *Credit Hours:* 3
+    
+7. MIS506 – Text and Unstructured Data Analytics
+    *Prerequisite:* MIS503 
+    *Credit Hours:* 3
+    
+8. MIS532 – Network Services Administration
+     *Prerequisite:* CSC344 or MIS416 
+     *Credit Hours:* 3
+  
+These courses can help broaden your knowledge base while fulfilling your credit requirements.
+
+Actionable Steps:
+1. Review the course descriptions and prerequisites to ensure you meet all necessary requirements.
+2. Consider how each course aligns with your career goals in Computer Science/Information Systems.
+3. Discuss with your academic advisor to finalize selections and ensure they fit into your degree audit.
+
+Conclusion
+
+By strategically selecting from these courses, you can fulfill the remaining credit requirements while enhancing your skills in areas relevant to both academic and career aspirations in computer science and information systems.
+
+If you have further questions or need assistance with registration, please contact the Registrar's Office or consult with your academic advisor for personalized guidance.

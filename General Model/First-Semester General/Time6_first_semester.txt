@@ -1,0 +1,96 @@
+Ask about courses (or type 'exit' to quit):  For MIS503 – Programming for Analytics, what are the start and end dates and who is the instructor for each section?
+
+Assistant: For the course MIS503 - Programming For Analytics, here are the details for each section regarding start and end dates along with the instructor:
+
+Section 801
+Start Date: March 7, 2025
+End Date: May 8, 2025
+Instructor: Jeffrey W. Cummings
+
+Section 802
+Start Date: March 10, 2025
+End Date: April 27, 2025
+Instructor: Jeffrey W. Cummings
+
+Section 803
+Start Date: March 10, 2025
+End Date: April 27, 2025
+Instructor: Jeffrey W. Cummings
+
+All sections are conducted fully online asynchronously.
+
+
+Ask about courses (or type 'exit' to quit):  What prerequisites do I need for Network Programming (CSC544), Database Management Systems (MIS555), and Analysis, Modeling and Design (MIS565)?
+
+Assistant: Here are the prerequisites for each of the courses you mentioned:
+
+CSC544 - Network Programming
+Prerequisites: 
+CSC 500 and 
+CSC 344 or MIS 323
+
+MIS555 - Database Management Systems
+Prerequisites:
+BUS 500 and 
+CSC 455 or MIS 315
+
+MIS565 - Analysis, Modeling and Design
+Prerequisites:
+BUS 500 and 
+CSC 450 or MIS 411
+
+Make sure you have completed these prerequisite courses before enrolling in the respective classes. If you have any doubts about meeting these requirements, it's advisable to consult with your academic advisor.
+
+
+Ask about courses (or type 'exit' to quit):  For online courses like MIS503 and MIS504, when are the deadlines for assignments or projects?
+
+Assistant: The course schedules for MIS503 - Programming For Analytics and MIS504 - Databases for Analytics indicate that both courses are conducted fully online asynchronously. This means that there are no specific meeting times, allowing you to complete the coursework on your own schedule within the given timeframe.
+
+However, specific deadlines for assignments or projects in these online courses are typically outlined by the instructor at the beginning of the course. These details are usually provided in the course syllabus or through announcements on your course's online platform (such as Blackboard or Canvas).
+
+To ensure you stay on track:
+Check the Course Syllabus: The syllabus will have detailed information about due dates for assignments and projects.
+Monitor Announcements: Regularly check any announcements from your instructors for updates or changes to deadlines.
+Contact Instructors: If you have any questions or need clarification, reaching out directly to your instructors via email is a good practice.
+
+For both courses, Jeffrey W. Cummings instructs MIS503, and Kevin Craig instructs MIS504. They would be your points of contact for any course-specific queries regarding deadlines.
+
+
+Ask about courses (or type 'exit' to quit):  Are the course catalogue links  for MIS503 and MIS504 current, and what extra details do they offer about the courses?
+
+Assistant: Here are the current course catalogue links for MIS503 and MIS504, along with a summary of the extra details they offer:
+
+MIS503 - Programming For Analytics
+Course Catalogue Link: [MIS503 - Programming For Analytics](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+Additional Details Offered:
+This course introduces essential programming concepts and techniques for data analytics using R and Python.
+It covers application development, data manipulation, statistical analysis, report generation, and data visualization.
+Students will learn software techniques such as writing functions, debugging, organizing code, and adding comments.
+
+MIS504 - Databases for Analytics
+Course Catalogue Link: [MIS504 - Databases for Analytics](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+Additional Details Offered:
+The course focuses on relational databases and data management concepts.
+Key areas include database modeling, logical design, complex queries development, reporting generation, and data anomaly identification (data cleansing).
+Students will gain proficiency in interpreting database structures to extract relevant information.
+
+Both links provide a comprehensive overview of what students can expect from each course in terms of content coverage and learning outcomes.
+
+
+Ask about courses (or type 'exit' to quit):  Where can I find more information on registration dates, term dates, and any updates to course requirements through the official course catalogue or university links?
+
+Assistant: To find more information on registration dates, term dates, and updates to course requirements, you can refer to the following official resources provided by the University of North Carolina Wilmington:
+
+1. University Course Catalogue:
+The course catalogue is a comprehensive resource for all course offerings, prerequisites, and academic policies. You can access it through the following link: [UNCW Course Catalogue](https://catalogue.uncw.edu).
+
+2. Academic Calendar:
+The academic calendar provides key dates such as the start and end of terms, registration periods, holidays, and exam schedules. You can view the current academic calendar on the university's website.
+
+3. Registrar’s Office:
+For specific queries about registration dates and procedures, you can visit the Registrar's Office webpage or contact them directly for assistance.
+
+4. Graduate School Forms and Information:
+If you are a graduate student seeking forms or additional details about program requirements and deadlines, visit the [Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms) page.
+
+These resources will provide you with up-to-date information regarding your academic planning needs at UNCW. Always ensure to check these links regularly for any new announcements or changes in policies.

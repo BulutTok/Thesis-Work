@@ -1,0 +1,41 @@
+Assistant: Maintaining Full-Time Status
+
+To maintain your visa status as an international student, you need to be enrolled in at least 9 credit hours per semester, with at least 6 of those being in-person classes. Here's a structured plan to help you manage both academic and immigration requirements:
+
+Current Courses
+CSC 532 - Design & Analysis Of Algorithm I (3 credits, In Progress)
+MIS 534 - Information Security Management (3 credits, In Progress)
+CSC 550 - Software Engineering (3 credits, In Progress)
+MIS 503 - Programming for Analytics (3 credits, In Progress)
+
+You are currently taking 12 credit hours, which satisfies the full-time requirement. Ensure that at least two of these courses have in-person components.
+
+Academic Requirements
+
+Core Courses Needed:
+1. Network Programming: CSC 544
+2. Database Management Systems: MIS 555
+3. Analysis, Modeling and Design: MIS 565
+
+These core courses are essential for completing your degree requirements.
+
+Research or Thesis Requirement:
+You will need to choose between completing a research project or thesis.
+
+Steps to Follow
+
+1. Check Course Schedule: Make sure you register for the required in-person courses next semester.
+2. Plan Ahead: Ensure that your future course selections align with your degree requirements while maintaining full-time status.
+3. Consult Your Advisor: Regularly meet with your academic advisor to ensure you're on track for both graduation and maintaining visa compliance.
+
+Additional Documentation
+Apply for graduation via SeaNet by the deadline.
+If needed, complete any continuous enrollment forms [here](https://uncw.edu/myuncw/academics/graduate-school/forms).
+
+Useful Resource
+
+For more detailed information about maintaining full-time status as an international student, visit [this link](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+---
+
+If you have any further concerns or need assistance navigating these requirements, please don't hesitate to reach out! We're here to support you every step of the way.

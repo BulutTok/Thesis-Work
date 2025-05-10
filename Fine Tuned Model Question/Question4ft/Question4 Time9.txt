@@ -1,0 +1,24 @@
+Assistant: Additional Course Requirement Options
+
+You need 9 additional credits from the following courses, excluding CSC 594 and MIS 594:
+CSC Courses: CSC 501 to CSC 598
+MIS Courses: MIS 500 to MIS 598
+
+Restrictions
+You cannot apply more than 9 credit hours from the following courses towards your degree:
+CSC 591
+MIS 591
+CSC 595
+MIS 595
+CSC 598
+MIS 598
+
+Recommendations
+
+1. Review Prerequisites: Ensure you meet any prerequisites for the courses you choose.
+2. Consider Career Goals: Select courses that align with your career objectives in computer science or information systems.
+3. Plan Ahead: Check course availability for upcoming semesters.
+
+Conclusion
+
+You have flexibility in choosing courses within the specified range, but remember to adhere to the restrictions on specific course credits. Consider consulting with your academic advisor to tailor your selections according to your career goals and interests.

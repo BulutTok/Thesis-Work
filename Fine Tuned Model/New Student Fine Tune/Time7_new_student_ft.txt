@@ -1,0 +1,83 @@
+Ask about courses (or type 'exit' to quit):  What are the core courses required for the Computer Science & Information Systems major, and do they have any specific prerequisites?
+
+Assistant: Core Courses for Computer Science & Information Systems Major
+
+Here are the required core courses and their prerequisites:
+
+1. CSC 532 - Design and Analysis of Algorithms I
+Prerequisite: CSC 500
+
+2. MIS 534 - Information Security Management
+Prerequisites: BUS 500 and CSC 344 or MIS 323
+
+3. CSC 544 - Network Programming
+Prerequisites: CSC 500 and CSC 344 or MIS 323
+
+4. CSC 550 - Software Engineering
+Prerequisites: CSC 500 and CSC 450 or MIS 411
+
+5. MIS 555 - Database Management Systems
+Prerequisites: BUS 500 and CSC 455 or MIS 315
+
+6. MIS 565 - Analysis, Modeling and Design
+Prerequisites: BUS 500 and CSC 450 or MIS 411
+
+Recommendations
+Ensure you meet the prerequisites before enrolling in each course.
+Plan your schedule to accommodate these courses as they are essential for degree completion.
+
+If you have any more questions or need further assistance, feel free to ask!
+
+
+Ask about courses (or type 'exit' to quit):  Are there any recommended prior courses or knowledge needed before enrolling in CSC 532 (Design and Analysis of Algorithms)?
+
+Assistant: Recommended Prior Courses for CSC 532
+
+CSC 532 - Design and Analysis of Algorithms I
+Prerequisite: CSC 500
+
+Recommendations
+CSC 500 provides an accelerated introduction to fundamental concepts in computer science, including programming, data structures, and algorithm design. It's essential to have this foundational knowledge before taking CSC 532.
+
+If you need further guidance on course planning, feel free to ask!
+
+
+Ask about courses (or type 'exit' to quit):  What prerequisites are required for MIS 534 (Information Security Management), and are there any exceptions?
+
+Assistant: Prerequisites for MIS 534 - Information Security Management
+Prerequisites: BUS 500 and either CSC 344 or MIS 323
+
+Exceptions
+There are no specified exceptions for these prerequisites. Ensure you have completed the required courses before enrolling in MIS 534.
+
+If you need more information or assistance, feel free to reach out!
+
+
+Ask about courses (or type 'exit' to quit):  Can you explain if the course CSC 544 (Network Programming) requires any foundational courses in programming or networking?
+
+Assistant: Prerequisites for CSC 544 - Network Programming
+Prerequisites: CSC 500 and either CSC 344 or MIS 323
+
+Explanation
+CSC 500 provides a foundation in computer science concepts, including programming.
+CSC 344 or MIS 323 focus on topics that may include networking fundamentals.
+
+These prerequisites ensure you have the necessary background in programming and networking concepts to succeed in CSC 544. If you need further clarification, feel free to ask!
+
+
+Ask about courses (or type 'exit' to quit):  Where can I find detailed information about the prerequisites for CSC 550 (Software Engineering) and MIS 555 (Database Management Systems)?
+
+Assistant: Prerequisites Information
+
+CSC 550 - Software Engineering
+Prerequisites: CSC 500 and CSC 450 or MIS 411
+
+MIS 555 - Database Management Systems
+Prerequisites: BUS 500 and CSC 455 or MIS 315
+
+Detailed Information
+For more detailed information, you can visit the course catalog entries for each course:
+[CSC 550 - Software Engineering](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=275991)
+[MIS 555 - Database Management Systems](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=276468)
+
+These links provide comprehensive details about the courses, including descriptions and any additional requirements. If you have further questions, feel free to ask!

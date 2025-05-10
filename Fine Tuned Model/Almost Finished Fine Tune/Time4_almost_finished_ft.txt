@@ -1,0 +1,223 @@
+Ask about courses (or type 'exit' to quit):  I still need an additional 3 credits to complete my degree—are there elective courses or independent study options available that can fulfill this requirement while also enhancing my professional skill set?
+
+Assistant: Evaluation of Current Academic Status and Interests
+Credits Needed: 3 additional credits to complete your degree.
+Current GPA: 3.778
+In-Progress Courses: CSC 502, CSC 592, CSC 594, MIS 534
+
+Relevant Goals
+
+1. Complete the degree requirements by earning the remaining credits.
+2. Enhance professional skills in computer science and information systems.
+
+Course Selection Recommendations
+
+Elective Courses
+Consider taking one of the following courses to fulfill your credit requirement while also gaining valuable skills:
+
+1. CSC591 - Directed Independent Study
+Description: Investigation under faculty supervision beyond existing courses.
+Credits: 1 to 6 (You can choose based on your needs)
+Benefits: Tailor a study that aligns with your specific interests or career goals.
+
+2. MIS592 - Topics in Computing
+Description: Covers topics of current interest not included in existing courses.
+Credits: Up to 12 (Choose as per requirement)
+Benefits: Stay updated with the latest trends and technologies in computing.
+
+Skills Enhancement
+Focus on areas like machine learning, cybersecurity, data analytics, or software development if they align with your career goals.
+
+Actionable Steps
+
+1. Review detailed course descriptions and prerequisites for each option.
+2. Consult with your academic advisor, Devon Simmonds, to discuss these options and ensure they fit within your program structure.
+3. If interested in independent study (CSC591), reach out to potential faculty supervisors early to define a project scope.
+4. Register for the selected course(s) once approved by your advisor.
+
+Summary
+
+To fulfill your remaining credit requirement while enhancing professional skills, consider enrolling in either an elective like MIS592 or pursue a directed independent study such as CSC591. These options provide flexibility and can be tailored to align closely with your career aspirations.
+
+
+Ask about courses (or type 'exit' to quit):  Could you review my degree audit with me to confirm that all requirements are accurately reflected, and advise if there are any hidden or additional departmental criteria I should address before applying for graduation? 
+
+Assistant: Degree Audit Review
+
+Current Progress
+Credits Required: 36
+Credits Applied: 33 (3 credits still needed)
+GPA Requirement: Met with a GPA of 3.778
+
+Core Courses Completed
+1. CSC 532 - Design and Analysis of Algorithms I
+2. CSC 544 - Network Programming
+3. CSC 550 - Software Engineering
+4. MIS 555 - Database Management Systems
+5. MIS 565 - Analysis, Modeling and Design
+
+In-Progress Courses
+1. CSC 502 - Machine Learning Fundamentals
+2. CSC 592 - Computer Vision
+3. CSC 594 - Research Project (6 credits)
+4. MIS 534 - Information Security Management
+
+Additional Requirements
+Complete an additional elective course for the remaining 3 credits.
+Successfully defend your research project.
+Apply to graduate in SeaNet by the deadline.
+
+Potential Hidden or Additional Criteria
+
+1. Project/Thesis Requirements:
+Ensure you have plans to defend your research project.
+If applicable, prepare for any comprehensive exams or thesis submissions.
+
+2. Graduation Application:
+Must apply to graduate via SeaNet by the specified deadline.
+
+3. Enrollment:
+You must be enrolled in the semester you plan to graduate.
+
+4. Limit on Certain Credits:
+No more than 9 credit hours from courses like CSC/MIS591, CSC/MIS595, etc., can be applied toward the degree.
+
+Actionable Steps
+
+1. Enroll in an Additional Course: Choose an elective that fulfills both credit requirements and professional interests.
+2. Complete Research Project: Focus on completing and defending your research project this semester.
+3. Apply for Graduation: Ensure timely application via SeaNet.
+4. Consult Advisor: Regularly check with your advisor, Devon Simmonds, to verify all criteria are being met.
+
+Conclusion
+
+You are well-positioned to complete your degree requirements with careful attention to completing one more course and meeting all research project-related criteria before applying for graduation.
+
+
+Ask about courses (or type 'exit' to quit):  For my CSC 594 Research Project, what are the key milestones and deliverables (such as the proposal, draft submission, and final defense), and how should I best coordinate with my advisor to ensure I meet these deadlines?
+
+Assistant: Key Milestones and Deliverables for CSC 594 Research Project
+
+1. Proposal Development
+Objective: Outline your research question, methodology, and expected outcomes.
+Action: Submit a detailed proposal to your advisor for approval.
+
+2. Research Execution
+Objective: Conduct the research as per the approved proposal.
+Action: Regularly update your advisor on progress and any challenges encountered.
+
+3. Draft Submission
+Objective: Compile your findings into a comprehensive draft report.
+Action: Submit the draft to your advisor for feedback by the specified deadline.
+
+4. Final Defense Preparation
+Objective: Prepare an oral presentation summarizing your research findings.
+Action: Schedule a defense date with your committee and practice thoroughly.
+
+5. Final Report Submission
+Objective: Incorporate feedback from the defense into the final report.
+Action: Submit the finalized report to meet departmental requirements.
+
+Coordination with Your Advisor
+
+1. Initial Meeting:
+Discuss expectations, timelines, and resources needed for your project.
+
+2. Regular Check-ins:
+Set up regular meetings (bi-weekly or monthly) to discuss progress and receive guidance.
+
+3. Feedback Integration:
+Act promptly on feedback received from drafts or discussions with your advisor.
+
+4. Timeline Management:
+Use project management tools or calendars to track deadlines and deliverables.
+
+5. Final Review:
+Ensure all revisions are completed well before submission deadlines.
+
+Conclusion
+
+By following these steps and maintaining open communication with your advisor, you can effectively manage milestones for CSC 594 and ensure timely completion of all deliverables.
+
+
+Ask about courses (or type 'exit' to quit):  Are there any final-semester support resources—like workshops, one-on-one advising sessions, or seminars—available to help me successfully navigate my project defense and complete the administrative steps required for graduation? 
+
+Assistant: Final-Semester Support Resources
+
+1. Workshops and Seminars
+Research Skills Workshops: Offered by the library or academic departments to help with research methodologies and tools.
+Defense Preparation Seminars: Sessions focused on presentation skills and defense strategies.
+
+2. One-on-One Advising
+Academic Advisor Meetings: Regular sessions with your advisor, Devon Simmonds, for personalized guidance.
+Graduate School Advisors: Assistance with administrative steps and understanding graduation requirements.
+
+3. Writing and Presentation Support
+Writing Center: Offers support in drafting and revising your project report.
+Presentation Practice Rooms: Facilities where you can rehearse your defense presentation.
+
+4. Administrative Guidance
+Registrar’s Office: For assistance with the graduation application process.
+Career Services: Provides career counseling and resume workshops to prepare for post-graduation opportunities.
+
+Actionable Steps
+
+1. Schedule Meetings:
+Set up regular appointments with your academic advisor for tailored advice.
+   
+2. Attend Workshops:
+Participate in relevant workshops to enhance research, writing, and presentation skills.
+
+3. Utilize Campus Resources:
+Visit the Writing Center for feedback on your report drafts.
+Use practice rooms to refine your defense presentation.
+
+4. Check Deadlines:
+Keep track of all administrative deadlines related to graduation applications through SeaNet.
+
+Conclusion
+
+Leveraging these resources will provide comprehensive support as you navigate your final semester, ensuring a successful project defense and completion of all necessary graduation steps.
+
+
+Ask about courses (or type 'exit' to quit):  If unforeseen delays occur in meeting the research project milestones or thesis requirements, what is the process for requesting deadline extensions, and how might such changes affect my graduation timeline?
+
+Assistant: Process for Requesting Deadline Extensions
+
+1. Identify the Issue:
+Clearly understand the reason for the delay and how it affects your timeline.
+
+2. Communicate Early:
+Inform your advisor, Devon Simmonds, as soon as possible about potential delays.
+
+3. Submit a Formal Request:
+Prepare a written request detailing the reasons for the extension and propose a new timeline.
+Include any supporting documentation if applicable.
+
+4. Advisor Approval:
+Your advisor will review and approve or suggest modifications to your proposed plan.
+
+5. Graduate School Notification:
+If required, submit the approved extension request to the Graduate School for official processing.
+
+Potential Impacts on Graduation Timeline
+Graduation Delay: 
+Delays in meeting milestones may postpone your graduation to the next available term.
+Continuous Enrollment Requirement: 
+You may need to register for continuous enrollment (MIS600) if all course work is completed but project requirements are pending.
+More information can be found [here](https://uncw.edu/myuncw/academics/graduate-school/forms).
+
+Actionable Steps
+
+1. Assess Impact: 
+Determine how an extension might affect your overall graduation timeline.
+   
+2. Plan Accordingly: 
+Adjust other commitments and responsibilities to accommodate changes in your academic schedule.
+
+3. Stay Informed:
+Regularly check with the Registrar’s Office and Graduate School for any updates on policies or deadlines related to extensions.
+
+Conclusion
+
+Proactively managing unforeseen delays through clear communication and formal requests can help mitigate impacts on your graduation timeline while ensuring you meet all project requirements effectively.

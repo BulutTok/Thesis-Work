@@ -1,0 +1,32 @@
+Assistant: Certainly! Here's a breakdown of the differences and key milestones for the research project and thesis options:
+
+Research Project
+
+Overview:
+A focused study on a practical application of computer science or information systems.
+Involves working on a specific project under faculty supervision.
+
+Key Milestones:
+1. Project Proposal: Develop a proposal outlining the project's objectives and methods.
+2. Research & Development: Conduct the research, collect data, and develop solutions.
+3. Final Project Report: Write a comprehensive report detailing your findings and solutions.
+4. Defense of Project (DEFN): Successfully defend your project in front of a faculty committee.
+
+Thesis
+
+Overview:
+An in-depth research study on a topic selected by you and approved by your thesis committee.
+Requires more rigorous academic research compared to the project.
+
+Key Milestones:
+1. Draft Thesis (DRAT): Submit an initial draft to be reviewed by the Graduate School.
+2. Format Approval Sheet (FORM): Obtain approval for the thesis format from the Graduate School.
+3. Thesis Defense Requirement (DEFN): Defend your thesis before a committee to demonstrate your understanding and contributions.
+4. Final Thesis Submission (THES): Submit the final version electronically by the deadline.
+5. Signed Thesis Title Page (TITL): Submit a signed title page with your final thesis.
+6. ETD Submission Form (ETDF): Complete an Electronic Thesis Form submission.
+
+Summary
+Both options require careful planning, execution, and defense of your work, but they differ in scope and depth. The thesis is typically more comprehensive and involves more detailed academic research, whereas the research project focuses on practical application within a defined scope.
+
+If you need further assistance or guidance with either option, it's advisable to consult with your academic advisor or faculty supervisor.

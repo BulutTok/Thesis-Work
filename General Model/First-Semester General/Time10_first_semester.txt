@@ -1,0 +1,139 @@
+Ask about courses (or type 'exit' to quit):  Could you explain how the “In-progress Credits” and “Classes applied” numbers are calculated on my audit, and when will updates be reflected in the system?
+
+Assistant: Understanding "In-progress Credits" and "Classes Applied"
+
+1. In-progress Credits:
+This refers to the total number of credit hours you are currently enrolled in for the current semester. These credits are part of your ongoing coursework but have not yet been completed or graded.
+According to your degree audit, you have 12 in-progress credits. These are from the following courses:
+CSC 532 - Design & Analysis Of Algorithms I (3 credits)
+CSC 550 - Software Engineering (3 credits)
+MIS 503 - Programming for Analytics (3 credits)
+MIS 534 - Information Security Management (3 credits)
+
+2. Classes Applied:
+This indicates the number of classes that you are currently taking, which count towards your degree requirements once successfully completed.
+You have 4 classes applied, corresponding to the four courses listed above.
+
+Updates and Reflections in the System
+Update Frequency: The degree audit system typically updates at key points during the academic term:
+At registration periods, when you add or drop courses.
+After final grades are posted at the end of each term.
+Real-Time Changes: Some systems may allow real-time updates as changes occur, such as when an advisor makes a manual adjustment or when a course is added/dropped.
+Finalization: The most significant update occurs after final grades are submitted at the end of a semester. At this point, in-progress courses will either move to 'completed' if passed or may require retaking if not passed.
+
+Conclusion
+
+Your current enrollment contributes to both your in-progress credits and classes applied numbers on your degree audit. These will reflect changes once grades are finalized at the end of the term. Regularly check with your academic advisor or access online portals like SeaNet for up-to-date information regarding any adjustments or official notifications about your academic progress.
+
+
+Ask about courses (or type 'exit' to quit):  If I need to retake a core course to boost my GPA, how does the policy limiting repeated courses (maximum 9 credit hours) affect my options?
+
+Assistant: Understanding the Policy on Repeated Courses
+
+1. Policy Limitation:
+Your degree program specifies that no more than 9 credit hours from the following courses can be applied toward your degree: CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598.
+This means you have a limit on how many times you can retake or enroll in these specific courses for credit towards your degree.
+
+2. Impact on Core Courses:
+If you need to retake a core course (such as CSC 532, MIS 534, etc.) to improve your GPA, this policy does not directly restrict you from retaking those core courses unless they fall under the specified course codes mentioned above.
+However, if any of these core courses are cross-listed with or equivalent to the restricted courses (e.g., CSC 594 or MIS 594), they may count towards the repeatable credit limit.
+
+3. GPA Calculation:
+Retaking a course typically allows the new grade to replace the old grade in GPA calculations at most institutions. Check with your advisor to confirm how retakes affect your GPA specifically at UNCW.
+
+Actionable Steps
+Consult with Your Advisor: 
+Verify which specific courses are subject to the repeatability restriction and whether any of your required core courses fall into this category.
+Plan Strategically: 
+Prioritize retaking core courses that have significantly impacted your GPA and that do not count against the repeatable credit limit.
+Track Progress: 
+Keep an eye on your degree audit and consult regularly with your advisor to ensure that you're meeting all requirements while managing your GPA effectively.
+
+Conclusion
+
+The policy limiting repeated credits mainly affects specific elective or research-based courses rather than core curriculum ones unless explicitly stated otherwise. By strategically choosing which classes to retake based on their impact on both your GPA and degree progress, you can effectively manage this aspect of your academic journey without breaching university policies.
+
+
+Ask about courses (or type 'exit' to quit):  How are elective courses or additional credits beyond the core requirements considered in my degree audit, and is there a cap on non-major credits?
+
+Assistant: Elective Courses and Additional Credits in Your Degree Audit
+
+1. Elective Courses:
+Electives provide the flexibility to explore areas of interest beyond your core curriculum. They can complement your major by offering additional skills or knowledge.
+In your degree audit, elective courses are often categorized separately from core requirements but still count towards the total credit requirement for graduation.
+
+2. Additional Credits:
+These are credits earned from courses that do not necessarily fit into your major's core or elective categories but still contribute to the overall credit requirement.
+It's important to ensure that these credits align with any specific guidelines provided by your program, such as upper-level course requirements.
+
+3. Cap on Non-Major Credits:
+While there is generally no strict cap on non-major credits, you must meet all major-specific credit requirements first.
+Some programs may have restrictions on how many credits outside of the department can count towards the degree. Check with your advisor or refer to the program catalog for specific limits.
+
+Actionable Steps
+Review Program Requirements: 
+Consult the program catalog or speak with your advisor to understand any specific limitations on non-major credits that apply to your degree.
+Plan Your Course Load: 
+Strategically select electives that enhance your educational experience and support career goals while ensuring they fit within any departmental constraints.
+Monitor Degree Progress: 
+Regularly check your degree audit to ensure you are meeting both core and elective requirements efficiently without exceeding permissible limits on non-major coursework.
+
+Conclusion
+
+Elective courses and additional credits offer valuable opportunities for academic exploration, but it's crucial to balance them with core requirements. By understanding any caps or restrictions and planning accordingly, you can maximize their benefit toward completing your degree successfully. Always keep communication open with academic advisors for personalized guidance based on current policies and individual circumstances.
+
+
+Ask about courses (or type 'exit' to quit):  What are the prerequisites for CSC 537 – Parallel Computing?
+
+Assistant: Prerequisites for CSC 537 – Parallel Computing
+Course Requirement:
+The prerequisite for enrolling in CSC 537 – Parallel Computing is a minimum grade of C in CSC 340.
+
+Course Details
+CSC 340: This course typically covers foundational topics in computer science that are essential for understanding more advanced subjects like parallel computing. Ensuring you have a solid grasp of these concepts will prepare you for the challenges of CSC 537.
+
+Actionable Steps
+Check Your Transcript: 
+Verify that you have completed CSC 340 with at least the minimum required grade. If not, consider enrolling in this course to meet the prerequisite requirement.
+Plan Accordingly: 
+If you're interested in taking CSC 537, ensure your academic plan includes completing any necessary prerequisites on time to avoid delays in your course sequence.
+Consult Your Advisor: 
+For personalized guidance or if you believe you have equivalent experience or coursework, discuss options with your academic advisor who may provide advice on fulfilling prerequisites through other means.
+
+Conclusion
+
+Completing the prerequisite ensures that you are adequately prepared for the material covered in CSC 537 – Parallel Computing. Proper planning and consultation with your advisor can help streamline your path to meeting these requirements and progressing smoothly through your degree program.
+
+
+Ask about courses (or type 'exit' to quit):  Are there flexible learning options, such as online courses or independent study, to help me complete my credit requirements?
+
+Assistant: Flexible Learning Options
+
+1. Online Courses:
+Many courses are offered online, allowing you to complete coursework asynchronously at your convenience. This can be particularly beneficial if you have other commitments or prefer a more flexible schedule.
+Examples from your course data include:
+MIS 503 - Programming for Analytics: Offered fully online asynchronously.
+BAN 500 - Descriptive Analytics: Available in an online format as well.
+
+2. Independent Study:
+Courses like CSC 591 and MIS 591 provide opportunities for directed independent study, where you can explore topics of interest under faculty supervision beyond the standard curriculum.
+These courses require permission from the instructor and allow for a personalized learning experience tailored to your interests.
+
+3. Internships:
+Both CSC 598 and MIS 598 offer internship opportunities that combine academic training with practical experience in a professional setting.
+Internships may provide credits while gaining valuable industry experience, often with flexible scheduling.
+
+4. Research Projects and Seminars:
+Research-based courses like CSC 594 or MIS 594 involve focused study on a research topic, offering flexibility in how you manage your time and research efforts.
+
+Actionable Steps
+Review Course Offerings: 
+Check the current semester's course catalog or consult with your advisor to identify available online courses that fit into your degree plan.
+Plan Your Schedule: 
+Consider mixing traditional, online, and independent study options to create a balanced schedule that meets credit requirements while accommodating personal preferences and commitments.
+Consult Your Advisor: 
+Discuss potential independent studies or internships with your advisor to ensure they align with degree requirements and career goals.
+
+Conclusion
+
+Flexible learning options such as online courses, independent studies, internships, and research projects offer versatile ways to meet credit requirements while accommodating diverse learning styles and schedules. Engaging with these options can enhance both academic achievement and professional development. Always coordinate with academic advisors for tailored advice based on individual circumstances.

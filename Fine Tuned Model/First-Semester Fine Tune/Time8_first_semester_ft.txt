@@ -1,0 +1,169 @@
+Ask about courses (or type 'exit' to quit):  My audit shows I've earned 12 credits and still need 24 more to complete the degree. Can you help break down exactly which courses or credit hours I still need to fulfill my requirements?
+
+Assistant: Certainly! Let's break down your remaining requirements based on your degree audit.
+
+Current Progress
+Total Credits Earned: 12
+Credits Required for Degree: 36
+Remaining Credits Needed: 24
+
+Core Course Requirements
+You have completed:
+CSC 532 - Design and Analysis of Algorithms I (3 credits)
+MIS 534 - Information Security Management (3 credits)
+CSC 550 - Software Engineering (3 credits)
+MIS 503 - Programming for Analytics (3 credits)
+
+Still Needed:
+1. Network Programming
+You need to take: CSC 544
+
+2. Database Management Systems
+You need to take: MIS 555
+
+3. Analysis, Modeling, and Design
+You need to take: MIS 565
+
+Additional Courses
+You need:
+9 Credits from courses numbered CSC 501–598 or MIS 500–598, excluding CSC/MIS 594.
+
+Research or Thesis Credits
+Choose one path:
+
+1. Research Project Path
+Complete: 
+CSC/MIS 594 for a total of 6 credits.
+Requirements:
+Successfully defend the research project.
+
+2. Thesis Path
+Complete: 
+CSC/MIS 599 for a total of 6 credits.
+Requirements:
+Pass comprehensive oral exam.
+Submit and defend thesis with all necessary documentation.
+
+Graduation Requirements
+Apply to graduate via SeaNet by the deadline.
+Be enrolled in the semester you plan to graduate.
+
+Summary & Recommendations
+To complete your degree, you should focus on enrolling in the required core courses first, followed by additional electives within your program range. Decide whether you will pursue a research project or thesis, as this will influence your course planning.
+
+If you have any questions about specific courses or prerequisites, feel free to ask!
+
+
+Ask about courses (or type 'exit' to quit):  Courses like Network Programming (CSC544) and Database Management Systems (MIS555) are marked as “still needed.” Are there any prerequisites or specific registration tips I should be aware of for these courses?
+
+Assistant: Let's look at the prerequisites and details for each course:
+
+CSC 544 - Network Programming
+Prerequisites: 
+CSC 500 (Introduction to Computer Science)
+CSC 344 or MIS 323
+
+MIS 555 - Database Management Systems
+Prerequisites:
+BUS 500
+CSC 455 or MIS 315
+
+Recommendations:
+1. Check Prerequisites: Ensure you've completed the required prerequisite courses before enrolling.
+2. Course Registration: Make sure to register early, as these courses may fill up quickly.
+3. Advising Appointment: Consider meeting with your academic advisor to confirm you meet all registration requirements.
+
+If you need any further assistance or clarification, feel free to ask!
+
+
+Ask about courses (or type 'exit' to quit):  I need to choose between a research project (CSC594/MIS594) and a thesis (CSC599/MIS599) for my research credits. What are the main differences in requirements and expectations for each option?
+
+Assistant: Here's a breakdown of the key differences between the research project and thesis options:
+
+Research Project (CSC594/MIS594)
+Credits Required: 6 credits
+Focus: Practical application of computer science or information systems under faculty guidance.
+Requirements:
+Select a topic with faculty approval.
+Complete a written analysis and oral presentation.
+Successfully defend the research project.
+
+Thesis (CSC599/MIS599)
+Credits Required: 6 credits
+Focus: Intensive research study on a selected topic, approved by a thesis committee.
+Requirements:
+Pass a comprehensive oral exam.
+Submit and defend the thesis.
+Submit draft and final versions electronically to the Graduate School, including necessary documentation such as Format Approval Sheet, Signed Thesis Title Page, and ETD Submission Form.
+
+Considerations:
+Research Project is generally more applied and may be suitable if you prefer practical work or are considering entering the industry directly after graduation.
+Thesis is more research-intensive, making it ideal if you're considering further academic pursuits or a career in research.
+
+Recommendations:
+1. Evaluate Interests: Consider your career goals and interests in practical vs. theoretical work.
+2. Consult Faculty: Discuss with potential advisors to understand their expectations for each option.
+
+Feel free to reach out if you need more personalized advice!
+
+
+Ask about courses (or type 'exit' to quit):  The audit indicates that no more than 9 credit hours from courses like CSC591 and MIS591 can be applied toward the degree. How should I plan my course selection given this limitation?
+
+Assistant: To effectively plan your course selection considering the 9-credit limit for specific courses, follow these steps:
+
+Current Limitation
+Courses Affected: CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, MIS 598
+Credit Limit: Maximum of 9 credit hours can be applied from these courses toward your degree.
+
+Planning Steps
+
+1. Prioritize Core and Required Courses:
+Ensure you complete all core requirements like CSC 544 (Network Programming) and MIS 555 (Database Management Systems).
+
+2. Select Electives Wisely:
+Choose electives that fulfill degree requirements without exceeding the credit limit on the specified courses.
+Consider other available electives in CSC/MIS that align with your interests and career goals.
+
+3. Balance Research or Thesis Credits:
+Decide between a research project or thesis early to allocate credits accordingly.
+Remember that these options are separate from the affected courses.
+
+4. Advising Session:
+Schedule a meeting with your academic advisor to review your plan and ensure you're meeting all requirements efficiently.
+
+5. Monitor Credit Hours:
+Keep track of how many credits you've taken within the restricted courses to avoid exceeding limits.
+
+By carefully selecting your courses while keeping this limitation in mind, you'll stay on track for graduation without any issues related to excess credits from restricted categories. If you need more assistance with specific course options, let me know!
+
+
+Ask about courses (or type 'exit' to quit):  If I've taken a course that might meet one of my major requirements but it isn't listed on my audit, what is the process for requesting a substitution or waiver for that course?
+
+Assistant: To request a substitution or waiver for a course that might meet your major requirements, follow these steps:
+
+Steps for Course Substitution/Waiver
+
+1. Review Course Details:
+Ensure the course content aligns with the requirement you're trying to fulfill.
+
+2. Consult Your Academic Advisor:
+Discuss the potential substitution with your advisor to evaluate its appropriateness and gather their support.
+
+3. Prepare Documentation:
+Collect syllabi, course descriptions, and any other relevant materials that demonstrate how the course meets the required criteria.
+
+4. Submit a Formal Request:
+Complete any necessary forms provided by your department or college.
+Include all supporting documentation and a clear explanation of why the substitution should be considered.
+
+5. Departmental Approval:
+The request typically needs approval from your department chair or program director.
+   
+6. Follow Up:
+Stay in contact with your advisor or department to track the progress of your request.
+
+Recommendations
+Act early to ensure you have time for processing before critical deadlines.
+Maintain copies of all communications and submissions related to the request.
+
+If you need further assistance on how to proceed, feel free to ask!

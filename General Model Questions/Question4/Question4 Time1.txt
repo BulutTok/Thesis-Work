@@ -1,0 +1,49 @@
+Assistant: Based on your degree audit, you need to fulfill additional course requirements by completing 9 credits from the courses listed under CSC 501:598 or MIS 500:598. However, there are restrictions in place that exclude certain courses:
+
+Restrictions:
+Exclusions: You cannot use CSC 594 or MIS 594 to fulfill these additional course requirements.
+
+Options for Additional Course Requirement:
+Given the exclusions and the courses available within the specified range (CSC 501:598 or MIS 500:598), here are some options you can consider:
+
+1. MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisite Courses: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. MIS505 - Data Visualization
+Credit Hours: 3
+Prerequisite Courses: BAN 500 (may be taken concurrently)
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277200)
+
+4. MIS506 - Text and Unstructured Data Analytics
+Credit Hours: 3
+Prerequisite Courses: MIS503
+No schedule information available
+
+5. CSC532 - Design and Analysis of Algorithms I
+Credit Hours: 3
+Prerequisite Courses: CSC500
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=275985)
+
+6. BAN502 – Predictive Analytics
+Credit Hours: 3 
+Prerequisites : BAN500 and MIS503 
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277189)
+
+7. CSC544 – Network Programming
+Credit Hours : 3 
+Prerequisites : CSC500 and CSC344 or MIS323 
+No schedule information available
+
+These courses are eligible as long as they fall within the allowable range and meet any prerequisite requirements you may not have fulfilled yet.
+
+Conclusion:
+You should choose from the list above to complete your additional course requirement while keeping in mind the exclusions of CSC594 and MIS594, as well as ensuring that all prerequisites are met before enrolling in a particular course.
+
+For detailed planning, consult with your academic advisor to ensure these selections align with your overall academic goals and degree completion timeline.

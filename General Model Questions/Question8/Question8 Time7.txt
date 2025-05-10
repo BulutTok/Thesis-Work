@@ -1,0 +1,34 @@
+Assistant: Understanding Your Full-Time Status and Academic Progress
+
+I understand your concerns about maintaining your visa status while progressing academically. Let's break this down into actionable steps to ensure you meet both academic and immigration requirements.
+
+1. Full-Time Enrollment Requirements
+As an international student, you need to enroll in at least 9 credit hours per semester to maintain full-time status.
+At least 6 of these credits should be from in-person classes. More details can be found on the [UNCW Full-Time Status page](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status).
+
+2. Current Course Schedule Analysis
+You are currently enrolled in:
+CSC 532: Design & Analysis Of Algorithms I (3 credits)
+MIS 534: Information Security Management (3 credits)
+CSC 550: Software Engineering (3 credits)
+MIS 503: Programming for Analytics (3 credits)
+
+   This totals up to 12 credit hours, which satisfies the full-time enrollment requirement.
+
+3. Prerequisites and Eligibility
+Ensure you have met prerequisites for all courses you plan to enroll in.
+For example, if a course requires a prerequisite like BAN 500 or MIS 503, verify that you've completed or are concurrently taking these courses.
+If you meet even one prerequisite for a course requiring multiple prerequisites, you're eligible to enroll.
+
+4. Maintaining Academic Progress
+You're required to maintain a GPA of at least 3.0 for your program.
+You still need to complete additional courses as outlined in your degree audit report, including core courses like Network Programming and Database Management Systems.
+
+5. Additional Steps and Documentation
+Stay informed about any changes in immigration policies by regularly consulting with the International Student Office.
+Document any changes in your schedule immediately with both the university's registrar and international student advisor.
+   
+Conclusion
+By following these guidelines, you'll be able to manage both your academic progress and maintain compliance with visa requirements effectively. If you have further questions or need personalized advice, don't hesitate to reach out to your academic advisor or the International Student Office.
+
+Remember, you're not alone—support is available whenever you need it!

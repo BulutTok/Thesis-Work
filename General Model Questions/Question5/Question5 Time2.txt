@@ -1,0 +1,38 @@
+Assistant: Certainly! The research project and thesis options are two distinct pathways for fulfilling the research/thesis credit requirement in a graduate program. Here’s a breakdown of each option, including key milestones:
+
+Research Project
+
+Overview:
+A research project typically involves applied research or practical application of concepts learned during the program. It is generally less comprehensive than a thesis.
+
+Key Milestones:
+1. Selection and Approval: Choose a research topic in collaboration with a faculty advisor and gain approval from the graduate coordinator.
+2. Project Plan: Develop a detailed plan outlining objectives, methodology, and expected outcomes.
+3. Research Execution: Conduct the research as per the approved plan.
+4. Final Project Report: Compile findings into a comprehensive report.
+5. Defense of Project (DEFN): Successfully present and defend your project to a committee.
+6. Completion (PROJ): Complete all project-related tasks and submit any required documentation.
+
+Thesis
+
+Overview:
+A thesis is an extensive original research study that contributes new knowledge or insights to the field of study. It is more rigorous and formal than a research project.
+
+Key Milestones:
+1. Selection and Approval: Select a thesis topic with faculty guidance, form a thesis committee, and obtain necessary approvals.
+2. Proposal Development: Write and submit a proposal outlining your planned research question, methodology, literature review, etc.
+3. Draft Thesis (DRAT): Prepare an initial draft of your thesis for review by your committee.
+4. Format Approval Sheet (FORM): Submit this sheet along with your draft to ensure it meets formatting guidelines.
+5. Comprehensive Oral Exam (COMO): Pass an oral exam covering coursework related to your thesis topic.
+6. Thesis Defense Requirement (DEFN): Defend your thesis before your committee in an oral presentation.
+7. Final Thesis Submission (THES & TITL): Submit the final version of your thesis electronically to the Graduate School by the deadline along with signed title page(s).
+8. ETD Submission Form (ETDF): Complete this electronic submission form for archiving purposes.
+
+Summary
+Both options require planning, execution, documentation, defense/presentation, and submission steps but differ in scope and depth:
+A research project focuses on practical applications within existing frameworks.
+A thesis involves generating new knowledge through original research.
+
+Choosing between these options should be based on career goals, interest in conducting extensive independent research, time commitment considerations, and academic aspirations such as pursuing further studies or entering academia versus industry roles.
+
+For specific procedures at UNCW regarding either path, refer to resources provided by [UNCW's Graduate School Forms](https://uncw.edu/myuncw/academics/graduate-school/forms).

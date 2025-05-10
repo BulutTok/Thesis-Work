@@ -1,0 +1,22 @@
+Assistant: Course Repeat Policy and Impact on Credits and GPA
+
+1. Course Repeatability
+General Rule: Most courses listed in your program, such as CSC 532, MIS 534, CSC 550, and others, may not be repeated for credit. This means that if you do not achieve the desired grade, you typically cannot retake the course to earn additional credits towards your degree.
+  
+2. Impact on Overall Credit Count
+No Additional Credits: Repeating a course that is not designated as repeatable does not contribute additional credits toward your degree completion. The credit hours from a repeated course will count only once towards the total credit requirement (36 credits in your case).
+
+3. Impact on GPA
+GPA Calculation: When you repeat a course at UNCW:
+The most recent grade earned will be used in calculating your cumulative GPA.
+Earlier grades are excluded from the GPA calculation but remain visible on your transcript.
+
+4. Exceptions and Special Cases
+Some special topics or research courses like MIS 591 or CSC 595 might be repeatable up to a certain limit (e.g., up to six times). In these cases, each instance of the course can count towards different aspects of degree requirements within allowed limits.
+
+Recommendations
+If you find yourself struggling in a required course, consider seeking academic support services or speaking with your instructor for guidance before opting to retake it.
+Consult with an academic advisor to discuss potential impacts on your academic progress and explore alternative pathways or substitutions if available.
+
+Conclusion
+While repeating courses can affect how your GPA is calculated by replacing previous grades with new ones, they generally do not provide additional credits towards graduation unless specified otherwise. Always confirm specific policies with an academic advisor for personalized guidance based on current institutional rules and practices.

@@ -1,0 +1,40 @@
+Assistant: Certainly! Both the research project and thesis options are designed to fulfill the research/thesis credit requirement for your degree. However, they have different structures and expectations. Here's a breakdown of each option:
+
+Research Project
+
+Overview:
+The research project involves focused study on a practical application of computer science or information systems.
+Students select topics with faculty guidance and approval from the graduate coordinator.
+
+Key Milestones:
+1. Topic Selection: Choose a topic with faculty and graduate coordinator approval.
+2. Research Project Credits: Enroll in CSC 594 or MIS 594, typically for 6 credits.
+3. Project Work: Conduct research under faculty supervision, implementing solutions to real-world problems.
+4. Written Analysis: Prepare a comprehensive written report detailing your findings and methodologies.
+5. Oral Presentation (Defense): Successfully defend your research project before a committee (DEFN).
+6. Final Project Completion: Ensure all aspects of the project meet the required standards (PROJ).
+
+Thesis
+
+Overview:
+A thesis is an extensive research study requiring original contributions to the field of computer science or information systems.
+It often involves theoretical work, empirical studies, or both.
+
+Key Milestones:
+1. Topic Selection: Select a thesis topic approved by your thesis committee.
+2. Thesis Credits: Register for CSC 599 or MIS 599 as appropriate; can be repeated up to 6 credits if needed.
+3. Draft Thesis Submission: Submit an electronic draft of your thesis to the Graduate School by the deadline (DRAT).
+4. Format Approval Sheet: Submit this sheet along with your draft thesis (FORM).
+5. Comprehensive Oral Exam: Pass a comprehensive written exam related to your thesis work (COMO).
+6. Thesis Defense Requirement: Defend your thesis in front of a committee successfully (DEFN).
+7. Final Thesis Submission: Submit an electronic version of your final approved thesis by the deadline (THES).
+8. Signed Thesis Title Page & ETD Submission Form: Submit these documents along with your final thesis (TITL & ETDF).
+
+Summary
+Both paths require close collaboration with faculty members but differ primarily in scope and depth:
+The research project is more application-focused, while the thesis demands original scholarly contributions.
+The key milestones involve similar steps like selection, completion, defense/presentation, and submission requirements but vary slightly based on specific deliverables.
+
+Choosing between them depends on your career goals—whether you prefer applied work or deeper academic research—and should align with future aspirations such as pursuing further academic studies or entering industry roles immediately after graduation.
+
+Feel free to reach out if you need further clarification on either path!

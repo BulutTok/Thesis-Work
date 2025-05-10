@@ -1,0 +1,43 @@
+Assistant: Understanding Your Concerns
+
+I understand that balancing your academic progress with maintaining visa status can be stressful. Let’s go through the necessary steps to ensure you remain a full-time student, which is essential for maintaining your visa status.
+
+Maintaining Full-Time Status
+
+1. Course Load Requirements:
+As an international student, you must enroll in at least 9 credit hours per semester to maintain full-time status.
+At least 6 of these credits should be from in-person courses.
+
+2. Current Enrollment and Prerequisites:
+You are currently enrolled in four courses for Spring 2025:
+CSC 532 (Design & Analysis Of Algorithms I)
+CSC 550 (Software Engineering)
+MIS 503 (Programming for Analytics)
+MIS 534 (Information Security Management)
+Each course carries 3 credit hours, totaling 12 credit hours, which satisfies the full-time requirement.
+
+3. In-Person Requirement:
+Ensure that at least two of your current courses are in-person or have face-to-face components. Based on the provided data:
+CSC 532 and CSC 550 both have scheduled in-person sessions.
+
+4. Prerequisite Structure:
+Review any prerequisites for future courses to plan ahead and ensure you meet all requirements without delay.
+For example, MIS 505 requires BAN 500 as a concurrent prerequisite, which you may consider if planning to take that course next semester.
+
+Additional Steps
+
+1. Regular Check-ins with Academic Advisor:
+Regularly consult with your academic advisor to stay informed about any changes in course offerings or visa regulations.
+
+2. Documentation:
+Keep all necessary documentation updated and readily accessible, such as I-20 forms and proof of enrollment.
+   
+3. University Resources:
+Utilize university resources like the International Student Office for guidance on immigration matters.
+  
+4. Online Resource:
+Refer to this [UNCW Full-Time Status Information](https://catalogue.uncw.edu/content.php?catoid=74&navoid=10022&hl=%22full+time%22&returnto=search#Full-Time_Status) for further details on maintaining your status.
+
+Conclusion
+
+You're currently set up well for this semester by enrolling in enough credit hours and ensuring some classes are taken in person. Keeping open communication with advisors will be crucial moving forward to manage both academic and visa requirements effectively. If you have further questions or need assistance with specific issues, feel free to reach out!

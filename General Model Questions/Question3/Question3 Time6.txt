@@ -1,0 +1,23 @@
+Assistant: Certainly! Let's break down the specifics of how credit hour limitations work for your degree program at the University of North Carolina Wilmington:
+
+Overview
+Degree Requirement: Your Master of Science degree requires a total of 36 credit hours.
+Credit Hour Limitations: There is a restriction on certain types of courses, specifically independent study, research seminars, and internships. No more than 9 credit hours from the following courses can be counted towards your degree:
+CSC 591 - Directed Independent Study
+MIS 591 - Directed Independent Study
+CSC 595 - Research Seminar
+MIS 595 - Research Seminar
+CSC 598 - Internship
+MIS 598 - Internship
+
+Why This Limitation Exists
+Purpose: The limitation ensures that students gain a broad range of knowledge and skills by taking a variety of structured courses beyond just independent studies or internships.
+Balance: It encourages students to engage in both theoretical coursework and practical experiences while maintaining academic rigor.
+
+Actionable Steps for You
+1. Course Planning: When planning your course load, ensure that you do not exceed more than three (3) courses or nine (9) credit hours from the above-listed options if you wish for them to count towards your degree requirements.
+2. Consultation with Advisor: Regularly consult with your academic advisor to track your progress and make sure you're meeting all necessary requirements without exceeding limits.
+3. Diversify Course Selection: Consider enrolling in other core and elective courses that align with your academic interests and career goals to fulfill the remaining credit requirements.
+
+Conclusion
+By adhering to these guidelines, you'll be able to effectively plan your coursework while satisfying both the credit hour limitations and overall graduation requirements. If you have further questions about specific course selections or how they fit into your degree plan, I recommend discussing this with your academic advisor for personalized advice.

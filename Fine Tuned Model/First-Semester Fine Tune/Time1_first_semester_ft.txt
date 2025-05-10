@@ -1,0 +1,160 @@
+Ask about courses (or type 'exit' to quit):  Can you help me walk through my degree audit report and explain which core requirements I still need to complete?
+
+Assistant: Certainly! Let's go through your degree audit report to identify the core requirements you still need to complete for your Master of Science in Computer Science & Information Systems.
+
+Core Requirements Still Needed
+
+1. Network Programming
+Course Required: CSC 544
+
+2. Database Management Systems
+Course Required: MIS 555
+
+3. Analysis, Modeling and Design
+Course Required: MIS 565
+
+Additional Courses
+You need an additional 9 credits from CSC 501:598 or MIS 500:598, excluding CSC 594 or MIS 594.
+
+Research or Thesis Credits
+You must choose between:
+Research Project: Complete and defend a project with 6 credits in CSC 594 or MIS 594.
+Thesis: Complete and defend a thesis with 6 credits in CSC 599 or MIS 599.
+
+Graduation Requirements
+Apply to graduate in SeaNet by the deadline.
+Ensure enrollment during the semester of graduation.
+
+Summary
+You have completed some courses but still need to complete several core requirements and research/thesis components. Make sure to focus on improving your GPA as well, since a minimum of 3.0 is required.
+
+Feel free to ask if you need further clarification on any part!
+
+
+Ask about courses (or type 'exit' to quit):  I see some courses are marked as “still needed” (like CSC 544 for Network Programming and MIS 555 for Database Management Systems). When should I plan to take these?
+
+Assistant: To effectively plan your coursework, consider the following steps:
+
+Immediate Next Steps
+
+1. Check Prerequisites:
+Ensure you meet any prerequisites for CSC 544 and MIS 555.
+
+2. Review Course Availability:
+Check the course catalog or contact your academic advisor to see when these courses are offered. They may not be available every semester.
+
+3. Plan for Upcoming Semesters:
+If available in the next semester, prioritize enrolling in CSC 544 and MIS 555 since they are core requirements.
+
+4. Balance Your Workload:
+Consider how these courses fit into your overall schedule, including other required courses and any research or thesis work.
+
+Suggested Timeline
+Next Semester: Aim to take one or both of these core courses if they fit into your schedule.
+Following Semester: Complete any remaining core courses and focus on electives or research/thesis credits as needed.
+
+Additional Considerations
+Make sure you're maintaining a GPA of at least 3.0.
+Coordinate with your advisor to ensure all graduation requirements are met on time.
+
+If you need more detailed planning assistance, reach out to your academic advisor for personalized guidance!
+
+
+Ask about courses (or type 'exit' to quit):  Can you explain the differences between the research project and thesis options, and how should I decide which path fits my goals?
+
+Assistant: Certainly! Here's a breakdown of the research project and thesis options to help you decide which path aligns with your goals:
+
+Research Project
+Focus: Practical application of skills to solve a specific problem.
+Structure: Involves selecting a topic, conducting research, and presenting findings in a written report.
+Credits: 6 credits required (CSC 594 or MIS 594).
+Defense: Must successfully defend the project.
+Ideal For:
+Students interested in applying theoretical knowledge to real-world problems.
+Those looking to enter industry roles where practical experience is valued.
+
+Thesis
+Focus: Original research contributing new knowledge or insights to the field.
+Structure: Requires formulating a research question, conducting extensive study, and writing a comprehensive thesis document.
+Credits: 6 credits required (CSC 599 or MIS 599).
+Defense & Requirements:
+Pass a comprehensive oral exam.
+Submit and defend the thesis according to university guidelines.
+Ideal For:
+Students considering further academic pursuits, such as a Ph.D.
+Those interested in deep exploration of a specific topic.
+
+Decision Factors
+
+1. Career Goals:
+If you're aiming for academia or research-intensive roles, consider the thesis option.
+For industry positions focusing on applied skills, the research project may be more suitable.
+
+2. Interest in Research vs. Application:
+Choose based on whether you prefer theoretical exploration or practical application.
+
+3. Time Commitment & Resources:
+Evaluate your available time and resources; theses often require more extensive work.
+
+4. Consultation with Advisors:
+Discuss your goals with faculty advisors who can provide insight based on your interests and career aspirations.
+
+Consider these factors carefully to choose the path that best fits your personal and professional objectives!
+
+
+Ask about courses (or type 'exit' to quit):  What advice do you have for planning my Spring 2025 schedule to ensure I meet both the credit requirements and my degree milestones at UNCW?
+
+Assistant: To effectively plan your Spring 2025 schedule and meet your degree milestones at UNCW, consider the following steps:
+
+Course Selection
+
+1. Core Courses:
+CSC 544 - Network Programming
+MIS 555 - Database Management Systems
+MIS 565 - Analysis, Modeling and Design
+
+2. Research/Thesis Credits:
+Decide between a research project or thesis and enroll in CSC 594/MIS 594 or CSC 599/MIS 599 as needed.
+
+3. Additional Credits:
+Choose from courses like CSC 501:598 or MIS 500:598 to fulfill the remaining credit requirement.
+   
+Scheduling Tips
+Balance Your Workload: Mix core courses with electives or research credits to avoid overloading any single semester.
+Check Prerequisites: Ensure you meet prerequisites for each course to avoid delays.
+Consider Class Formats: Balance online asynchronous courses with in-person classes if applicable.
+
+Academic Milestones
+GPA Improvement: Focus on achieving a GPA of at least 3.0 by performing well in all courses.
+Research/Thesis Decision: Start early on your research topic or thesis proposal to stay on track for completion.
+
+Additional Actions
+Consult Your Advisor: Regularly meet with your academic advisor to ensure you're on track with requirements and deadlines.
+Apply for Graduation: Remember to apply for graduation through SeaNet by the deadline.
+
+By strategically selecting courses and maintaining regular communication with advisors, you'll be well-prepared to meet both credit requirements and degree milestones. Let me know if you need further assistance!
+
+
+Ask about courses (or type 'exit' to quit):  I noticed the report mentions that no more than 9 credit hours from courses like CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598 can be applied toward my degree. Could you clarify how this policy works and what it means for my course planning?
+
+Assistant: Certainly! Here's how the policy works and what it means for your course planning:
+
+Policy Explanation
+Limit on Credits: You can apply a maximum of 9 credit hours from the specified courses (CSC 591, MIS 591, CSC 595, MIS 595, CSC 598, and MIS 598) toward your degree.
+Course Types: These courses typically involve independent study, seminars, or internships.
+
+Implications for Course Planning
+
+1. Select Wisely:
+Choose these courses based on how they align with your career goals and interests since only a limited number can count toward your degree.
+
+2. Balance with Core Courses:
+Ensure that you also complete all required core courses and electives outside of this list to meet the total credit requirement for graduation.
+
+3. Consult Your Advisor:
+Discuss which of these options might best support your academic and professional development.
+
+4. Plan Electives Carefully:
+Consider other electives within CSC or MIS that interest you and contribute to reaching the total credits needed without exceeding the limit from these specific courses.
+
+By understanding this policy, you can strategically plan your coursework to fulfill all requirements efficiently while maximizing learning opportunities relevant to your goals. If you have more questions about specific courses or need further guidance, feel free to ask!

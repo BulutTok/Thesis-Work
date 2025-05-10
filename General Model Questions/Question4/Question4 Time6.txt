@@ -1,0 +1,52 @@
+Assistant: Based on your degree audit and the provided course data, here are your options and restrictions for fulfilling the additional course requirement:
+
+Options for Additional Course Requirement
+
+You need to complete 9 additional credits from the following courses in the CSC 501:598 or MIS 500:598 range. Here are some options you can consider:
+
+1. MIS503 - Programming For Analytics
+Credit Hours: 3
+Prerequisites: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277198)
+
+2. MIS504 - Databases for Analytics
+Credit Hours: 3
+Prerequisites: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277199)
+
+3. MIS505 - Data Visualization
+Credit Hours: 3
+Prerequisite Courses: BAN 500 (may be taken concurrently)
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277200)
+
+4. CSC502 - Machine Learning Fundamentals
+Credit Hours: 3
+Prerequisites: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277870)
+
+5. BAN501 - Prescriptive Analytics
+Credit Hours: 3
+Prerequisites: None
+[Course Details](https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277188)
+
+6. BAN502 – Predictive Analytics
+Credit Hours : 3 
+Prerequisite Courses : BAN 500 (may be taken concurrently) and MIS503 
+[Course Details ]( https://catalogue.uncw.edu/preview_course.php?catoid=74&coid=277189 )
+
+Restrictions
+You cannot use CSC594 or MIS594 to fulfill these additional credits.
+No more than 9 credit hours from CSC591, MIS591, CSC595, MIS595, CSC598, and MIS598 may be applied toward the degree.
+
+Actionable Steps
+
+1. Review the prerequisites of each potential course option.
+2. Consider your career goals and interests when selecting courses.
+3. Check with your academic advisor to ensure that chosen courses align with graduation requirements.
+4. Enroll in these courses as per availability and registration dates.
+
+Conclusion
+
+To meet your program's requirements efficiently while aligning with your interests and career goals, focus on selecting a combination of available courses that fit within the specified range while observing any restrictions mentioned above.
+
+If you have further questions or need assistance with enrollment procedures, feel free to

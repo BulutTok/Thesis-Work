@@ -1,0 +1,42 @@
+Assistant: Based on the provided degree audit, you have the following options and restrictions for fulfilling the additional course requirement in your Master of Science program:
+
+Options for Additional Course Requirement:
+You need to complete 9 credits from courses within the range of CSC 501:598 or MIS 500:598.
+
+Restrictions:
+You cannot use CSC 594 or MIS 594 to fulfill these additional course credits. These courses are reserved for research project requirements and are therefore excluded from this specific requirement.
+
+Recommended Courses:
+Here are some potential courses you could consider, based on your interest and their availability:
+
+1. CSC502 - Machine Learning Fundamentals
+Core concepts, theories, algorithms, and applications of machine learning.
+Credit Hours: 3
+
+2. MIS504 - Databases for Analytics
+Focuses on relational databases, data management, queries, and reporting.
+Credit Hours: 3
+
+3. BAN500 - Descriptive Analytics
+Covers statistical inference as applied to management decision-making.
+Credit Hours: 3
+
+4. MIS505 - Data Visualization
+Experience in design principles for creating meaningful displays of data.
+Credit Hours: 3
+Prerequisite: BAN 500 (may be taken concurrently)
+
+5. CSC515 - Artificial Intelligence
+Introduction to key concepts and applications of artificial intelligence.
+Credit Hours: 3
+Prerequisite: CSC 331 (min grade B)
+
+Actionable Steps:
+1. Review your current schedule and determine which semesters you plan to take these courses.
+2. Verify prerequisites for each course you're interested in enrolling in.
+3. Discuss with your academic advisor about aligning these courses with your career goals.
+4. Register for the selected courses once registration opens.
+
+By selecting appropriate courses within these guidelines, you'll be able to meet the program requirements while advancing your knowledge in areas relevant to your career interests.
+
+If you have any further questions or need assistance with planning your schedule, feel free to reach out!
