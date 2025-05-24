@@ -10,28 +10,14 @@ This repository contains the LaTeX source files for my **Master’s Thesis** and
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)  
-2. [Repository Structure](#repository-structure)  
-3. [Branches](#branches)  
-   - [main](#main)  
-   - [Thesis-Work-Latex-Document](#thesis-work-latex-document)  
-   - [Questions-Asked](#questions-asked)  
-   - [Token-Calculation-Code](#token-calculation-code)  
-   - [UNCW-2025-CATALOGUE-Parsing-Code](#uncw-2025-catalogue-parsing-code)  
-   - [Training-and-Validation-Files](#training-and-validation-files)  
-4. [Thesis Highlights](#thesis-highlights)  
-5. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-6. [Usage](#usage)  
-   - [Compiling the Thesis (LaTeX)](#compiling-the-thesis-latex)  
-   - [Running the Code](#running-the-code)  
-7. [Data and Fine-Tuning](#data-and-fine-tuning)  
-8. [Results and Evaluation](#results-and-evaluation)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [Contact](#contact)
+## 📑 Table of Contents
+1. [Repository Structure](#repository-structure)  
+2. [Branch Overview](#branch-overview)  
+3. [Branch Details](#branch-details)  
+4. [Getting Started](#getting-started)  
+5. [Contact](#contact)  
+6. [Key Results](#key-results)  
+
 
 ---
 
@@ -273,7 +259,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to modify o
 ## Contact
 For questions, feedback, or further collaboration:
 - **Name**: Bulut Tok  
-- **Email**: [bt6631.email@uncw.edu](mailto:bt6631.email@uncw.edu)  
+- **Email**: [buluttok2013@gmail.com](mailto:buluttok2013@gmail.com)  
 - **GitHub**: [github.com/BulutTok](https://github.com/BulutTok)
 
 ---
