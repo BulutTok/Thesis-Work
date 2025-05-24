@@ -149,8 +149,7 @@ Contains code related to the question-by-question chatbot approach.
 Collects LaTeX files, figure references, and the final structure used to build the thesis PDF.  
 - **Purpose**: This is the “master” branch for assembling the thesis text.  
 - **Key Files**:  
-  - `main.tex` – Main LaTeX file.  
-  - `chapters/` – Contains `introduction.tex`, `methodology.tex`, etc.  
+  - `main.tex` – Main LaTeX file.   
   - `figures/` – Figures used throughout the thesis.  
 
 ### IMDC-2023-CATALOG-Parsing-Code
@@ -276,13 +275,9 @@ Please ensure that any code or documentation adheres to the repository’s style
 ---
 
 
-
-
-## Contact
-For questions, feedback, or further collaboration:
-- **Name**: Bulut Tok  
-- **Email**: [your.email@uncw.edu](mailto:bt6631.email@uncw.edu)  
-- **GitHub**: [github.com/YourUsername](https://github.com/BulutTok)
+* **Author:** Bulut Tok
+* **Email:** [buluttok2013@gmail.com](mailto:buluttok2013@gmail.com)
+* **Affiliation:** UNCW, MS in Computer & Information Science (ʹ25)
 
 ---
 
