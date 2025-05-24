@@ -73,9 +73,8 @@ Contains Jupyter notebooks for the question-by-question chatbot workflow.
 Organizes LaTeX source files, figures, and bibliography for thesis compilation.  
 - **Purpose:** Assembles the complete thesis into a single PDF document.  
 - **Key Files:**  
-  - `main.tex`                      — Master LaTeX file that includes all chapters.  
-  - `chapters/`                     — Contains individual chapter files (e.g., `introduction.tex`, `methodology.tex`).  
-  - `figures/`                      — Figures and diagrams used throughout the thesis.  
+  - `main.tex`                      — Master LaTeX file that includes all chapters.   
+  - `figures_current/`                      — Figures and diagrams used throughout the thesis.  
 
 #### Catalog Parsing Notebooks (IMDC-2023-CATALOG-Parsing-Code)
 Parses university course catalog data into structured JSON.  
