@@ -83,7 +83,6 @@ Contains the LaTeX source for the thesis, including the main `main.tex` file (wh
 
 - **Key Files**:
   - `main.tex` – Main LaTeX file that includes all thesis sections.
-  - `chapters/` – (Optional) Additional chapter files if needed.
   - `figures/` – Figures and diagrams used in the thesis.
   - `references/` – Bibliography files (`.bib`).
 
@@ -202,7 +201,42 @@ Stores the data and scripts related to GPT-4O fine-tuning, typically in `.jsonl`
 
 ---
 
-## Results and Evaluation
+## 📊 Key Results
+
+This section highlights quantitative findings from both the base and fine-tuned GPT-4O models, including per-question token usage, cost comparisons, and scenario-based savings.
+
+### 10.1 Comparative Cost Efficiency of Base vs. Fine-Tuned Models
+
+| Metric                   | Base Model      | Fine-Tuned Model | Reduction (%)  |
+|--------------------------|-----------------|------------------|----------------|
+| Total Output Tokens      | 39,353          | 26,960           | 31.5%          |
+| Total Cost (USD)         | $0.39353        | $0.26960         | 31.5%          |
+| Average Tokens per Q     | 3,935.3         | 2,696.0          | 31.5%          |
+| Average Cost per Q (USD) | $0.039353       | $0.026960        | 31.5%          |
+
+- **Response Consistency:** Box plots show median output-token counts per question dropping substantially after fine-tuning (e.g., Q4 from ~460 to ~240 tokens, Q6 from ~300 to ~170) with narrower interquartile ranges.
+- **Per-Question Efficiency:** Bar charts illustrate consistent token reductions across all ten questions, with the largest gains in Q4 (−203.1 tokens), Q5 (−144.0 tokens), and Q10 (−180.5 tokens).
+- **Cost Comparison:** Cost charts reflect lower average per-question spending for the fine-tuned model (e.g., Q1: $0.00302 → $0.00239; Q4: $0.00460 → $0.00257).
+
+### 10.2 Scenario-Based Cost Savings Analysis
+
+Using engagement rates from Georgia State University and projected queries for a 75-student cohort (3.5 queries/user/month), we estimate:
+
+| Month     | Active Users | Queries | Base Cost (USD) | Tuned Cost (USD) | Savings (USD) |
+|-----------|--------------|---------|-----------------|------------------|---------------|
+| September | 30           | 105     | $4.13           | $2.83            | $1.30         |
+| October   | 25           | 88      | $3.46           | $2.37            | $1.09         |
+| November  | 35           | 123     | $4.84           | $3.32            | $1.52         |
+| December  | 20           | 70      | $2.75           | $1.89            | $0.87         |
+| **Total** | —            | **386** | **$15.19**      | **$10.41**       | **$4.78**     |
+
+- **Per-Query Savings:** Average savings of \$0.01239 per query (31.5%).
+- **Semester Impact:** Fine-tuning yields \$4.78 saved over 386 queries—funds that can be redirected to human-in-the-loop review or further enhancements.
+
+These results demonstrate that domain-specific fine-tuning substantially reduces token usage and costs while improving response consistency, making it highly beneficial for scalable academic-advising deployments.
+
+
+## Evaluation
 - **Token Usage**: Detailed logs and notebooks for both base and fine-tuned models.  
 - **Cost Analysis**: Compares input vs. output tokens and calculates costs with OpenAI’s pricing model.  
 - **Evaluation Figures**: Plots, bar charts, and box-whisker diagrams are either found in notebooks or embedded in the thesis.
