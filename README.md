@@ -229,32 +229,9 @@ These results demonstrate that domain‑specific fine‑tuning substantially red
    pdflatex main.tex
    pdflatex main.tex
    ```
-3. The output PDF (e.g., `main.pdf`) should appear in the same directory.
+3. The output PDF (e.g., `Thesis.pdf`) should appear in the same directory.
 
-### Running the Code
 
-1. **Catalog Parsing** (IMDC-2023-CATALOG-Parsing-Code branch):  
-   ```bash
-   git checkout IMDC-2023-CATALOG-Parsing-Code
-   python parse_catalog.py
-   ```
-   - This generates a structured JSON file of course data.
-
-2. **Fine-Tuning** (Training-and-Validation-Files branch):  
-   ```bash
-   git checkout Training-and-Validation-Files
-   python fine_tune_script.py --train_file training_data.jsonl --valid_file validation_data.jsonl
-   ```
-   - Adjust arguments as needed for your environment.
-
-3. **Question-Based LLM** (Question-based-LLM branch):  
-   ```bash
-   git checkout Question-based-LLM
-   python question_based_chatbot.py
-   ```
-   - Interactively ask academic advising questions, measure token usage, and compare costs.
-
----
 
 ## Data and Fine-Tuning
 - **Fine-Tuning Data**: Found in `Training-and-Validation-Files` branch. Contains domain-specific Q&A examples in `.jsonl` format.  
