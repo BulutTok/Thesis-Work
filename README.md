@@ -14,7 +14,16 @@ This project explores **cost-efficiency** and **performance** optimizations in G
 - **Thesis LaTeX Source** – Full write-up, figures, tables, and references.  
 - **Code for Catalog Parsing** – Scripts to parse course data and produce JSON caches.  
 - **Fine-Tuning and Training Scripts** – Python scripts and `.jsonl` files for GPT-4O fine-tuning.  
-- **Validation and Analysis** – Jupyter notebooks or Python scripts used for testing output tokens, cost calculations, and final comparative analysis.  
+- **Validation and Analysis** – Jupyter notebooks or Python scripts used for testing output tokens, cost calculations, and final comparative analysis.
+
+
+## Thesis Highlights
+1. **Comparative Analysis** – Evaluates a general-purpose GPT-4O vs. a domain-specific fine-tuned GPT-4O.  
+2. **Cost & Token Usage** – Investigates how domain-specific fine-tuning can reduce tokens and thus operational costs.  
+3. **Academic Advising Context** – Focuses on how chatbots can provide **degree audits**, **course recommendations**, and **personalized** academic advice.  
+4. **Quantitative & Qualitative Metrics** – Employs token counts, cost analysis, and human evaluation (relevance, clarity) to measure performance.
+
+---  
 
 ## 📁 Repository Structure
 
@@ -167,41 +176,6 @@ Using engagement rates from Georgia State University and projected queries for a
 
 These results demonstrate that domain‑specific fine‑tuning substantially reduces token usage and costs while improving response consistency, making it highly beneficial for scalable academic‑advising deployments.
 
-
-
-
-
-
-### Question-based-LLM
-Contains code related to the question-by-question chatbot approach.  
-- **Purpose**: Demonstrates how user queries are processed in a Q&A format, focusing on cost measurements for each question.  
-- **Key Files**:  
-  - `scripts/question_based_chatbot.py` – The main script for question-driven interactions.  
-  - `analysis/token_calculations.ipynb` – A notebook that calculates per-question token usage.  
-
-### Thesis-Collation-Code
-Collects LaTeX files, figure references, and the final structure used to build the thesis PDF.  
-- **Purpose**: This is the “master” branch for assembling the thesis text.  
-- **Key Files**:  
-  - `main.tex` – Main LaTeX file.   
-  - `figures/` – Figures used throughout the thesis.  
-
-### IMDC-2023-CATALOG-Parsing-Code
-Holds the scripts that parse the 2023 course catalog (or any relevant university course data) into JSON format.  
-- **Purpose**: To transform raw PDF or HTML-based course listings into structured JSON data.  
-- **Key Files**:  
-  - `parse_catalog.py` – Python script that extracts course data from PDF/HTML.  
-  - `catalog_cache.json` – Example JSON output for course info.  
-
-### Training-and-Validation-Files
-Stores the `.jsonl` files for training, validation, and fine-tuning of GPT-4O.  
-- **Purpose**: Central location for your **fine-tuning** data and scripts.  
-- **Key Files**:  
-  - `training_data.jsonl` – Training examples for domain-specific customization.  
-  - `validation_data.jsonl` – Held-out set for validation metrics.  
-  - `fine_tune_script.py` – Example script to run the fine-tuning process via OpenAI’s API.  
-
----
 
 ## Thesis Highlights
 1. **Comparative Analysis** – Evaluates a general-purpose GPT-4O vs. a domain-specific fine-tuned GPT-4O.  
