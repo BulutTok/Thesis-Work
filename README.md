@@ -176,6 +176,13 @@ Using engagement rates from Georgia State University and projected queries for a
 
 These results demonstrate that domain‑specific fine‑tuning substantially reduces token usage and costs while improving response consistency, making it highly beneficial for scalable academic‑advising deployments.
 
+## Evaluation
+- **Token Usage**: Detailed logs for both base and fine-tuned models are saved in `.csv` or `.ipynb` files.  
+- **Cost Analysis**: Compares input vs. output tokens and calculates cost with OpenAI’s pricing model.  
+- **Evaluation Figures**: Plots, bar charts, and box-whisker diagrams  embedded in the thesis.
+
+---
+
 
 ## Thesis Highlights
 1. **Comparative Analysis** – Evaluates a general-purpose GPT-4O vs. a domain-specific fine-tuned GPT-4O.  
@@ -239,12 +246,7 @@ These results demonstrate that domain‑specific fine‑tuning substantially red
 
 ---
 
-## Results and Evaluation
-- **Token Usage**: Detailed logs for both base and fine-tuned models are saved in `.csv` or `.ipynb` files.  
-- **Cost Analysis**: Compares input vs. output tokens and calculates cost with OpenAI’s pricing model.  
-- **Evaluation Figures**: Plots, bar charts, and box-whisker diagrams found under `analysis/` or embedded in the thesis.
 
----
 
 ## Contributing
 Contributions, suggestions, or bug reports are welcome!  
