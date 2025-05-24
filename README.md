@@ -186,7 +186,7 @@ Stores the data and scripts related to GPT-4O fine-tuning, typically in `.jsonl`
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 This section highlights quantitative findings from both the base and fine-tuned GPT-4O models, including per-question token usage, cost comparisons, and scenario-based savings.
 
