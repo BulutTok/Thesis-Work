@@ -1,8 +1,20 @@
 # Thesis-Work Repository
 
-Welcome to the **Thesis-Work** repository, which houses all of the code, data, and LaTeX source for Bulut Tok’s Master’s thesis on cost and performance optimization of GPT‑4O academic-advisor chatbots.
+This repository contains the LaTeX source files for my **Master’s Thesis** and all associated code used for experimentation, data processing, and validation. The thesis investigates two GPT-4-based chatbot configurations (general-purpose vs. fine-tuned) for academic advising tasks, focusing on **token usage**, **computational costs**, and **domain-specific fine-tuning**.
 
----
+> **Title of Thesis**  
+> **ENHANCING COST EFFICIENCY AND PERFORMANCE OF GPT-4O CHATBOTS: A CASE STUDY ON ACADEMIC ADVISOR SYSTEMS**  
+> **University of North Carolina Wilmington**  
+> **Master of Degree in Computer Science and Information Systems**  
+> *By Bulut Tok, 2025*
+
+## Overview
+This project explores **cost-efficiency** and **performance** optimizations in GPT-4O-based chatbots tailored for academic advising. The repository includes:
+
+- **Thesis LaTeX Source** – Full write-up, figures, tables, and references.  
+- **Code for Catalog Parsing** – Scripts to parse course data and produce JSON caches.  
+- **Fine-Tuning and Training Scripts** – Python scripts and `.jsonl` files for GPT-4O fine-tuning.  
+- **Validation and Analysis** – Jupyter notebooks or Python scripts used for testing output tokens, cost calculations, and final comparative analysis.  
 
 ## 📁 Repository Structure
 
@@ -18,8 +30,8 @@ Thesis-Work/
 ├── Thesis-Work-Latex-Document/    # LaTeX source for the full thesis
 │   ├── main.tex                   # Master document
 │   ├── chapters/                  # Individual chapter files (if split)
-│   ├── figures/                   # All figures and diagrams
-│   └── references/                # .bib files and bibliography
+│   ├── figures_current/                   # All figures and diagrams
+│   └── references_thesis/                # .bib files and bibliography
 ├── Questions-Asked/               # Test prompts and expected answers
 ├── Token-Calculation-Code/        # Scripts & notebooks for deeper token analysis
 ├── UNCW-2025-CATALOGUE-Parsing-Code/  # Parsing code for course catalog
@@ -86,11 +98,6 @@ Thesis-Work/
 * **Email:** [buluttok2013@gmail.com](mailto:buluttok2013@gmail.com)
 * **Affiliation:** UNCW, MS in Computer & Information Science (ʹ25)
 
----
-
-Feel free to explore each branch for focused development, raise issues, or contribute via pull requests. Good luck and happy researching! 🎓
-
----
 
 ## 📊 Key Results
 
@@ -130,77 +137,6 @@ These results demonstrate that domain‑specific fine‑tuning substantially red
 
 
 
-**Enhancing Cost Efficiency and Performance of GPT-4O Chatbots: A Case Study on Academic Advisor Systems**
-
-This repository contains the LaTeX source files for my **Master’s Thesis** and all associated code used for experimentation, data processing, and validation. The thesis investigates two GPT-4-based chatbot configurations (general-purpose vs. fine-tuned) for academic advising tasks, focusing on **token usage**, **computational costs**, and **domain-specific fine-tuning**.
-
-> **Title of Thesis**  
-> **ENHANCING COST EFFICIENCY AND PERFORMANCE OF GPT-4O CHATBOTS: A CASE STUDY ON ACADEMIC ADVISOR SYSTEMS**  
-> **University of North Carolina Wilmington**  
-> **Master of Degree in Computer Science and Information Systems**  
-> *By Bulut Tok, 2025*
-
----
-
-## Table of Contents
-1. [Overview](#overview)  
-2. [Repository Structure](#repository-structure)  
-3. [Branches](#branches)  
-   - [Question-based-LLM](#question-based-llm)  
-   - [Thesis-Collation-Code](#thesis-collation-code)  
-   - [IMDC-2023-CATALOG-Parsing-Code](#imdc-2023-catalog-parsing-code)  
-   - [Training-and-Validation-Files](#training-and-validation-files)  
-4. [Thesis Highlights](#thesis-highlights)  
-5. [Getting Started](#getting-started)  
-   - [Prerequisites](#prerequisites)  
-   - [Installation](#installation)  
-6. [Usage](#usage)  
-   - [Compiling the Thesis (LaTeX)](#compiling-the-thesis-latex)  
-   - [Running the Code](#running-the-code)  
-7. [Data and Fine-Tuning](#data-and-fine-tuning)  
-8. [Results and Evaluation](#results-and-evaluation)  
-9. [Contributing](#contributing)  
-10. [License](#license)  
-11. [Contact](#contact)  
-
----
-
-## Overview
-This project explores **cost-efficiency** and **performance** optimizations in GPT-4O-based chatbots tailored for academic advising. The repository includes:
-
-- **Thesis LaTeX Source** – Full write-up, figures, tables, and references.  
-- **Code for Catalog Parsing** – Scripts to parse course data and produce JSON caches.  
-- **Fine-Tuning and Training Scripts** – Python scripts and `.jsonl` files for GPT-4O fine-tuning.  
-- **Validation and Analysis** – Jupyter notebooks or Python scripts used for testing output tokens, cost calculations, and final comparative analysis.  
-
----
-
-## Repository Structure
-
-A high-level look at the repository:
-
-```
-Thesis-Work/
-├── README.md                  <-- You are here!
-├── main.tex                   <-- Main LaTeX file for the thesis
-├── chapters/                  <-- Chapter-wise LaTeX files
-├── figures/                   <-- Figures, diagrams, images
-├── references/                <-- .bib file(s) for bibliography
-├── scripts/                   <-- Python scripts for data parsing, token analysis, etc.
-└── ...
-```
-
-- **Branches**:  
-  - *Question-based-LLM*  
-  - *Thesis-Collation-Code*  
-  - *IMDC-2023-CATALOG-Parsing-Code*  
-  - *Training-and-Validation-Files*  
-
-Use `git checkout <branch-name>` to switch among them.
-
----
-
-## Branches
 
 ### Question-based-LLM
 Contains code related to the question-by-question chatbot approach.  
@@ -339,10 +275,8 @@ Please ensure that any code or documentation adheres to the repository’s style
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE). Feel free to modify or distribute, but please give appropriate credit and include the license in any derivative works.
 
----
+
 
 ## Contact
 For questions, feedback, or further collaboration:
@@ -352,4 +286,6 @@ For questions, feedback, or further collaboration:
 
 ---
 
-*Thank you for checking out this project. I hope this helps other researchers, students, and developers explore how domain-specific fine-tuning can significantly optimize GPT-based chatbots—especially in academic advising scenarios.*
+Feel free to explore each branch for focused development, raise issues, or contribute via pull requests. Good luck and happy researching! 🎓
+
+---
