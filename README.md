@@ -38,8 +38,7 @@ A high-level look at the repository:
 ```
 Thesis-Work/
 ├── README.md                   <-- This file
-├── main.tex                    <-- Main LaTeX file with all sections of the thesis
-├── chapters/                   <-- (Optional) If you split sections into separate .tex files
+├── main.tex                    <-- Main LaTeX file with all sections of the thesis                 
 ├── figures/                    <-- Figures, diagrams, images
 ├── references/                 <-- .bib file(s) for bibliography
 ├── scripts/                    <-- Python scripts or notebooks for data parsing, token analysis, etc.
