@@ -94,7 +94,7 @@ Stores training and validation datasets along with fine-tuning scripts.
   '''
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone the repository**
 
@@ -135,11 +135,6 @@ Stores training and validation datasets along with fine-tuning scripts.
 
 ---
 
-## 📧 Contact
-
-* **Author:** Bulut Tok
-* **Email:** [buluttok2013@gmail.com](mailto:buluttok2013@gmail.com)
-* **Affiliation:** UNCW, MS in Computer & Information Science (ʹ25)
 
 
 ## 📊 Key Results
@@ -182,47 +177,6 @@ These results demonstrate that domain‑specific fine‑tuning substantially red
 - **Evaluation Figures**: Plots, bar charts, and box-whisker diagrams  embedded in the thesis.
 
 ---
-
-
-## Thesis Highlights
-1. **Comparative Analysis** – Evaluates a general-purpose GPT-4O vs. a domain-specific fine-tuned GPT-4O.  
-2. **Cost & Token Usage** – Investigates how domain-specific fine-tuning can reduce tokens and thus operational costs.  
-3. **Academic Advising Context** – Focuses on how chatbots can provide **degree audits**, **course recommendations**, and **personalized** academic advice.  
-4. **Quantitative & Qualitative Metrics** – Employs token counts, cost analysis, and human evaluation (relevance, clarity) to measure performance.
-
----
-
-## Getting Started
-
-### Prerequisites
-- **Python 3.8+**  
-- **LaTeX Distribution** (e.g., TeX Live, MikTeX) for compiling the thesis  
-- Libraries (install via `pip install -r requirements.txt`):
-  - `PyPDF2`, `pandas`, `numpy`, `openai`, `tiktoken`, `nltk`, etc.  
-
-### Installation
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/YourUsername/Thesis-Work.git
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd Thesis-Work
-   ```
-3. **Set up a virtual environment** *(optional but recommended)*:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Linux/Mac
-   venv\Scripts\activate     # Windows
-   ```
-4. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
-## Usage
 
 ### Compiling the Thesis (LaTeX)
 1. Go to the `Thesis-Collation-Code` branch:
