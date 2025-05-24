@@ -193,15 +193,6 @@ These results demonstrate that domain‑specific fine‑tuning substantially red
 3. The output PDF (e.g., `Thesis.pdf`) should appear in the same directory.
 
 
-
-## Data and Fine-Tuning
-- **Fine-Tuning Data**: Found in `Training-and-Validation-Files` branch. Contains domain-specific Q&A examples in `.jsonl` format.  
-- **Scripts**: Demonstrates how we upload data to OpenAI, parse logs for training loss, and compare the final fine-tuned model with the base GPT-4O model.
-
----
-
-
-
 ## Contributing
 Contributions, suggestions, or bug reports are welcome!  
 
