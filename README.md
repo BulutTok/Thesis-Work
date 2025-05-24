@@ -51,6 +51,40 @@ Thesis-Work/
 
 ---
 
+### 🔍 Branch Details
+
+#### Question-Based Chatbot (Question-Based-LLM)
+Contains Jupyter notebooks for the question-by-question chatbot workflow.  
+- **Purpose:** Processes user queries in a Q&A format while measuring per-question token usage and cost.  
+- **Key Files:**  
+  - `Question-Based-Chatbot.ipynb` — Main notebook for interactive, question-driven analysis.  
+  - `Token_Calculations.ipynb`      — Notebook that computes token counts and per-question cost.  
+
+#### Thesis Assembly Source (Thesis-Collation-Code)
+Organizes LaTeX source files, figures, and bibliography for thesis compilation.  
+- **Purpose:** Assembles the complete thesis into a single PDF document.  
+- **Key Files:**  
+  - `main.tex`                      — Master LaTeX file that includes all chapters.  
+  - `chapters/`                     — Contains individual chapter files (e.g., `introduction.tex`, `methodology.tex`).  
+  - `figures/`                      — Figures and diagrams used throughout the thesis.  
+
+#### Catalog Parsing Notebooks (IMDC-2023-CATALOG-Parsing-Code)
+Parses university course catalog data into structured JSON.  
+- **Purpose:** Converts raw PDF/HTML course listings into clean, queryable JSON formats.  
+- **Key Files:**  
+  - `CatalogParsing.ipynb`          — Jupyter notebook for extracting and structuring course data.  
+  - `course_index_cache.json`       — Example JSON cache of parsed course metadata.  
+
+#### Fine-Tuning & Validation Data (Training-and-Validation-Files)
+Stores training and validation datasets along with fine-tuning scripts.  
+- **Purpose:** Supports domain-specific fine-tuning and performance evaluation of GPT-4O.  
+- **Key Files:**  
+  - `training1.jsonl`               — JSONL file with training examples for fine-tuning.  
+  - `validation1.jsonl`             — JSONL file containing validation samples.  
+  - `Fine Tuning Code.ipynb`        — Notebook illustrating the fine-tuning process via the OpenAI API.
+  '''
+---
+
 ## 🚀 Getting Started
 
 1. **Clone the repository**
