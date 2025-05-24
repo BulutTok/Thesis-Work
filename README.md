@@ -12,7 +12,7 @@ This repository contains the LaTeX source files for my **Master’s Thesis** and
 
 ## 📑 Table of Contents
 1. [Repository Structure](#repository-structure)  
-2. [Branch Overview](#branch-overview)  
+2. [Overview](#overview)  
 3. [Branch Details](#branch-details)  
 4. [Getting Started](#getting-started)  
 5. [Contact](#contact)  
