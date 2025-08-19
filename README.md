@@ -36,7 +36,8 @@ This project explores **cost-efficiency** and **performance** optimizations in G
 
 ```
 ## Repository Structure
-main/
+Thesis-Work/
+├── main/ 
 ├── README.md                           <-- This file
 ├── Base Model.ipynb                    <-- Demonstrates GPT-4O base model usage
 ├── Fine Tuning Code.ipynb              <-- Fine-tuning process using OpenAI API
