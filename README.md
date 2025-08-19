@@ -123,12 +123,10 @@ It lets me chat with the advisor, upload PDFs, and see responses in a clean chat
 
 Super lightweight — just open and use.
 
-git checkout Thesis-Work-Latex-Document -- "Figures Current/UI.png"
-git add "Figures Current/UI.png"
-git commit -m "Add UI.png for README"
-
 ## Preview
-![UI](./Figures%20Current/UI.png)
+![UI](https://raw.githubusercontent.com/<OWNER>/<REPO>/Thesis-Work-Latex-Document/Figures%20Current/UI.png)
+
+
 
 ## Getting Started
 
