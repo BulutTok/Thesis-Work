@@ -45,12 +45,13 @@ main/
 ├── course_index_cache.json             <-- JSON cache for course retrieval
 ├── tarining1.jsonl                     <-- Training data for fine-tuning GPT-4O
 ├── validation1.jsonl                   <-- Validation data for evaluation
-├── index.html                          <-- Simple user interface for interaction
-├──Thesis-Work-Latex-Document/
-├── Figures Current/            <-- Folder containing UI and other thesis figures
-├── Thesis.pdf                  <-- Compiled thesis PDF
-├── course_index_cache.json     <-- JSON file used in thesis-related data
-├── references_thesis.bib       <-- Bibliography file for LaTeX citations      
+├── index.html                          <-- User interface for interaction
+├
+├── Thesis-Work-Latex-Document/         <-- Contains all thesis source and output files
+│   ├── Figures Current/                <-- Folder containing UI and other thesis figures
+│   ├── Thesis.pdf                      <-- Compiled version of the full thesis
+│   ├── course_index_cache.json         <-- JSON file used in thesis-related data analysis
+│   └── references_thesis.bib           <-- Bibliography file for citations in LaTeX                      
 │
 ├── Questions-Asked/                    <-- Sample questions and evaluation material
 │   ├── Fine Tuned Model/              <-- Evaluation samples using fine-tuned model
