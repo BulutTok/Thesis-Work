@@ -122,7 +122,8 @@ It lets me chat with the advisor, upload PDFs, and see responses in a clean chat
 - Session is saved in the browser so the conversation stays.
 
 Super lightweight — just open and use.
-![UI Preview](UI.png)
+<img src="UI.png" alt="UI Preview" width="800">
+
 
 
 ## Getting Started
