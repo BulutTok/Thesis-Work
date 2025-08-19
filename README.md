@@ -107,21 +107,29 @@ Stores the data and scripts related to GPT-4O fine-tuning, typically in `.jsonl`
 
 ---
 
-### Frontend 
+## Frontend 
 This is a simple `index.html` file that works as the frontend for my Academic Advisor backend.  
 It lets me chat with the advisor, upload PDFs, and see responses in a clean chat interface.
 
-## How to use
+### How to use
 1. Start the backend API (Flask) on `http://localhost:5000`.  
    Example: `python server.py` or `flask --app server run --port 5000`
 2. Open `index.html` in a browser. That’s it.
 
-## Notes
+### Notes
 - Chat requests go to `/api/chat`  
 - PDF uploads go to `/api/upload`  
 - Session is saved in the browser so the conversation stays.
 
 Super lightweight — just open and use.
+
+git checkout Thesis-Work-Latex-Document -- "Figures Current/UI.png"
+git add "Figures Current/UI.png"
+git commit -m "Add UI.png for README"
+
+## Preview
+![UI](./Figures%20Current/UI.png)
+
 ## Getting Started
 
 ### Prerequisites
