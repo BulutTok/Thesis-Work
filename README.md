@@ -31,6 +31,9 @@ This project explores **cost-efficiency** and **performance** optimizations in G
 - **Validation and Analysis** – Notebooks or Python scripts used for testing output tokens, cost calculations, and final comparative analysis.
 
 ---
+
+## Repository Structure
+
 ```
 ## Repository Structure
 Thesis-Work/
@@ -47,7 +50,7 @@ Thesis-Work/
 ├── Thesis-Work-Latex-Document/         <-- Contains LaTeX thesis files
 │   ├── main.tex                         <-- Main thesis file (all sections)
 │   ├── figures/                         <-- Thesis figures and diagrams
-│   └── references/                      <-- Bibliography (.bib) files
+│   └── references/                      <-- Bibliography (.bib) file
 │
 ├── Questions-Asked/                    <-- Sample questions for chatbot testing
 │   └── ...                              <-- Example prompts and expected responses
