@@ -121,6 +121,8 @@ It lets me chat with the advisor, upload PDFs, and see responses in a clean chat
 - PDF uploads go to `/api/upload`  
 - Session is saved in the browser so the conversation stays.
 
+### Preview
+
 Super lightweight — just open and use.
 <img src="UI.png" alt="UI Preview" width="800">
 
