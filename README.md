@@ -13,10 +13,11 @@ This repository contains the LaTeX source files for my **Master’s Thesis** and
 ## 📑 Table of Contents
 1. [Repository Structure](#repository-structure)  
 2. [Overview](#overview)  
-3. [Branch Details](#branch-details)  
-4. [Getting Started](#getting-started)  
-5. [Contact](#contact)  
-6. [Key Results](#key-results)  
+3. [Branch Details](#branch-details)
+4. [Frontend](#frontend)
+5. [Getting Started](#getting-started)  
+6. [Contact](#contact)  
+7. [Key Results](#key-results)  
 
 
 ---
@@ -62,6 +63,8 @@ This branch includes the core Jupyter notebooks for both the **base model** and 
   - `course_index_cache.json` – Cache file used by the chatbots to retrieve course information.  
   - `tarining1.jsonl` – Domain-specific training file for fine-tuning GPT-4O.  
   - `validation1.jsonl` – Validation dataset for performance evaluation.
+  - 'index.html' - User interface
+  
 
 ### Thesis-Work-Latex-Document
 Contains the LaTeX source for the thesis, including the main `main.tex` file (which has all sections). If you split out chapters, they would also reside here:
@@ -104,6 +107,21 @@ Stores the data and scripts related to GPT-4O fine-tuning, typically in `.jsonl`
 
 ---
 
+### Frontend 
+This is a simple `index.html` file that works as the frontend for my Academic Advisor backend.  
+It lets me chat with the advisor, upload PDFs, and see responses in a clean chat interface.
+
+## How to use
+1. Start the backend API (Flask) on `http://localhost:5000`.  
+   Example: `python server.py` or `flask --app server run --port 5000`
+2. Open `index.html` in a browser. That’s it.
+
+## Notes
+- Chat requests go to `/api/chat`  
+- PDF uploads go to `/api/upload`  
+- Session is saved in the browser so the conversation stays.
+
+Super lightweight — just open and use.
 ## Getting Started
 
 ### Prerequisites
