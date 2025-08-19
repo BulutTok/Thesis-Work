@@ -36,15 +36,36 @@ This project explores **cost-efficiency** and **performance** optimizations in G
 
 A high-level look at the repository:
 
-```
 Thesis-Work/
-├── README.md                   <-- This file
-├── main.tex                    <-- Main LaTeX file with all sections of the thesis                 
-├── figures/                    <-- Figures, diagrams, images
-├── references/                 <-- .bib file(s) for bibliography
-├── scripts/                    <-- Python scripts or notebooks for data parsing, token analysis, etc.
-└── ...
-```
+├── README.md                           <-- This file
+├── Base Model.ipynb                   <-- Demonstrates GPT-4O base model usage
+├── Fine Tuning Code.ipynb            <-- Fine-tuning process using OpenAI API
+├── CatalogParsing.ipynb              <-- Parses UNCW 2025 course catalog
+├── Token_Calculations.ipynb          <-- Calculates token usage and cost estimates
+├── course_index_cache.json           <-- JSON cache for course retrieval
+├── tarining1.jsonl                    <-- Training data for fine-tuning GPT-4O
+├── validation1.jsonl                  <-- Validation data for evaluation
+├── index.html                         <-- Simple user interface for interaction
+│
+├── Thesis-Work-Latex-Document/       <-- Contains LaTeX thesis files
+│   ├── main.tex                       <-- Main thesis file (all sections)
+│   ├── figures/                       <-- Thesis figures and diagrams
+│   └── references/                    <-- Bibliography (.bib) files
+│
+├── Questions-Asked/                  <-- Sample questions for chatbot testing
+│   └── ...                           <-- Example prompts and expected responses
+│
+├── Token-Calculation-Code/           <-- Scripts for token and cost analysis
+│   └── token_calculation.ipynb       <-- Detailed cost per query analysis
+│
+├── UNCW-2025-CATALOGUE-Parsing-Code/ <-- Dedicated scripts for course parsing
+│   └── CatalogParsing.ipynb          <-- Extracts course data into structured format
+│
+└── Training-and-Validation-Files/    <-- Fine-tuning datasets
+    ├── tarining1.jsonl               <-- Training samples
+    ├── validation1.jsonl             <-- Validation samples
+    └── Fine Tuning Code.ipynb        <-- Notebook for fine-tuning GPT-4O
+
 
 
 
