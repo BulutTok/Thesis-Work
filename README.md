@@ -123,14 +123,23 @@ It lets me chat with the advisor, upload PDFs, and see responses in a clean chat
 
 Super lightweight — just open and use.
 
-git switch main
-git checkout Thesis-Work-Latex-Document -- "Figures Current/UI.png"
+## Add `UI.png` from `Thesis-Work-Latex-Document` into `main`
+
+```bash
+# 1) Make sure you have the remote branch locally
+git fetch origin Thesis-Work-Latex-Document
+
+# 2) Go to main
+git checkout main   # (use this instead of 'switch' if your Git is older)
+
+# 3) Bring the single file from the other branch (note the quotes!)
+git checkout origin/Thesis-Work-Latex-Document -- "Figures Current/UI.png"
+
+# 4) Commit it into main
 git add "Figures Current/UI.png"
 git commit -m "Add UI.png for README"
 git push
 
-## Preview
-<img src="Figures%20Current/UI.png" alt="UI preview" width="800">
 
 
 
