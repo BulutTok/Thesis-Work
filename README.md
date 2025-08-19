@@ -36,7 +36,7 @@ This project explores **cost-efficiency** and **performance** optimizations in G
 
 ```
 ## Repository Structure
-Thesis-Work/
+main/
 ├── README.md                           <-- This file
 ├── Base Model.ipynb                    <-- Demonstrates GPT-4O base model usage
 ├── Fine Tuning Code.ipynb              <-- Fine-tuning process using OpenAI API
@@ -46,15 +46,18 @@ Thesis-Work/
 ├── tarining1.jsonl                     <-- Training data for fine-tuning GPT-4O
 ├── validation1.jsonl                   <-- Validation data for evaluation
 ├── index.html                          <-- Simple user interface for interaction
+├──Thesis-Work-Latex-Document/
+├── Figures Current/            <-- Folder containing UI and other thesis figures
+├── Thesis.pdf                  <-- Compiled thesis PDF
+├── course_index_cache.json     <-- JSON file used in thesis-related data
+├── references_thesis.bib       <-- Bibliography file for LaTeX citations      
 │
-├── Thesis-Work-Latex-Document/         <-- Contains LaTeX thesis files
-│   ├── main.tex                         <-- Main thesis file (all sections)
-│   ├── figures/                         <-- Thesis figures and diagrams
-│   └── references/                      <-- Bibliography (.bib) file
-│
-├── Questions-Asked/                    <-- Sample questions for chatbot testing
-│   └── ...                              <-- Example prompts and expected responses
-│
+├── Questions-Asked/                    <-- Sample questions and evaluation material
+│   ├── Fine Tuned Model/              <-- Evaluation samples using fine-tuned model
+│   ├── Fine Tuned Model Question/     <-- Questions specifically for fine-tuned model
+│   ├── General Model/                 <-- Evaluation samples using base model
+│   ├── General Model Questions/       <-- Questions for the base model
+│   └── Identical Questions.txt        <-- Shared question set used across evaluations
 ├── Token-Calculation-Code/             <-- Scripts for token and cost analysis
 │   └── token_calculation.ipynb         <-- Detailed cost per query analysis
 │
