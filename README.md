@@ -31,7 +31,7 @@ This project explores **cost-efficiency** and **performance** optimizations in G
 - **Validation and Analysis** – Notebooks or Python scripts used for testing output tokens, cost calculations, and final comparative analysis.
 
 ---
-
+```
 ## Repository Structure
 Thesis-Work/
 ├── README.md                           <-- This file
@@ -62,7 +62,7 @@ Thesis-Work/
     ├── tarining1.jsonl                 <-- Training samples
     ├── validation1.jsonl               <-- Validation samples
     └── Fine Tuning Code.ipynb          <-- Notebook for fine-tuning GPT-4O
-
+```
 
 
 
