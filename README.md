@@ -63,7 +63,7 @@ This branch includes the core Jupyter notebooks for both the **base model** and 
   - `course_index_cache.json` – Cache file used by the chatbots to retrieve course information.  
   - `tarining1.jsonl` – Domain-specific training file for fine-tuning GPT-4O.  
   - `validation1.jsonl` – Validation dataset for performance evaluation.
-  - 'index.html' - User interface
+  - 'index.html' - User interface.
   
 
 ### Thesis-Work-Latex-Document
