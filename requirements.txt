@@ -1,0 +1,12 @@
+# Pin OpenAI to legacy ChatCompletion API used in your script
+openai==0.28.1
+
+# NLP / modeling
+transformers==4.41.2
+torch>=2.2.0
+
+# PDF, DB, web, NLP utils
+PyPDF2==3.0.1
+mysql-connector-python==9.0.0
+nltk==3.9.1
+flask==3.0.3
